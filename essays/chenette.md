@@ -54,8 +54,7 @@ Integrating jazz practices and repertoires into our teaching of motives, then, i
 
 This work is copyright ⓒ2016 Timothy Chenette and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
-Works cited
-===========
+## Works cited
 
 Baker, David. 1988. [**Jazz Improvisation: A Comprehensive Method of Study for All Players.**](https://openlibrary.org/works/OL8063451W/David_Bakers_Modern_Concepts_in_Jazz_Improvisation) Rev. ed. Van Nuys, CA: Alfred Publishing.
 
