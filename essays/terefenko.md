@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Article Title"
+title: "Fin de Siècle Harmony – A Jazz Perspective"
 author: "Dariusz Terefenko, Eastman School of Music"
 ---
 

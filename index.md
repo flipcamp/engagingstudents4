@@ -41,7 +41,7 @@ Chris Stover
 [Multi-Part Group Rhythm Exercises]({{ site.baseurl }}/essays/stuart.html)  
 Rory Stuart
 
-[Title]({{ site.baseurl }}/essays/terefenko.html)  
+[Fin de Siècle Harmony – A Jazz Perspective]({{ site.baseurl }}/essays/terefenko.html)  
 Dariusz Terefenko
 
 [On using jazz to strengthen the teaching of rhythm and meter in the music theory classroom]({{ site.baseurl }}/essays/thomas.html)  

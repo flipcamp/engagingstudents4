@@ -41,23 +41,12 @@ In the exercises that follow, students will conduct hypermetrically through four
 
 Each of the four sets of exercises involves a different combination of genre, scope, phrase structure, and rhythmic character, as summarized in the following table:
 
-  --------------------------------------------------------------------------------------------------------------------------------------
-  **Set**   **Genre**   **Scope**                              **Phraseology**                  **Rhythmic Character**
-
-                                                                                                (surface-level)
-  --------- ----------- -------------------------------------- -------------------------------- ----------------------------------------
-  1         Jazz        Passages of Trading Fours              Normative                        Highly Syncopated
-
-                                                               (surface-level and underlying)   
-
-  2         Jazz        Complete Performances                  Normative                        Syncopated (intrinsically, at minimum)
-
-                                                               (underlying)                     
-
-  3         CPE         Isolated Sections to Complete Pieces   Normative                        Syncopated
-
-  4         CPE         Opening Passages                       Non-Normative                    Unsyncopated (mostly)
-  --------------------------------------------------------------------------------------------------------------------------------------
+| Set | Genre | Scope | Phraseology | Rhythmic Character |
+| :-: | :-: | :-: | :-: | :-: |
+| 1 | Jazz | Passages of Trading Fours | Normative (surface-level and underlying) | Highly Syncopated |
+| 2 | Jazz | Complete Performances | Normative (underlying) | Syncopated (intrinsically, at minimum) |
+| 3 | CPE | Isolated Sections to Complete Pieces | Normative | Syncopated |
+| 4 | CPE | Opening Passages | Non-Normative | Unsyncopated (mostly) |
 
 \[\[Editors: please embed links to the actual exercises in each underlined heading below. (The link target will be, for example, “Exercise Set \#1.” NB: this is different than the previous plan of embedding the links into the numbers in the table.\]\]
 
@@ -87,8 +76,8 @@ Instructors have a range of options as to how to use the exercises, depending up
 
 Some options that may be used by instructors or student presenters/leaders as appropriate:
 
-- Instructors or leaders can snap their fingers to reinforce conducted beats.
-- Instructors or leaders may count out loud a higher level of hypermetric structure as it passes by. For example, “1...2...3...1...” could be spoken—one number for each four-measure hypermetric downbeat—in a twelve-measure jazz form.
+- Instructors or leaders can snap their fingers to reinforce conducted beats.  
+- Instructors or leaders may count out loud a higher level of hypermetric structure as it passes by. For example, “1...2...3...1...” could be spoken—one number for each four-measure hypermetric downbeat—in a twelve-measure jazz form.  
 - If some students do not have sufficient conducting ability, they might opt to simply count quietly to themselves, tap beats quietly on their leg or with their foot, or count hypermetrical units on their fingers. However, the exercises themselves are a good way to increase conducting ability.
 
 I have supplied a number of different examples for each exercise type, of varying degrees of complexity, in order to provide the instructor with sufficient options. The examples have been classified as “easy,” “medium,” or “difficult,” and within each category they have also been organized, as much as possible, by increasing level of difficulty.
