@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Coalescing Learning around a Coltrane Classic
+title: "Coalescing Learning around a Coltrane Classic"
 author: Shersten Johnson, University of St. Thomas
 ---
 
@@ -66,7 +66,7 @@ Students brainstorm other places to use these same types of embellishments and s
 
 The lead sheet’s written-out embellishments on the repetition of the head, notated in Figure 3, provide further explorations. Learners note, with a bit of guidance, the opening arpeggiation of the Fm7 chord, which facilitates the expansion of what had been a fairly restricted melodic ambitus into a longer descent. The question may also arise as to why only the first half of the head is embellished and it can be tested by using those rhythms and melodic figurations to suggest alterations for the second half. If time permits, the discussion can expand to other recordings like the [Live in Stockholm version (1963)](https://open.spotify.com/track/7FG6fZPYEO9CdRgt24uRq5) to survey other improvisational embellishments. Studying the end of the piece where there’s less evidence of the tune and more improvisation leads to a discussion of where the tipping point lies between variation and contrast. Doing this work—identifying an artist’s improvisations and applying them in new situations—can also prepare for later discussions of the alterations used in motivic development and theme variations. Ultimately though, it helps young musicians start to think about how they might improvise using the simple building blocks like those observed.
 
-**Figure 3.** Embellished head of “Afro Blue” (adapted from the [*simplified lead sheet*](http://www.guitarcats.com/images/JazzStandardCharts/AFRO%20BLUE-9.jpg)) 
+**Figure 3.** Embellished head of “Afro Blue” (adapted from the [*simplified lead sheet*](http://www.guitarcats.com/images/JazzStandardCharts/AFRO%20BLUE-9.jpg))
 
 <img src="{{ site.baseurl }}/images/johnson03.png" alt="image" />
 
@@ -76,7 +76,7 @@ The lead sheet’s written-out embellishments on the repetition of the head, not
 
 This work is copyright ⓒ2016 Shersten Johnson and licensed under a [Creative Commons Attribution–ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
 
-Works Cited 
+Works Cited
 =====
 
 Miner, Michael.[ ](http://www.chicagoreader.com/Bleader/archives/2014/02/04/chicagos-neil-tesser-wins-grammy)[*“Chicago’s Neil Tesser wins Grammy.”*](http://www.chicagoreader.com/Bleader/archives/2014/02/04/chicagos-neil-tesser-wins-grammy) *The Bleader*. February 4, 2014.

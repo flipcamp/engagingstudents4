@@ -17,8 +17,35 @@ Keith Waters
 
 ## Topic heading
 
-[Title]({{ site.baseurl }}/essays/authorsurname.html)  
-Author's Name
+[Transcription-Application Pedagogy: Learning Theory through Performance]({{ site.baseurl }}/essays/britton.html)  
+Ben Britton
+
+[Bringing Jazz Repertoire, Improvisation, and Active Thinking into the Study of Motives]({{ site.baseurl }}/essays/chenette.html)  
+Timothy Chenette
+
+[Coalescing Learning around a Coltrane Classic]({{ site.baseurl }}/essays/johnson.html)  
+Sherston Johnson
+
+[Rhythm Changes, Improvisation, and Chromaticism: Who Could Ask for Anything More?]({{ site.baseurl }}/essays/michaelsen.html)  
+Garrett Michaelsen
+
+[Figured Bass as "Hollowed-Out" Lead-Sheet Chord Symbols]({{ site.baseurl }}/essays/park.html)  
+Joon Park
+
+[Stable Norms and Salient Deviations: Multilayered Listening in Jazz and Common-Practice Music]({{ site.baseurl }}/essays/pellegrin.html)  
+Rich Pellegrin
+
+[Strange Changes]({{ site.baseurl }}/essays/stover.html)  
+Chris Stover
+
+[Multi-Part Group Rhythm Exercises]({{ site.baseurl }}/essays/stuart.html)  
+Rory Stuart
+
+[Title]({{ site.baseurl }}/essays/terefenko.html)  
+Dariusz Terefenko
+
+[On using jazz to strengthen the teaching of rhythm and meter in the music theory classroom]({{ site.baseurl }}/essays/thomas.html)  
+Margaret Thomas
 
 # Back matter
 

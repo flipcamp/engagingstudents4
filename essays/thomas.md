@@ -1,6 +1,6 @@
 ---
 layout: post
-title: On using jazz to strengthen the teaching of rhythm and meter in the music theory classroom
+title: "On using jazz to strengthen the teaching of rhythm and meter in the music theory classroom"
 author: Margaret Thomas, Connecticut College
 ---
 

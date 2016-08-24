@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Rhythm Changes, Improvisation, and Chromaticism: Who Could Ask for Anything More?
+title: "Rhythm Changes, Improvisation, and Chromaticism: Who Could Ask for Anything More?"
 author: Garrett Michaelsen, University of Massachusetts Lowell
 ---
 

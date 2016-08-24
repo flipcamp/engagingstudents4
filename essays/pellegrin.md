@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Stable Norms and Salient Deviations: Multilayered Listening in Jazz and Common-Practice Music
+title: "Stable Norms and Salient Deviations: Multilayered Listening in Jazz and Common-Practice Music"
 author: Rich Pellegrin, University of Missouri
 ---
 
@@ -11,7 +11,7 @@ author: Rich Pellegrin, University of Missouri
 
 ## Part I: Concept
 
-### Introduction 
+### Introduction
 
 A substantial portion of undergraduate music theory involves sensitizing students to the rhythmic, melodic, harmonic, and formal norms of tonal music, enabling them to perceive the expectations created by these norms as well as the significance of deviations from them. Many of these same norms are operative in tonal jazz as well. However, due to the formal repetitions that undergird jazz improvisations, norms and deviations are more directly juxtaposed, making this topic ideal for discussion using jazz examples. These formal repetitions create an additional layer of normativity (and concomitant expectation) in jazz, which can be pedagogically exploited to enrich the process of learning to perceive norms in music of the common-practice era (CPE).
 
@@ -43,15 +43,15 @@ Each of the four sets of exercises involves a different combination of genre, sc
 
   --------------------------------------------------------------------------------------------------------------------------------------
   **Set**   **Genre**   **Scope**                              **Phraseology**                  **Rhythmic Character**
-                                                                                                
+
                                                                                                 (surface-level)
   --------- ----------- -------------------------------------- -------------------------------- ----------------------------------------
   1         Jazz        Passages of Trading Fours              Normative                        Highly Syncopated
-                                                                                                
+
                                                                (surface-level and underlying)   
 
   2         Jazz        Complete Performances                  Normative                        Syncopated (intrinsically, at minimum)
-                                                                                                
+
                                                                (underlying)                     
 
   3         CPE         Isolated Sections to Complete Pieces   Normative                        Syncopated
@@ -260,7 +260,7 @@ As before, there are specific conducting instructions for each example. Most of 
 
 • piano drops out shortly into Coltrane’s solo
 
-#### Intermediate: 
+#### Intermediate:
 
 4\) [*Hiromi (Hiromi Uehara) – “Sicilian Blue” (*](http://open.spotify.com/track/11jkvvgmAb9wDl6QRZ0Ahf)[**Place to Be**](http://open.spotify.com/track/11jkvvgmAb9wDl6QRZ0Ahf)[*)*](http://open.spotify.com/track/11jkvvgmAb9wDl6QRZ0Ahf)
 
@@ -348,7 +348,7 @@ outside playing (playing notes outside of the mode) as each solo progresses
 
 - drums enter on the downbeat of measure 2 of the head (after piano intro)
 
-#### Difficult: 
+#### Difficult:
 
 9\) [*Chick Corea: “Steps” (*](http://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF)[**Now He Sings, Now He Sobs**](http://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF)[*)*](http://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF)
 
@@ -465,7 +465,7 @@ The instructor (or student leader/presenter) in many cases will find it helpful 
 
 [*Spotify playlist for Exercise Set \#3*](http://open.spotify.com/user/pellegrin42/playlist/6uugKVrWVNIbR0JKfqS4Nh) (hyperlinks are also embedded in each individual example)
 
-#### *Easy*: 
+#### *Easy*:
 
 1\) [*Beethoven, Piano Sonata in F minor, op. 57 (“Appassionata”) (II)*](http://open.spotify.com/track/086mjj7hFFf8Q00qX2u6tY) –variation I (1:37, p. 16,
 
@@ -648,7 +648,7 @@ Haydn, Piano Sonata in C Major, Hob. XVI, no. 35 (I), m. 8 [*Score*](http://java
 
 • 4+(5) (with elision)
 
-#### Difficult: 
+#### Difficult:
 
 12\) [*Mozart, Piano Sonata in C Major, K. 279 (II)*](http://open.spotify.com/track/3nzEQwjc4OSNJiM0BkHeKU) (p. 7) [*Score*](http://imslp.nl/imglnks/usimg/0/00/IMSLP70198-PMLP01830-KV_279.pdf)
 
@@ -699,7 +699,7 @@ Following the form in jazz requires the listener to perceive both stable norms a
 
 This work is copyright ⓒ2016 Rich Pellegrin and licensed under a [*Creative Commons Attribution-ShareAlike 3.0 Unported License*](http://creativecommons.org/licenses/by-sa/3.0/).
 
-Works Cited 
+Works Cited
 ============
 
 Caplin, William E. *Classical Form: A Theory of Formal Functions for the Instrumental Music of *

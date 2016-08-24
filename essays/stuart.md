@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Multi-Part Group Rhythm Exercises
+title: "Multi-Part Group Rhythm Exercises"
 author: Rory Stuart, New School University
 ---
 

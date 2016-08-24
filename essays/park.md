@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Figured Bass as “Hollowed-Out” Lead-Sheet Chord Symbols
+title: 'Figured Bass as "Hollowed-Out" Lead-Sheet Chord Symbols'
 author: Joon Park, University of Arkansas
 ---
 

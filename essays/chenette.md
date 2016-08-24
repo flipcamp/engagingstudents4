@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bringing Jazz Repertoire, Improvisation, and Active Thinking into the Study of Motives
+title: "Bringing Jazz Repertoire, Improvisation, and Active Thinking into the Study of Motives"
 author: Timothy Chenette, Utah State University
 ---
 

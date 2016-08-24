@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Strange Changes
+title: "Strange Changes"
 author: Chris Stover, The New School
 ---
 
@@ -121,7 +121,7 @@ The sequence that follows outlines a possible progression of activities that cou
 
 The students’ first step is to quickly analyze the harmony, focusing on goals of motion, tonal areas (such as local ii–Vs), and generally getting a sense of the harmonic landscape of the tune. I’ll refer to these aspects as *characteristic gestures* below. Their next step, then, is to select a few “anchor” points: harmonies that will serve as important goals (or beginning-points) of harmonic motion. For example, we might select the three anchor points shown in Figure 14, which in turn (1) establish measure 5 as a goal of motion (as a hypermetric downbeat), (2) express the beginning of the second phrase (with its melodic parallelism to the first phrase) as a clear move to a pre-dominant space, and (3) articulate the period’s final cadence.
 
-**Figure 14.** Three possible “anchor” points around which to imagine reharmonizations 
+**Figure 14.** Three possible “anchor” points around which to imagine reharmonizations
 
 <img src="{{ site.baseurl }}/images/stover14.png" alt="image" />
 
