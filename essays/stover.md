@@ -12,13 +12,13 @@ author: Chris Stover, The New School
 <a href="https://twitter.com/share" class="twitter-share-button" data-via="FlipCampMT">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 
-A central aspect of jazz practice is harmonic substitution, where a functionally-related chord of a different flavor displaces, or is superimposed upon, another. These substitutions can be predetermined, as in an arrangement of a jazz standard, or effected “in the heat of the moment,” as ensemble members carve alternative harmonic paths through the “changes” of the tune. Aspects of harmonic substitution, or reharmonization, are addressed *elsewhere in this issue*. In this essay I will outline a related and, I suggest, foundational practice that can be used as a model for thinking about harmonic substitution: a number of common harmonic progressions built into the structure of the tunes themselves. In other words, the very notion of carving alternative paths toward harmonic goals is already built into the structure of the songs being elaborated upon by jazz musicians. These practices relate to and extend the concept of *mode mixture*, well-known in conventional music-theoretical discourse.
+A central aspect of jazz practice is harmonic substitution, where a functionally related chord of a different flavor displaces, or is superimposed upon, another. These substitutions can be predetermined, as in an arrangement of a jazz standard, or effected “in the heat of the moment,” as ensemble members carve alternative harmonic paths through the “changes” of the tune. Aspects of harmonic substitution, or reharmonization, are addressed *elsewhere in this issue*. In this essay I will outline a related and, I suggest, foundational practice that can be used as a model for thinking about harmonic substitution: a number of common harmonic progressions built into the structure of the tunes themselves. In other words, the very notion of carving alternative paths toward harmonic goals is already built into the structure of the songs being elaborated upon by jazz musicians. These practices relate to and extend the concept of *mode mixture*, well-known in conventional music-theoretical discourse.
 
-How might music theory students use an expanded awareness of harmonic possibilities such as can be gleaned from the study of jazz standards, in order to embrace, conceptualize, and apply harmonic substitution, whether working from a prototypical harmonic progression or even from a melody with no pre-given harmonic support? First, mode mixture provides a good entry point for thinking about harmonic substitution: major/minor borrowings are commonplace in 18^th^- and 19^th^-century concert music, and are used for many of the same expressive reasons. Their pervasive use in the American Popular Songbook provides a wealth of examples for a theory instructor to draw upon and for students to engage. Second, as we shall see in Part 2 below, aspects of the way mode mixture is used and extended in jazz allow us to think about harmonic function as a process within which we can locate a number of harmonic objects that can equally fulfill some given function. For example, “dominant function” can be fulfilled by V and viio, but also by bII, bVII, and even III. This allows us to orient classroom activities toward thinking about what some musical passage is doing, and how it is doing it, rather than focusing primarily on the behavior of a specific chord in fulfilling a specific task. And third, by considering the relatively wide range of chords that emerges from these two considerations, we can imagine some creative classroom assignments where a variety of paths can be selected in order to solve some compositional problem (see Part 3).
+How might music theory students use an expanded awareness of harmonic possibilities such as can be gleaned from the study of jazz standards, in order to embrace, conceptualize, and apply harmonic substitution, whether working from a prototypical harmonic progression or even from a melody with no pre-given harmonic support? First, mode mixture provides a good entry point for thinking about harmonic substitution: major/minor borrowings are commonplace in eighteenth- and nineteenth-century concert music, and are used for many of the same expressive reasons. Their pervasive use in the American Popular Songbook provides a wealth of examples for a theory instructor to draw upon and for students to engage. Second, as we shall see in Part 2 below, aspects of the way mode mixture is used and extended in jazz allow us to think about harmonic function as a process within which we can locate a number of harmonic objects that can equally fulfill some given function. For example, “dominant function” can be fulfilled by V and viio, but also by &#9837;II, &#9837;VII, and even III. This allows us to orient classroom activities toward thinking about what some musical passage is doing, and how it is doing it, rather than focusing primarily on the behavior of a specific chord in fulfilling a specific task. And third, by considering the relatively wide range of chords that emerges from these two considerations, we can imagine some creative classroom assignments where a variety of paths can be selected in order to solve some compositional problem (see Part 3).
 
 ## Major to minor (and back)
 
-The title of this essay is a play on a famous line from Cole Porter’s “Ev’ry Time We Say Goodbye,” shown in Figure 1. When Porter wrote “But how strange the change from major to minor,” he was channeling a venerated practice of equating major and minor harmony with differently-directed emotional states. Specifically, he was reinforcing a mood shift on the part of the song’s narrator, as tender affection turns into gentle melancholy. From a musical perspective, minor is impinging on the tune’s global major key (iv displacing IV). This is a significant point: it is not that major and minor are freely coexisting, but that a primarily major-key tune is pulled in a powerful affective direction by the impingement of a harmonic entity from the parallel minor key. Note that the melody avoids any pitches that suggest either a minor or major orientation—this reinforces the possibility that, in this case, minor is gently tugging on major, rather than there being any conclusive shift from one to the other.
+The title of this essay is a play on a famous line from Cole Porter’s “Ev’ry Time We Say Goodbye,” shown in Figure 1. When Porter wrote “But how strange the change from major to minor,” he was channeling a venerated practice of equating major and minor harmony with differently directed emotional states. Specifically, he was reinforcing a mood shift on the part of the song’s narrator, as tender affection turns into gentle melancholy. From a musical perspective, minor is impinging on the tune’s global major key (iv displacing IV). This is a significant point: it is not that major and minor are freely coexisting, but that a primarily major-key tune is pulled in a powerful affective direction by the impingement of a harmonic entity from the parallel minor key. Note that the melody avoids any pitches that suggest either a minor or major orientation—this reinforces the possibility that, in this case, minor is gently tugging on major, rather than there being any conclusive shift from one to the other.
 
 **Figure 1.** “Ev’ry Time We Say Goodbye,” measures 25–28
 
@@ -30,7 +30,7 @@ Porter gives us many tunes that effect this major–minor ambiguity in different
 
 <img src="{{ site.baseurl }}/images/stover02.png" alt="image" />
 
-The lyrics are unambiguously celebratory—“‘I love you’ hums the April breeze, ‘I love you’ echoes the hills.” For students who assume that the music always expresses the text (which generally precedes the music, in 19th-century art songs for instance), the disjuncture between harmonic mode and textual meaning in “I Love You” reveals ways in which reharmonization might be invoked to stimulate new music-text relations.
+The lyrics are unambiguously celebratory—“‘I love you’ hums the April breeze, ‘I love you’ echoes the hills.” For students who assume that the music always expresses the text (which generally precedes the music, in nineteenth-century art songs for instance), the disjuncture between harmonic mode and textual meaning in “I Love You” reveals ways in which reharmonization might be invoked to stimulate new music-text relations.
 
 Figure 3 shows the beginning of the last phrase of Johnny Mercer and Johnny Mandel’s “Emily.” Here, a pre-dominant iimin7 chord in the home key of G major is transformed into iv6 (iv with an added sixth), enacting a rising gesture in the bass to V/ii, which returns to ii for the song’s final cadential statement. The move from major to minor pre-dominant harmony is intensified with the change of bass (not least by the way in which the bass rising minor third is echoed in the inner-voice rise from chordal third to chordal third, C to E&#9837;). This substitutive progression reinforces the functional relation between ii (and ii<sup>&#216;</sup>7) and IV (and iv).
 
@@ -38,17 +38,17 @@ Figure 3 shows the beginning of the last phrase of Johnny Mercer and Johnny Mand
 
 <img src="{{ site.baseurl }}/images/stover03.png" alt="image" />
 
-The arrow in this and subsequent examples should be read as “is transformed into.” While these sorts of major–minor oscillations are commonplace in 18<sup>th</sup>- and 19<sup>th</sup>-century concert music, there is a particular use to which this move is put that digresses from earlier practices, and which asks us to think carefully about the nature of harmonic motion and how certain kinds of goal-directed gestures can be imagined.
+The arrow in this and subsequent examples should be read as “is transformed into.” While these sorts of major–minor oscillations are commonplace in eighteenth- and nineteenth-century concert music, there is a particular use to which this move is put that digresses from earlier practices, and which asks us to think carefully about the nature of harmonic motion and how certain kinds of goal-directed gestures can be imagined.
 
 ## Approaching tonic—What jazz tells us
 
-Figure 4 shows the first nine measures of Victor Young and Ned Washington’s “Stella by Starlight,” one of the most-often played songs in the mainstream jazz repertoire. Its B&#9837;-major tonic is only confirmed in measure 8, and the path it takes to reach that tonic is both elliptical and revealing of an important process in jazz harmony. The V of the ii–V in measures 3–4 transforms via mode mixture to become the ii of a ii–V leading to E&#9837; major, IV. What began as a trajectory toward tonic (a home-key ii–V) is diverted to point toward a subdominant arrival. That IV chord gives way, then, to A&#9837;7: &#9837;VII, or if one prefers, IV7 of IV, prolonging IV as a temporary goal of motion with its lower fifth. The relation here to a characteristic blues harmonic motion is not insignificant. It is the next move that is most interesting for our purposes, however. The A&#9837;7 chord moves straight to B&#9837;Maj7 as a tonic-affirming cadential gesture! How can this be?
+Figure 4 shows the first nine measures of Victor Young and Ned Washington’s “Stella by Starlight,” one of the most often played songs in the mainstream jazz repertoire. Its B&#9837;-major tonic is only confirmed in measure 8, and the path it takes to reach that tonic is both elliptical and revealing of an important process in jazz harmony. The V of the ii–V in measures 3–4 transforms via mode mixture to become the ii of a ii–V leading to E&#9837; major, IV. What began as a trajectory toward tonic (a home key ii–V) is diverted to point toward a subdominant arrival. That IV chord gives way, then, to A&#9837;7: &#9837;VII, or if one prefers, IV7 of IV, prolonging IV as a temporary goal of motion with its lower fifth. The relation here to a characteristic blues harmonic motion is not insignificant. It is the next move that is most interesting for our purposes, however. The A&#9837;7 chord moves straight to B&#9837;Maj7 as a tonic-affirming cadential gesture! How can this be?
 
 **Figure 4.** “Stella By Starlight,” measures 1–9
 
 <img src="{{ site.baseurl }}/images/stover04.png" alt="image" />
 
-Figure 5 shows a very similar progression in George and Ira Gershwin’s “But Not For Me.” Here a more conventional move takes us to a subdominant-functioning IV, which is transformed via mode mixture into Bbmin7, which becomes the ii of a locally-acting ii–V. Recall that we should be on the lookout (or the hear-out) for ii–Vs, regardless of whether they eventually move on to their implied I, since ii–V is nearly always considered a single syntactic unit with internal voice-leading motion. In this case the ii–V is “in A&#9837;”, &#9837;III of the home key. But its status as ii–V “in A&#9837;” is secondary in this case to its status in F. Figure 6 extracts this schema, which is fundamental to jazz harmonic practice.
+Figure 5 shows a very similar progression in George and Ira Gershwin’s “But Not For Me.” Here a more conventional move takes us to a subdominant-functioning IV, which is transformed via mode mixture into Bbmin7, which becomes the ii of a locally acting ii–V. Recall that we should be on the lookout (or the hear-out) for ii–Vs, regardless of whether they eventually move on to their implied I, since ii–V is nearly always considered a single syntactic unit with internal voice-leading motion. In this case the ii–V is “in A&#9837;”, &#9837;III of the home key. But its status as ii–V “in A&#9837;” is secondary in this case to its status in F. Figure 6 extracts this schema, which is fundamental to jazz harmonic practice.
 
 **Figure 5.** “But Not For Me,” measures 7–11
 
@@ -56,23 +56,17 @@ Figure 5 shows a very similar progression in George and Ira Gershwin’s “But 
 
 **Figure 6.** Paradigmatic harmonic schema for &#9837;VII–I motion
 
-> … IV ⇨ iv
-
-= ii — V
-
-= bVII  I
-
 | | | | |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
-| ... IV | — | iv<br/> | | | | |
-| | | = ii | — | V | | |
-| | | | | = &#9837;VII | — | I |
+| ... IV | ⇨ | iv<br/> | | | | |
+| | | = ii | ⇨ | V | | |
+| | | | | = &#9837;VII | ⇨ | I |
 
 If this schema is taken as paradigmatic, then it is easy to see that “Stella By Starlight” simply elides the iv chord, moving straight from IV to &#9837;VII. Or, taken from a different perspective, the mediating ii–V, which we can think of as a single syntactic object with internal voice leading, is substituted by a simple V (see [Stover 2015, 172–173)](http://jjs.libraries.rutgers.edu/index.php/jjs/article/view/89).
 
 There are hundreds of songs that invoke this chord progression in exactly this way; it is one of the characteristic harmonic gestures in the repertoire of songs from the American Popular Songbook that serve as the lion’s share of jazz standards. One compelling example, which reinforces several points made thus far, is the last A section of Porter’s “I Love You”—the Gm7(&#9837;5) chord we experienced in measure 1 (see Figure 2 above) is transformed into B&#9837;min7, which becomes the ii of a ii–V moving to E&#9837;, resolving up by whole step to its F major tonic.
 
-Without understanding how this progression behaves, a student will have a difficult time comprehending, for example, the opening of John Klenner and Sam Lewis’s “Just Friends” (Figure 7). As the song unfolds, it eventually becomes clear that it begins away from its G major tonic, on a pre-dominant CMaj7 chord. This IV chord is transformed into iv (from the parallel minor key), which turns out *also* to be the ii of a ii–V, which then resolves up by whole step from bVII to I. Without knowledge of this common schema, the way in which tonic is achieved in measure 5 would be quite mysterious.
+Without understanding how this progression behaves, a student will have a difficult time comprehending, for example, the opening of John Klenner and Sam Lewis’s “Just Friends” (Figure 7). As the song unfolds, it eventually becomes clear that it begins away from its G major tonic, on a pre-dominant CMaj7 chord. This IV chord is transformed into iv (from the parallel minor key), which turns out *also* to be the ii of a ii–V, which then resolves up by whole step from &#9837;VII to I. Without knowledge of this common schema, the way in which tonic is achieved in measure 5 would be quite mysterious.
 
 **Figure 7.** “Just Friends,” measures 1–5
 
@@ -86,7 +80,7 @@ In thinking of the IV ⇨ iv ( = ii–V) to I as a kind of cadential path, we ca
 
 <img src="{{ site.baseurl }}/images/stover08.png" alt="image" />
 
-The pair of ii–Vs in measures 5 to 6 embellish (or are undergirded by) a simple two-measure ii–V leading to tonic, as the notation in Figure 8 illustrates. That is, the Amin7 to D7 of measure V can be interpreted as (1) a transformation of ii to V/V, which is (2) prolonged as a ii–V; again understanding that any ii–V can be read as a single syntactic object. Notice that the Amin7 is reached via modal transformation from the A7 chord (V/ii) that preceded it. Likewise, the A&#9837;min7 to D&#9837;7 can be said to unfold (1) a tritone substitution of &#9837;II for V, which is (2) prolonged similarly as a ii–V.
+The pair of ii–Vs in measures 5 to 6 embellish (or are undergirded by) a simple two-measure ii–V leading to tonic, as the notation in Figure 8 illustrates. That is, the Amin7 to D7 of measure V can be interpreted as 1) a transformation of ii to V/V, which is 2) prolonged as a ii–V; again understanding that any ii–V can be read as a single syntactic object. Notice that the Amin7 is reached via modal transformation from the A7 chord (V/ii) that preceded it. Likewise, the A&#9837;min7 to D&#9837;7 can be said to unfold 1) a tritone substitution of &#9837;II for V, which is 2) prolonged similarly as a ii–V.
 
 Figure 9 expresses all of this as a schematic.
 
@@ -138,7 +132,7 @@ There are other possibilities that could be explored as well, of course; for exa
 
 As Figure 12 above illustrates, one way to maintain a structurally important harmonic space is with a turnaround, the most common by far being I–vi–ii–V–I. Figure 15 shows this: the displaced I chord (the first anchor point) is approached by this common turnaround. Note that the dominant chord is expressed as V7sus to conform to the melody’s \^1. V7sus is a syntactic chord in jazz; the suspension does not require resolution as it does in some other musical contexts.
 
-**Figure 15.** Opening tonic prolonged with a I–vi–ii–V-I turnaround
+**Figure 15.** Opening tonic prolonged with a I–vi–ii–V—I turnaround
 
 <img src="{{ site.baseurl }}/images/stover15.png" alt="image" />
 
@@ -158,7 +152,7 @@ From here we can prompt the class with a challenge: how can we creatively transf
 
 The rationale for a first-inversion tonic chord in measure 5 has to do with what happens *next*. The half-cadence arrival at the end of the first eight-measure phrase (followed by a restart on pre-dominant harmony to begin the parallel phrase) is an important characteristic gesture—a non-resolving half-cadential ii–V—that we might consider leaving intact (as another anchor point?). Between the first-inversion tonic and the half-cadential ii chord an A&#9837;M7 has been inserted, &#9837;II of ii or a tritone substitution of V of ii, resulting (1) in a descending chromatic bass A–A&#9837;–G, and (2) in a second way to approach ii that is functionally related to the first (the D7 to Gm of measures 2–3) but that varies the “color” of the approaching chord. All of this is shown in Figure 17.
 
-**Figure 17.** Approaching the phrase-ending half-cadence
+**Figure 17.** Approaching the phrase-ending half cadence
 
 <img src="{{ site.baseurl }}/images/stover17.png" alt="image" />
 
