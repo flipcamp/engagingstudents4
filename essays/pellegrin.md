@@ -76,15 +76,14 @@ Instructors have a range of options as to how to use the exercises, depending up
 
 Some options that may be used by instructors or student presenters/leaders as appropriate:
 
-- Instructors or leaders can snap their fingers to reinforce conducted beats.  
-- Instructors or leaders may count out loud a higher level of hypermetric structure as it passes by. For example, “1...2...3...1...” could be spoken—one number for each four-measure hypermetric downbeat—in a twelve-measure jazz form.  
+- Instructors or leaders can snap their fingers to reinforce conducted beats.    
+- Instructors or leaders may count out loud a higher level of hypermetric structure as it passes by. For example, “1...2...3...1...” could be spoken—one number for each four-measure hypermetric downbeat—in a twelve-measure jazz form.    
 - If some students do not have sufficient conducting ability, they might opt to simply count quietly to themselves, tap beats quietly on their leg or with their foot, or count hypermetrical units on their fingers. However, the exercises themselves are a good way to increase conducting ability.
 
 I have supplied a number of different examples for each exercise type, of varying degrees of complexity, in order to provide the instructor with sufficient options. The examples have been classified as “easy,” “medium,” or “difficult,” and within each category they have also been organized, as much as possible, by increasing level of difficulty.
 
-### Exercise Set \#1:
-
-### Jazz: Trading Fours / Normative Phraseology (surface-level and underlying) / Highly Syncopated
+### Exercise Set \#1:  
+Jazz: Trading Fours / Normative Phraseology (surface-level and underlying) / Highly Syncopated
 
 Instructions / Suggestions for Use:
 
@@ -98,355 +97,220 @@ Note that the track-times listed indicate when the trading begins, though it may
 
 ### Easy:
 
-1. [Ella Fitzgerald and Duke Ellington – “It Don’t Mean a Thing (If It Ain’t Got That Swing)” (*Ella and Duke at the Côte D’Azur*)](http://open.spotify.com/track/1U60vGK1emZK7rjDeeUzdM)
-- 2:33 – vocalists and saxophone trade fours and eights in various combinations
+1\) [Ella Fitzgerald and Duke Ellington – “It Don’t Mean a Thing (If It Ain’t Got That Swing)” (*Ella and Duke at the Côte D’Azur*)](http://open.spotify.com/track/1U60vGK1emZK7rjDeeUzdM)  
+- 2:33 – vocalists and saxophone trade fours and eights in various combinations  
 - conduct in a medium 4 (hypermetric 2)
 
-2. [*Miles Davis – “Four” (*](http://open.spotify.com/track/644zdVPhE3YFFnAom35JGi)[**Workin’ with the Miles Davis Quintet**](http://open.spotify.com/track/644zdVPhE3YFFnAom35JGi)[*)*](http://open.spotify.com/track/644zdVPhE3YFFnAom35JGi)
+2\) [Miles Davis – “Four” (*Workin’ with the Miles Davis Quintet*)](http://open.spotify.com/track/644zdVPhE3YFFnAom35JGi)
 
-• 5:47 – trumpet and drums trade fours
+- 5:47 – trumpet and drums trade fours    
+- conduct in a medium 4 (hypermetric 2)
 
-• conduct in a medium 4 (hypermetric 2)
+3\) [Hank Mobley – “Split Feelin’s” (*Soul Station*)](http://open.spotify.com/track/3V3r5GlxyDjubv9TiZuw1s)
 
-3\) [*Hank Mobley – “Split Feelin’s” (*](http://open.spotify.com/track/3V3r5GlxyDjubv9TiZuw1s)[**Soul Station**](http://open.spotify.com/track/3V3r5GlxyDjubv9TiZuw1s)[*)*](http://open.spotify.com/track/3V3r5GlxyDjubv9TiZuw1s)
+- 3:31 – saxophone and drums trade fours    
+- conduct in a medium-fast 4 (hypermetric 2)
 
-• 3:31 – saxophone and drums trade fours
+4\) [Max Roach – “Ezz-Thetic” (*Max Roach Plus Four*)](http://open.spotify.com/track/4RHjxxsQx0Pptxxae2wCTZ)
 
-• conduct in a medium-fast 4 (hypermetric 2)
-
-4\) [*Max Roach – “Ezz-Thetic” (*](http://open.spotify.com/track/4RHjxxsQx0Pptxxae2wCTZ)[**Max Roach Plus Four**](http://open.spotify.com/track/4RHjxxsQx0Pptxxae2wCTZ)[*)*](http://open.spotify.com/track/4RHjxxsQx0Pptxxae2wCTZ)
-
-• 6:29 – saxophone, trumpet, and drums trade fours
-
-• conduct in a fast 4 (hypermetric 2)
+- 6:29 – saxophone, trumpet, and drums trade fours    
+- conduct in a fast 4 (hypermetric 2)
 
 #### Intermediate:
 
-5\) [*Dizzy Gillespie, Sonny Stitt, and Sonny Rollins – “Eternal Triangle” (*](http://open.spotify.com/track/74F6yjhKkRIJHZPzFnXeSm)[**Sonny Side Up**](http://open.spotify.com/track/74F6yjhKkRIJHZPzFnXeSm)[*)*](http://open.spotify.com/track/74F6yjhKkRIJHZPzFnXeSm)
+5\) [Dizzy Gillespie, Sonny Stitt, and Sonny Rollins – “Eternal Triangle” (*Sonny Side Up*)](http://open.spotify.com/track/74F6yjhKkRIJHZPzFnXeSm)
 
-• 12:44 – trumpet and drums trade fours
+- 12:44 – trumpet and drums trade fours    
+- conduct in a fast 4 (hypermetric 2)    
+- famous “tenor battle” of trading solos at 6:21, though perhaps less appropriate for our aims here
 
-• conduct in a fast 4 (hypermetric 2)
+6\) [Hank Mobley – “No Room for Squares” (*No Room for Squares*)](http://open.spotify.com/track/5FsKNbwv7BlR7crawTE3IZ)
 
-• famous “tenor battle” of trading solos at 6:21, though perhaps less appropriate for our aims
+- 5:00 – saxophone, trumpet, and drums trade fours    
+- conduct in a medium-fast 4 (hypermetric 2)
 
-here
+7\) [Buddy Rich and Max Roach – “Figure Eights” (*Rich versus Roach*)](http://open.spotify.com/track/23EssvWYUPdrxyFpwDQkt0)
 
-6\) [*Hank Mobley – “No Room for Squares” (*](http://open.spotify.com/track/5FsKNbwv7BlR7crawTE3IZ)[**No Room for Squares**](http://open.spotify.com/track/5FsKNbwv7BlR7crawTE3IZ)[*)*](http://open.spotify.com/track/5FsKNbwv7BlR7crawTE3IZ)
+- drummers Rich and Roach trade eights for entire track    
+- conduct in a medium 4 (hypermetric 4)    
+- structure begins to breakdown at 3:38, when two beats appear to be added between solos
 
-• 5:00 – saxophone, trumpet, and drums trade fours
+8\) [Oscar Peterson and Clark Terry – “Shaw ‘Nuff” (*Oscar Peterson and Clark Terry*)](http://open.spotify.com/track/5bKgHCmdsGNLBLV64i5xDS)
 
-• conduct in a medium-fast 4 (hypermetric 2)
-
-7\) [*Buddy Rich and Max Roach – “Figure Eights” (*](http://open.spotify.com/track/23EssvWYUPdrxyFpwDQkt0)[**Rich versus Roach**](http://open.spotify.com/track/23EssvWYUPdrxyFpwDQkt0)[*)*](http://open.spotify.com/track/23EssvWYUPdrxyFpwDQkt0)
-
-• drummers Rich and Roach trade eights for entire track
-
-• conduct in a medium 4 (hypermetric 4)
-
-• structure begins to breakdown at 3:38, when two beats appear to be added between solos
-
-8\) [*Oscar Peterson and Clark Terry – “Shaw ‘Nuff” (*](http://open.spotify.com/track/5bKgHCmdsGNLBLV64i5xDS)[**Oscar Peterson and Clark Terry**](http://open.spotify.com/track/5bKgHCmdsGNLBLV64i5xDS)[*)*](http://open.spotify.com/track/5bKgHCmdsGNLBLV64i5xDS)
-
-• 2:36 – trumpet and piano trade eights with no accompaniment (duo album)
-
-• conduct in a very fast 4 (hypermetric 2)
-
-• Part of the humor and drama of this trading eights section is the dialog the musicians have
-
-around tempo: Peterson pushes and Terry pulls back (sometimes in extreme fashion!); one
-
-must adapt to these fluctuations in conducting through the passage.
+- 2:36 – trumpet and piano trade eights with no accompaniment (duo album)    
+- conduct in a very fast 4 (hypermetric 2)    
+- Part of the humor and drama of this trading eights section is the dialog the musicians have around tempo: Peterson pushes and Terry pulls back (sometimes in extreme fashion!); one must adapt to these fluctuations in conducting through the passage.
 
 #### Difficult:
 
-9\) [*Snarky Puppy – “Lingus” (*](http://open.spotify.com/track/5P6vo51dtkBYWXswH1twvK)[**We Like it Here**](http://open.spotify.com/track/5P6vo51dtkBYWXswH1twvK)[*)*](http://open.spotify.com/track/5P6vo51dtkBYWXswH1twvK)
+9\) [Snarky Puppy – “Lingus” (*We Like it Here*)](http://open.spotify.com/track/5P6vo51dtkBYWXswH1twvK)
 
-• 8:12 – synthesizer and ensemble trade eights and then fours
+- 8:12 – synthesizer and ensemble trade eights and then fours  
+- conduct in a fast 4 (hypermetric 1, according to transcription below)  
+- a transcription of the synthesizer solo and bass pattern by Yehezkel Raz can be downloaded [*here*](https://www.youtube.com/watch?v=sCwSqqOdFM0), and may be a useful tool  
+- note the extended pickup (one and a half measures) keyboardist Cory Henry plays leading into his penultimate four-measure solo—the trading fours structure is unaffected by this  
+- viral video of the live-audience studio recording [*here*](https://www.youtube.com/watch?v=L_XJ_s5IsQc) (Cory Henry solo begins at 4:17)
 
-• conduct in a fast 4 (hypermetric 1, according to transcription below)
+10\) [Brad Mehldau – “It Might as Well Be Spring” (*Introducing Brad Mehldau*)](http://open.spotify.com/track/52Dc7McQggkg5fWZWkkpUz)
 
-• a transcription of the synthesizer solo and bass pattern by Yehezkel Raz can be downloaded
+- 4:36 – piano and drums trade fours, in 7/4  
+- one measure of 7/4 is equivalent to one measure of the original tune  
+- conduct in a medium-fast 4: eighth subdivision = 4+4+3+3 (hypermetric 1)  
+- technically the 7/4 is 4/4 + 3/4—with the 3/4 felt in 2, as in a jazz waltz—but for these pedagogical purposes it is simplest to think of 4+4+3+3  
+- peformance begins 2+2+3 / 2+2+3 but later settles into 4+4 / 3+3
 
-[*here*](https://www.youtube.com/watch?v=sCwSqqOdFM0), and may be a useful tool
+11\) [Bill Evans – “T.T.T. (Twelve Tone Tune)” (*Blue in Green: The Concert in Canada*)](http://open.spotify.com/track/3Da9xKBgB9zEU0y1nGALtv)
 
-• note the extended pickup (one and a half measures) keyboardist Cory Henry plays leading into
+- 0:34 – (beginning of solo section): drums, bass, and piano trade choruses (twelves), each unaccompanied  
+- conduct in a medium-fast 4 (hypermetric 2)
 
-his penultimate four-measure solo—the trading fours structure is unaffected by this
-
-• viral video of the live-audience studio recording [*here*](https://www.youtube.com/watch?v=L_XJ_s5IsQc)[ ](https://www.youtube.com/watch?v=L_XJ_s5IsQc)[(](https://www.youtube.com/watch?v=L_XJ_s5IsQc)[Cory Henry](https://www.youtube.com/watch?v=L_XJ_s5IsQc)[ solo begins at 4:17)](https://www.youtube.com/watch?v=L_XJ_s5IsQc)
-
-[](https://www.youtube.com/watch?v=L_XJ_s5IsQc)
-
-10\) [*Brad Mehldau – “It Might as Well Be Spring” (*](http://open.spotify.com/track/52Dc7McQggkg5fWZWkkpUz)[**Introducing Brad Mehldau**](http://open.spotify.com/track/52Dc7McQggkg5fWZWkkpUz)[*)*](http://open.spotify.com/track/52Dc7McQggkg5fWZWkkpUz)
-
-• 4:36 – piano and drums trade fours, in 7/4
-
-• one measure of 7/4 is equivalent to one measure of the original tune
-
-• conduct in a medium-fast 4: eighth subdivision = 4+4+3+3 (hypermetric 1)
-
-- technically the 7/4 is 4/4 + 3/4—with the 3/4 felt in 2, as in a jazz waltz—but for these
-
-pedagogical purposes it is simplest to think of 4+4+3+3
-
-• peformance begins 2+2+3 / 2+2+3 but later settles into 4+4 / 3+3
-
-11\) [*Bill Evans – “T.T.T. (Twelve Tone Tune)” (*](http://open.spotify.com/track/3Da9xKBgB9zEU0y1nGALtv)[**Blue in Green: The Concert in Canada**](http://open.spotify.com/track/3Da9xKBgB9zEU0y1nGALtv)[*)*](http://open.spotify.com/track/3Da9xKBgB9zEU0y1nGALtv)
-
-• 0:34 – (beginning of solo section): drums, bass, and piano trade choruses (twelves), each
-
-unaccompanied
-
-• conduct in a medium-fast 4 (hypermetric 2)
-
-Exercise Set \#2:
------------------
-
-### Jazz: Complete Performances / Normative Underlying Phraseology / Syncopated
+### Exercise Set \#2:  
+Jazz: Complete Performances / Normative Underlying Phraseology / Syncopated
 
 Instructions / Suggestions for Use:
 
 As before, there are specific conducting instructions for each example. Most of the examples are well-known, and therefore this exercise set also serves as an introduction to some canonical jazz literature. Below are various options that the instructor or student leader/presenter may wish to consider.
 
-• The instructor or leader may choose to call out formal sections (“A,” “B,” etc.) as they occur.
+The instructor or leader may choose to call out formal sections (“A,” “B,” etc.) as they occur.
 
-• The instructor or leader may choose to indicate the beginning of each chorus as it occurs, visually and/or verbally.
+The instructor or leader may choose to indicate the beginning of each chorus as it occurs, visually and/or verbally.
 
-• An alternative to hypermetric conducting would be to project a lead sheet of the composition and point to the chord changes or measures as they go by.
+An alternative to hypermetric conducting would be to project a lead sheet of the composition and point to the chord changes or measures as they go by.
 
-• Another option is to project a transcription of the performance or assign it for study. However, note that while it can be revealing to study transcriptions, their quality varies greatly, and even an excellent transcription constitutes only a guide to listening, as it is not equivalent to a score. When available, information on suitable transcriptions has been provided below. (Full citations may be found in the bibliography.) Note that piano chords tend to be the least reliable element of transcriptions. (Students could potentially take part in transcription activities themselves, but be aware that transcription work is often more time-consuming than anticipated, particularly for those who are new to it.)
+Another option is to project a transcription of the performance or assign it for study. However, note that while it can be revealing to study transcriptions, their quality varies greatly, and even an excellent transcription constitutes only a guide to listening, as it is not equivalent to a score. When available, information on suitable transcriptions has been provided below. (Full citations may be found in the bibliography.) Note that piano chords tend to be the least reliable element of transcriptions. (Students could potentially take part in transcription activities themselves, but be aware that transcription work is often more time-consuming than anticipated, particularly for those who are new to it.)
 
-• Yet another alternative is to play the chord roots on the piano as they occur (in the form), thus clarifying the stable harmonic (and rhythmic) underpinnings provided by the form. This is effective because roots are frequently deemphasized in jazz, even by bassists. Furthermore, even when roots are clearly present, the chord changes during solos are essentially presented contrapuntally—the soloist’s eighth notes and the bassist’s quarter notes create 2:1 counterpoint. (Comping chords are not always present, or may be sparse, ambiguous, complex, or themselves presented linearly.) Playing roots on the piano in effect analyzes the surface, the aural equivalent of stemming noteheads or providing Roman numerals. The difficulties of hearing the chord changes in jazz are similar to the difficulties of performing a harmonic analysis of a two-voice contrapuntal piece. A chief difference is that in jazz, the “analysis” more or less already exists in the form of lead sheets.
+Yet another alternative is to play the chord roots on the piano as they occur (in the form), thus clarifying the stable harmonic (and rhythmic) underpinnings provided by the form. This is effective because roots are frequently deemphasized in jazz, even by bassists. Furthermore, even when roots are clearly present, the chord changes during solos are essentially presented contrapuntally—the soloist’s eighth notes and the bassist’s quarter notes create 2:1 counterpoint. (Comping chords are not always present, or may be sparse, ambiguous, complex, or themselves presented linearly.) Playing roots on the piano in effect analyzes the surface, the aural equivalent of stemming noteheads or providing Roman numerals. The difficulties of hearing the chord changes in jazz are similar to the difficulties of performing a harmonic analysis of a two-voice contrapuntal piece. A chief difference is that in jazz, the “analysis” more or less already exists in the form of lead sheets.
 
 [*Spotify playlist for Exercise Set \#2*](http://open.spotify.com/user/pellegrin42/playlist/3rGEt8MZIF4Gr8oCe4Q318) (hyperlinks are also embedded in each individual example)
 
 #### Easy:
 
-1\) [*Charlie Parker – “Scrapple From the Apple” (from *](http://open.spotify.com/track/7flQESHoCoDzirWF4IkKGq)[**Jazz Masters**](http://open.spotify.com/track/7flQESHoCoDzirWF4IkKGq)[ *compilation)*](http://open.spotify.com/track/7flQESHoCoDzirWF4IkKGq)
+1\) [Charlie Parker – “Scrapple From the Apple” (from *Jazz Masters* compilation)](http://open.spotify.com/track/7flQESHoCoDzirWF4IkKGq)
 
-• conduct in a medium 4 (hypermetric 2)
+- conduct in a medium 4 (hypermetric 2)  
+- 32-measure AABA form (chord changes based on “I Got Rhythm”)
 
-• 32-measure AABA form (chord changes based on “I Got Rhythm”)
+2\) [*Miles Davis – “All Blues” (*Kind of Blue*)](http://open.spotify.com/track/0TUa7gBg7LJH6B8dkNVioU)
 
-2\) [*Miles Davis – “All Blues” (*](http://open.spotify.com/track/0TUa7gBg7LJH6B8dkNVioU)[**Kind of Blue**](http://open.spotify.com/track/0TUa7gBg7LJH6B8dkNVioU)[*)*](http://open.spotify.com/track/0TUa7gBg7LJH6B8dkNVioU)
+- conduct in a slow 4 (hypermetric 2)  
+- 12-measure form  
+- 8-measure intro (vamp)  
+- head/form starts when trumpet enters  
+- full transcription of the album is available from Hal Leonard
 
-• conduct in a slow 4 (hypermetric 2)
+3\) [Thelonious Monk and John Coltrane – “Nutty” (*Thelonious Monk with John Coltrane*)](http://open.spotify.com/track/0sWqnxofErf7mk8VKgbrXw)
 
-• 12-measure form
-
-• 8-measure intro (vamp)
-
-- head/form starts when trumpet enters
-
-• full transcription of the album is available from Hal Leonard
-
-3\) [*Thelonious Monk and John Coltrane – “Nutty” (*](http://open.spotify.com/track/0sWqnxofErf7mk8VKgbrXw)[**Thelonious Monk with John Coltrane**](http://open.spotify.com/track/0sWqnxofErf7mk8VKgbrXw)[*)*](http://open.spotify.com/track/0sWqnxofErf7mk8VKgbrXw)
-
-• conduct in a medium-slow 4 (hypermetric 2)
-
-• 32-measure AABA form
-
-• piano drops out shortly into Coltrane’s solo
+- conduct in a medium-slow 4 (hypermetric 2)  
+- 32-measure AABA form  
+- piano drops out shortly into Coltrane’s solo
 
 #### Intermediate:
 
-4\) [*Hiromi (Hiromi Uehara) – “Sicilian Blue” (*](http://open.spotify.com/track/11jkvvgmAb9wDl6QRZ0Ahf)[**Place to Be**](http://open.spotify.com/track/11jkvvgmAb9wDl6QRZ0Ahf)[*)*](http://open.spotify.com/track/11jkvvgmAb9wDl6QRZ0Ahf)
+4\) [Hiromi (Hiromi Uehara) – “Sicilian Blue” (*Place to Be*)](http://open.spotify.com/track/11jkvvgmAb9wDl6QRZ0Ahf)
 
-• one introductory chorus played freely, followed by vamp/intro, then head
+- one introductory chorus played freely, followed by vamp/intro, then head  
+- conduct in a medium-slow 4 (hypermetric 2)  
+- but must adjust at the end of each chorus due to 7-measure phrase  
+- AABA form (8+8+14+7)  
+- 14-measure bridge divided 8+6  
+- additional points of contact with CPE examples (sets 3 and 4)  
+- type of syncopation used in the vamp/intro/outro and bridge  
+- greater use of true rubato  
+- an irregular phrase length produced by elision at the end of the form (end of bridge also irregular)  
+- transcription of the head by A-len Yue available [*here*](https://imgv2-2-f.scribdassets.com/img/document/208166360/original/c4ab323d57/1455814456)  
+- a simpler option is to conduct in 2 throughout (hypermetric 1)
 
-• conduct in a medium-slow 4 (hypermetric 2)
+5\) [Wynton Kelly Trio with Wes Montgomery – “Impressions” (*Smokin’ at the Half Note*)](http://open.spotify.com/track/4fTQabajAjSZfEZkfGmGRi)
 
-- but must adjust at the end of each chorus due to 7-measure phrase
+- conduct in a fast 4 (hypermetric 2)  
+- 32-measure form (AABA)
 
-• AABA form (8+8+14+7)
+6\) [John Coltrane – “Countdown” (*Giant Steps*)](http://open.spotify.com/track/0m9kjCcQ6jSGBNuTAr0d0i)
 
-- 14-measure bridge divided 8+6
+- conduct in a very fast 4 (hypermetric 2)  
+- 32-measure form (AA)  
+- order of events (form gets *easier* to hear as performance progresses):  
+- 1 chorus of drum solo, plus 4 extra measures  
+- saxophone solo enters on downbeat of new chorus  
+- piano and bass do not enter until later  
+- head is only presented at the end  
+- saxophone transcription is available from Hal Leonard
 
-• additional points of contact with CPE examples (sets 3 and 4)
+7\) [John Coltrane – “Resolution” (*A Love Supreme*)](http://open.spotify.com/track/12drI98LeZfgwwpdVws9Zi)
 
-- type of syncopation used in the vamp/intro/outro and bridge
+- solo bass introduction (head starts at 0:21)  
+- conduct in a medium 4 (hypermetric 2)  
+- for this example, simply keep track of the 8-measure hypermetric units (4 conducted measures) and do not be concerned with the larger formal structure  
+- the low fifths in the piano often occur on the downbeats of these 8-measure hypermetric downbeats  
+- during the solos, the chord changes of the head are not followed  
+- rather, a modal approach is taken, based on E-flat Aeolian, with increasing amounts of outside playing (playing notes outside of the mode) as each solo progresses  
+- saxophone transcription of the album is available from Hal Leonard
 
-- greater use of true rubato
+8\) [*Thelonious Monk: “Evidence” (*Thelonious Monk Quartet with John Coltrane at Carnegie Hall*)](http://open.spotify.com/track/27AXwsIBdtxLB0YEXptH1r)
 
-- an irregular phrase length produced by elision at the end of the form (end of bridge also
-
-irregular)
-
-• transcription of the head by A-len Yue available [*here*](https://imgv2-2-f.scribdassets.com/img/document/208166360/original/c4ab323d57/1455814456)
-
-• a simpler option is to conduct in 2 throughout (hypermetric 1)
-
-5\) [*Wynton Kelly Trio with Wes Montgomery – “Impressions” (*](http://open.spotify.com/track/4fTQabajAjSZfEZkfGmGRi)[**Smokin’ at the Half Note**](http://open.spotify.com/track/4fTQabajAjSZfEZkfGmGRi)[*)*](http://open.spotify.com/track/4fTQabajAjSZfEZkfGmGRi)
-
-• conduct in a fast 4 (hypermetric 2)
-
-• 32-measure form (AABA)
-
-6\) [*John Coltrane – “Countdown” (*](http://open.spotify.com/track/0m9kjCcQ6jSGBNuTAr0d0i)[**Giant Steps**](http://open.spotify.com/track/0m9kjCcQ6jSGBNuTAr0d0i)[*)*](http://open.spotify.com/track/0m9kjCcQ6jSGBNuTAr0d0i)
-
-• conduct in a very fast 4 (hypermetric 2)
-
-• 32-measure form (AA)
-
-• order of events (form gets *easier* to hear as performance progresses):
-
-- 1 chorus of drum solo, plus 4 extra measures
-
-- saxophone solo enters on downbeat of new chorus
-
-- piano and bass do not enter until later
-
-- head is only presented at the end
-
-• saxophone transcription is available from Hal Leonard
-
-7\) [*John Coltrane – “Resolution” (*](http://open.spotify.com/track/12drI98LeZfgwwpdVws9Zi)[**A Love Supreme**](http://open.spotify.com/track/12drI98LeZfgwwpdVws9Zi)[*)*](http://open.spotify.com/track/12drI98LeZfgwwpdVws9Zi)
-
-• solo bass introduction (head starts at 0:21)
-
-• conduct in a medium 4 (hypermetric 2)
-
-• for this example, simply keep track of the 8-measure hypermetric units (4 conducted
-
-measures) and do not be concerned with the larger formal structure
-
-- the low fifths in the piano often occur on the downbeats of these 8-measure hypermetric
-
-downbeats
-
-• during the solos, the chord changes of the head are not followed
-
-- rather, a modal approach is taken, based on E-flat Aeolian, with increasing amounts of
-
-outside playing (playing notes outside of the mode) as each solo progresses
-
-• saxophone transcription of the album is available from Hal Leonard
-
-8\) [*Thelonious Monk: “Evidence” (*](http://open.spotify.com/track/27AXwsIBdtxLB0YEXptH1r)[**Thelonious Monk Quartet with John Coltrane at Carnegie Hall**](http://open.spotify.com/track/27AXwsIBdtxLB0YEXptH1r)[*)*](http://open.spotify.com/track/27AXwsIBdtxLB0YEXptH1r)
-
-• conduct in a medium 4 (hypermetric 2)
-
-• 32-measure AABA form
-
-• highly syncopated theme
-
-- consult[ ](http://2.bp.blogspot.com/-SsC5TsNP_Q8/UBv-xMCq1FI/AAAAAAAAAWM/Rpz9GRtmWgQ/s1600/Evidence.png)[*lead sheet*](http://2.bp.blogspot.com/-SsC5TsNP_Q8/UBv-xMCq1FI/AAAAAAAAAWM/Rpz9GRtmWgQ/s1600/Evidence.png) for assistance (also available from Hal Leonard in *Thelonious Monk Fake *
-
-*Book*)
-
+- conduct in a medium 4 (hypermetric 2)  
+- 32-measure AABA form  
+- highly syncopated theme  
+- consult [*lead sheet*](http://2.bp.blogspot.com/-SsC5TsNP_Q8/UBv-xMCq1FI/AAAAAAAAAWM/Rpz9GRtmWgQ/s1600/Evidence.png) for assistance (also available from Hal Leonard in *Thelonious Monk Fake Book*)  
 - drums enter on the downbeat of measure 2 of the head (after piano intro)
 
 #### Difficult:
 
-9\) [*Chick Corea: “Steps” (*](http://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF)[**Now He Sings, Now He Sobs**](http://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF)[*)*](http://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF)
+9\) [*Chick Corea: “Steps” (*Now He Sings, Now He Sobs*)](http://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF)
 
-• solo piano introduction (free) (head starts at 0:47)
+- solo piano introduction (free) (head starts at 0:47)  
+- conduct in a very fast 4 (hypermetric 2)  
+- for an added challenge, conduct in a medium-slow 4 (hypermetric 4) (this will conflict with the melodic structure of the head, but works during the solo section)  
+- 12-measure form  
+- head: minor blues chord changes (4+4+4), but melodic structure is 6+6  
+- solo section is generally felt 4+4+4  
+- the beginning of the second chorus of piano solo is clearly marked with the snare drum, and the beginning of the third chorus is clearly marked with the bass drum  
+- “Steps” essentially ends at 5:04, where an extended drum solo begins that segues into another composition, “What Was”  
+- piano transcription of the album is available from Schott
 
-• conduct in a very fast 4 (hypermetric 2)
+10\) [*Brad Mehldau: “All the Things You Are” (*The Art of the Trio, Volume 4: Back at the Vanguard*)](http://open.spotify.com/track/77kiZTOELj5lsOanRu8vBV)
 
-- for an added challenge, conduct in a medium-slow 4 (hypermetric 4) (this will conflict with
+- 4-chorus piano introduction, head at 2:08  
+- conduct in a medium-fast 4 (hypermetric 2)  
+- in 7 (4/4 + 3/4), as with the previous Mehldau example  
+- except here 1 measure of 7 is equivalent to 2 measures of the original tune  
+- eighth subdivision = 4+4+3+3  
+- this is most consistently articulated by the bass  
+- AABA with 12 measures in last A section (36-measure form)  
+- one could also conduct this in a medium 3 (hypermetric 2), feeling a 2+2+3 quarter-note subdivision of the meter (this is harder in that the conducting is slower, but is easier when the bass walks quarter notes rather than articulating the 4+4+3+3 eighth-note subdivision)  
+- transcription of piano solo by Tom Hewson available [*here*](https://tomhewson.files.wordpress.com/2013/12/allthethings.pdf)
 
-the melodic structure of the head, but works during the solo section)
+11\) [*Robert Glasper: “G&B” (*In My Element*)](http://open.spotify.com/track/5P22GrIprYmnFZoR3P6142)
 
-• 12-measure form
+- AAB 48-measure form (16+16+16), mixed meter  
+- head is played twice in the beginning and once at the end, preceded each time by a 16-measure vamp that closely resembles the A section (overall form is shown below)  
+- listening to the bass is helpful in following the form in this example  
+- conduct in a gently lilting 4 throughout (hypermetric 4)  
+- conduct A sections in a medium-slow 4 (4+5+5+4) (hypermetric 4)  
+- conduct B sections in a medium 4 (4+3+4+3) (hypermetric 4)  
+- overall form of performance:
 
-- head: minor blues chord changes (4+4+4), but melodic structure is 6+6
-
-- solo section is generally felt 4+4+4
-
-• the beginning of the second chorus of piano solo is clearly marked with the snare drum, and
-
-the beginning of the third chorus is clearly marked with the bass drum
-
-• “Steps” essentially ends at 5:04, where an extended drum solo begins that segues into another
-
-composition, “What Was”
-
-• piano transcription of the album is available from Schott
-
-10\) [*Brad Mehldau: “All the Things You Are” (*](http://open.spotify.com/track/77kiZTOELj5lsOanRu8vBV)[**The Art of the Trio, Volume 4: Back at the Vanguard**](http://open.spotify.com/track/77kiZTOELj5lsOanRu8vBV)[*)*](http://open.spotify.com/track/77kiZTOELj5lsOanRu8vBV)
-
-• 4-chorus piano introduction, head at 2:08
-
-• conduct in a medium-fast 4 (hypermetric 2)
-
-• in 7 (4/4 + 3/4), as with the previous Mehldau example
-
-- except here 1 measure of 7 is equivalent to 2 measures of the original tune
-
-• eighth subdivision = 4+4+3+3
-
-- this is most consistently articulated by the bass
-
-• AABA with 12 measures in last A section (36-measure form)
-
-• one could also conduct this in a medium 3 (hypermetric 2), feeling a 2+2+3 quarter-note
-
-subdivision of the meter (this is harder in that the conducting is slower, but is easier when the
-
-bass walks quarter notes rather than articulating the 4+4+3+3 eighth-note subdivision)
-
-• transcription of piano solo by Tom Hewson available [*here*](https://tomhewson.files.wordpress.com/2013/12/allthethings.pdf)
-
-11\) [*Robert Glasper: “G&B” (*](http://open.spotify.com/track/5P22GrIprYmnFZoR3P6142)[**In My Element**](http://open.spotify.com/track/5P22GrIprYmnFZoR3P6142)[*)*](http://open.spotify.com/track/5P22GrIprYmnFZoR3P6142)
-
-• AAB 48-measure form (16+16+16), mixed meter
-
-- head is played twice in the beginning and once at the end, preceded each time by a
-
-16-measure vamp that closely resembles the A section (overall form is shown below)
-
-• listening to the bass is helpful in following the form in this example
-
-• conduct in a gently lilting 4 throughout (hypermetric 4)
-
-- conduct A sections in a medium-slow 4 (4+5+5+4) (hypermetric 4)
-
-- conduct B sections in a medium 4 (4+3+4+3) (hypermetric 4)
-
-• overall form of performance:
-
-vamp
-
-head (AAB)
-
-vamp
-
-head (AAB)
-
-piano solo over AAB form (begins with two unaccompanied A sections)
-
-vamp
-
-outhead (AAB)
-
+> vamp  
+head (AAB)  
+vamp  
+head (AAB)  
+piano solo over AAB form (begins with two unaccompanied A sections)  
+vamp  
+outhead (AAB)  
 outro
 
-• supplementary metric explanation (not necessary to successfully perform exercise):
+- supplementary metric explanation (not necessary to successfully perform exercise):  
+- A sections are in 9: (4/4 + 5/4) / (5/4 + 4/4)  
+- 8th subdivision: 4+4+3+7 / 3+7+4+4  
+- quarter subdivision: 4+5 / 5+4  
+- B sections are in 7: 4/4 + 3/4  
+- same 7/4 groove as in the Mehldau example  
+- 8th subdivision: 4+4+3+3  
+- quarter subdivision: 4+3  
+- an option is to conduct in a very fast 4 throughout (hypermetric 2), following the 8th-note subdivisions shown
 
-- A sections are in 9: (4/4 + 5/4) / (5/4 + 4/4)
-
-- 8th subdivision: 4+4+3+7 / 3+7+4+4
-
-- quarter subdivision: 4+5 / 5+4
-
-- B sections are in 7: 4/4 + 3/4
-
-- same 7/4 groove as in the Mehldau example
-
-- 8th subdivision: 4+4+3+3
-
-- quarter subdivision: 4+3
-
-- an option is to conduct in a very fast 4 throughout (hypermetric 2), following the 8th-note
-
-subdivisions shown
-
-Exercise Set \#3:
------------------
-
-### CPE: Normative Phraseology / Syncopated
+### Exercise Set \#3:  
+CPE: Normative Phraseology / Syncopated
 
 Instructions / Suggestions for Use:
 
@@ -460,65 +324,52 @@ The instructor (or student leader/presenter) in many cases will find it helpful 
 
 m\. 17) [*Score*](http://imslp.nl/imglnks/usimg/e/ed/IMSLP00023-Beethoven__L.v._-_Piano_Sonata_23.pdf)
 
-• conduct in 4, 2 beats per measure (hypermetric 2)
+- conduct in 4, 2 beats per measure (hypermetric 2)
 
 2\) [*Mendelssohn, String Quartet E minor, op. 44, no. 2 (I)*](http://open.spotify.com/track/3WHd2WkLIXhfesFpnD2GpU) – opening theme [*Score*](http://javanese.imslp.info/files/imglnks/usimg/7/73/IMSLP10974-Mendelssohn_-_String_Quartet_No._4.pdf)
 
-• conduct in 4, 2 beats per measure (hypermetric 2)
+- conduct in 4, 2 beats per measure (hypermetric 2)
 
 3\) [*Schumann, String Quartet in A Major, op. 41, no. 3 (I)*](http://open.spotify.com/track/2gGS6UAqWr9D8oT0tGIxFc) – second theme (1:24, m. 46) [*Score*](http://ks.imslp.info/files/imglnks/usimg/e/e4/IMSLP05669-Schumann_quartet41_3_score.pdf)
 
-• conduct in 4, 1 beat per measure (hypermetric 4)
+- conduct in 4, 1 beat per measure (hypermetric 4)
 
 4\) [*Mozart, Piano Sonata in C minor, K. 457 (III)*](http://open.spotify.com/track/5heSdMj2Ech1lEsh33UXeP) – opening theme (p. 12) [*Score*](http://petrucci.mus.auth.gr/imglnks/usimg/e/e8/IMSLP70212-PMLP01852-KV_457.pdf)
 
-• conduct in 4, 1 beat per measure (hypermetric 4)
+- conduct in 4, 1 beat per measure (hypermetric 4)
 
 5\) [*Brahms, Intermezzo in A Major, op. 76, no. 6*](http://open.spotify.com/track/0gRXdKDoRbSBWCpQQ3lnEO) – A section [*Score*](http://javanese.imslp.info/files/imglnks/usimg/7/71/IMSLP02511-Brahms_-_Intermezzo__A_Major__Op.76_No.6.pdf)
 
-• conduct in 4, 2 beats per measure (hypermetric 2)
-
-• rubato and extensive use of polyrhythm
+- conduct in 4, 2 beats per measure (hypermetric 2)  
+- rubato and extensive use of polyrhythm
 
 #### Intermediate:
 
 6\) [*Brahms, Quartet in C minor, op. 51, no. 1 (II)*](http://open.spotify.com/track/2TeNTe71wFgY6QJwxGpOq3) – B section (2:14, p. 16, rehearsal E (m. 29)) [*Score*](http://javanese.imslp.info/files/imglnks/usimg/0/04/IMSLP218082-SIBLEY1802.15421.3bf8-39087009278898score.pdf)
 
-• conduct in 3, 3 beats per measure (hypermetric 1, due to tempo)
-
-- could conduct larger downbeats every other measure to reinforce hypermetric regularity
-
-• also possible to conduct in a very slow, subdivided 2, 1 beat per measure (hypermetric 2)
-
-• note the use of polyrhythm
+- conduct in 3, 3 beats per measure (hypermetric 1, due to tempo)  
+- could conduct larger downbeats every other measure to reinforce hypermetric regularity  
+- also possible to conduct in a very slow, subdivided 2, 1 beat per measure (hypermetric 2)  
+- note the use of polyrhythm
 
 7\) [*Schubert, String Quintet in C Major, D. 956 (II)*](http://open.spotify.com/track/3SGf5oDjdYXRyTd1bVgP3B) – B section (4:47, p. 20, m. 29) [*Score*](http://petrucci.mus.auth.gr/imglnks/usimg/5/5e/IMSLP35019-PMLP06343-Schubert_String_Quintet.pdf)
 
-• conduct in 4, 4 beats per measure (hypermetric 1, due to expansiveness of meter)
-
-• simply conducting the meter is sufficient for this exercise (actual phrase structure or
+- conduct in 4, 4 beats per measure (hypermetric 1, due to expansiveness of meter)  
+- simply conducting the meter is sufficient for this exercise (actual phrase structure or
 
 hypermeter does not need to be considered)
 
 8\) [*Beethoven, Piano Sonata in A*](http://open.spotify.com/track/7tNWxDJqgSgQNn0p72zIjv)[*b*](http://open.spotify.com/track/7tNWxDJqgSgQNn0p72zIjv)[ *Major, op. 110 (II)*](http://open.spotify.com/track/7tNWxDJqgSgQNn0p72zIjv) – entire movement (p. 7) [*Score*](http://imslp.nl/imglnks/usimg/d/d9/IMSLP00031-Beethoven__L.v._-_Piano_Sonata_31.pdf)
 
-• conduct in 4, 1 beat per measure (hypermetric 4)
-
-• consult score regarding ritardando mm. 33-35
-
-• three “extra” measures near end of the large B section (mm. 72–74) (it could be argued that
-
-mm\. 73–75 are the extra measures, but for our purposes conduct a hypermetric downbeat at m.
-
-75)
+- conduct in 4, 1 beat per measure (hypermetric 4)  
+- consult score regarding ritardando mm. 33-35  
+- three “extra” measures near end of the large B section (mm. 72–74) (it could be argued that mm. 73–75 are the extra measures, but for our purposes conduct a hypermetric downbeat at m. 75)
 
 9\) [*Haydn, String Quartet in D Major, op. 20, no. 4 (III)*](http://open.spotify.com/track/0Iu3nq1qHIXs7IVUT61XyN) – Menuetto (p. 18) [*Score*](http://conquest.imslp.info/files/imglnks/usimg/9/9c/IMSLP05271-Haydn_-_Op._20__No._4.pdf)
 
-• conduct in 4, 1 beat per measure (hypermetric 4)
-
-• 4+4 / 8+4
-
-• note sequence with imitation and hemiola, containing 8 (!) beats per iteration, during the B
+- conduct in 4, 1 beat per measure (hypermetric 4)  
+- 4+4 / 8+4  
+- note sequence with imitation and hemiola, containing 8 (!) beats per iteration, during the B
 
 section (the rhythmic complexity in this example would in fact more properly be described as
 
@@ -526,45 +377,36 @@ section (the rhythmic complexity in this example would in fact more properly be 
 
 10\) [*Beethoven, String Quartet in Bb Major, op. 18, no. 6 (III)*](http://open.spotify.com/track/7mlyuTcjBYwfbiTKzupRfT) – A section of Scherzo (p. 11) [*Score*](http://imslp.nl/imglnks/usimg/c/c7/IMSLP04760-Beethoven_-_String_Quartet_No.6_Dover.pdf)
 
-• conduct in 4, 1 beat per measure (hypermetric 4)
-
-• extensive use of hemiola
-
-• B section used in exercise set \#4
+- conduct in 4, 1 beat per measure (hypermetric 4)  
+- extensive use of hemiola  
+- B section used in exercise set \#4
 
 #### Difficult:
 
 11\) [*Brahms, Capriccio in C Major, op. 76, no. 8*](http://open.spotify.com/track/1L736bAHszoywHiqwuLhuk) – entire piece [*Score*](http://petrucci.mus.auth.gr/imglnks/usimg/e/e8/IMSLP02513-Brahms_-_Capriccio__C_Major__Op.76_No.8.pdf)
 
-• conduct in 2, 1 beat per measure (hypermetric 2)
-
-- or conduct in 4, 2 beats per measure (hypermetric 2)
-
-• first ending is an extra measure; however, the second ending is a hypermetric downbeat
+- conduct in 2, 1 beat per measure (hypermetric 2)  
+- or conduct in 4, 2 beats per measure (hypermetric 2)  
+- first ending is an extra measure; however, the second ending is a hypermetric downbeat
 
 (measures 9–11 might be considered as a three-bar unit, but for the purposes of this exercise it
 
 is simplest not to do so)
 
-• measures 27–29 form a three-bar unit
-
-• extensive use of hemiola, rubato, and tempo fluctuation
+- measures 27–29 form a three-bar unit  
+- extensive use of hemiola, rubato, and tempo fluctuation
 
 12\) [*Brahms, Capriccio in D minor, op. 116, no. 1*](http://open.spotify.com/track/4oKSj9WWEjITmYm5FDXLaU) – entire piece [*Score*](http://javanese.imslp.info/files/imglnks/usimg/2/23/IMSLP01524-Bp27.pdf)
 
-• conduct in 4, 1 beat per measure (hypermetric 4), except:
-
-- conduct measures 53–58 in hypermetric 3
-
-- measure 131 is an extra bar
-
-- conduct measures 164–75 in hypermetric 3
-
-• extensive use of metric displacement and hemiola
+- conduct in 4, 1 beat per measure (hypermetric 4), except:  
+- conduct measures 53–58 in hypermetric 3  
+- measure 131 is an extra bar  
+- conduct measures 164–75 in hypermetric 3  
+- extensive use of metric displacement and hemiola
 
 13\) [*Brahms op. 116, no. 1*](http://open.spotify.com/track/3XRkLi1ZEA5vLdfYJAt4oy) (again), Vinnitskaya recording – entire piece
 
-• included for extra challenge (greater use of tempo fluctuation and rubato)
+- included for extra challenge (greater use of tempo fluctuation and rubato)
 
 Exercise Set \#4:
 -----------------
@@ -575,11 +417,11 @@ Instructions / Suggestions for Use:
 
 One might begin working through this playlist without telling students what they are listening for. Their instinct to conduct or think hypermetrically will hopefully cause them to notice the unusual phrase structure of the initial examples without specifically listening for it. If instructors are adopting a more student-centric approach, they could at that point have students choose examples from the list to later present to the class, using whatever combinations of (hypermetric) conducting, measure counting, score projection, etc. they wish. Another option is to intersperse examples of regular phrase structure among these examples (or give students the option of presenting such examples) to keep the class listening even more critically. The Spotify playlist could still be used, as it may be copied and then customized, adding and removing examples as desired. Also note the following:
 
-• The relevant passages occur at the opening of each work, so one can simply play from the beginning of each track in the playlist.
+The relevant passages occur at the opening of each work, so one can simply play from the beginning of each track in the playlist.
 
-• Annotations are given only in general terms, and have been included simply to provide the instructor with a quick overview of the examples. I do not define phrases strictly here, and numbers sometimes represent subphrases or hypermetric structure. Students may discover other viable interpretations, but should be asked to defend or explain them.
+Annotations are given only in general terms, and have been included simply to provide the instructor with a quick overview of the examples. I do not define phrases strictly here, and numbers sometimes represent subphrases or hypermetric structure. Students may discover other viable interpretations, but should be asked to defend or explain them.
 
-• Overall, the difficulty designations here are more subjective. Among other considerations, I consider the harder examples to be those that contain syncopation, that are at slower tempos (where phrase structure can be more difficult to perceive), and where the irregular-length phrases—the deviations—are *less* salient and therefore sound more “natural” (e.g., due to a measure-sized elision).
+Overall, the difficulty designations here are more subjective. Among other considerations, I consider the harder examples to be those that contain syncopation, that are at slower tempos (where phrase structure can be more difficult to perceive), and where the irregular-length phrases—the deviations—are *less* salient and therefore sound more “natural” (e.g., due to a measure-sized elision).
 
 [*Spotify playlist for Exercise Set \#4*](http://open.spotify.com/user/pellegrin42/playlist/02qmlDYkwGbcamcwGN8Obe) (hyperlinks are also embedded in each individual example)
 
@@ -587,109 +429,97 @@ One might begin working through this playlist without telling students what they
 
 1\) [*Beethoven, Symphony no. 8 in F Major, op. 93 (I)*](http://open.spotify.com/track/5ji8DgvImbtfsOY2916YWz) [*Score*](http://ks.imslp.info/files/imglnks/usimg/2/2a/IMSLP00092-Beethoven_Symphony_No.8_Mov.1.pdf)
 
-• 4+4+3 (with elision)
+- 4+4+3 (with elision)
 
 2\) [*Mozart, Piano Sonata in C Major, K. 309 (III)*](http://open.spotify.com/track/5MhIwJ7Hqs4e4bJmO3AsVA) (p. 11) [*Score*](http://petrucci.mus.auth.gr/imglnks/usimg/8/8d/IMSLP70205-PMLP01840-KV_309.pdf)
 
-• 8+11 (with extension and what [*William Caplin*](https://openlibrary.org/books/OL679075M/Classical_form) refers to as accompanimental overlap (not
+- 8+11 (with extension and what [*William Caplin*](https://openlibrary.org/books/OL679075M/Classical_form) refers to as accompanimental overlap (not elision) at m. 19)
 
-elision) at m. 19)
-
-- for a more clear example of an accompanimental overlap, see
-
-Haydn, Piano Sonata in C Major, Hob. XVI, no. 35 (I), m. 8 [*Score*](http://javanese.imslp.info/files/imglnks/usimg/2/2b/IMSLP58791-PMLP01715-Haydn--Piano-Sonata-No35--Ed-Boileau.pdf)
+- for a more clear example of an accompanimental overlap, see Haydn, Piano Sonata in C Major, Hob. XVI, no. 35 (I), m. 8 [*Score*](http://javanese.imslp.info/files/imglnks/usimg/2/2b/IMSLP58791-PMLP01715-Haydn--Piano-Sonata-No35--Ed-Boileau.pdf)
 
 3\) [*Mozart, Piano Sonata in C Major, K. 279 (III)*](http://open.spotify.com/track/7sR50dVGwqr61epLHltZzn) (p. 10) [*Score*](http://imslp.nl/imglnks/usimg/0/00/IMSLP70198-PMLP01830-KV_279.pdf)
 
-• 4+6
+- 4+6
 
 4\) [*Haydn, String Quartet in G Major, op. 76, no. 1 (III)*](http://open.spotify.com/track/3oSNcMkpULuFBNJtCVURKr) (p. 18) [*Score*](http://hz.imslp.info/files/imglnks/usimg/7/7e/IMSLP28077-PMLP57211-Op76No1.pdf)
 
-• 4+6
+- 4+6
 
 #### Intermediate:
 
 5\) [*Mozart, Piano Sonata in F Major, K. 533 (III)*](http://open.spotify.com/track/33VtuDdMMsCqAvmqUB7YxF) (p. 15) [*Score*](http://imslp.nl/imglnks/usimg/f/fc/IMSLP70213-PMLP01854-KV_533.pdf)
 
-• 6+6 (3+3 subphrases)
+- 6+6 (3+3 subphrases)
 
 6\) [*Mozart, Piano Sonata in C Major, K. 309 (I)*](http://open.spotify.com/track/1nuXKxqrvtvGVAPjfisM0m) [*Score*](http://petrucci.mus.auth.gr/imglnks/usimg/8/8d/IMSLP70205-PMLP01840-KV_309.pdf)
 
-• 7+7+3+3 (with elisions)
+- 7+7+3+3 (with elisions)
 
 7\) [*Schubert, Twelve German Dances, D. 790, no. 1 in D Major*](http://open.spotify.com/track/5Vu1b2bHIZqvzFhYwaZD1H) [*Score*](http://conquest.imslp.info/files/imglnks/usimg/a/a4/IMSLP03148-Schubert_-_12_Landler__D.790__Op.171_.pdf)
 
-• 10+10 at m. 33
+- 10+10 at m. 33
 
 8\) [*Mozart, Piano Sonata in G Major, K. 283 (I)*](http://open.spotify.com/track/4BPfBGtWuJ7v5hQZb7xLdd) [*Score*](http://ks.imslp.info/files/imglnks/usimg/7/7c/IMSLP70203-PMLP01837-KV_283.pdf)
 
-• 4+6+6 (with hemiola)
+- 4+6+6 (with hemiola)
 
 9\) [*Mozart Piano Sonata in D Major, K. 311 (I)*](http://open.spotify.com/track/1n6jLsy7lv9BtUOW3EiSGw) [*Score*](http://petrucci.mus.auth.gr/imglnks/usimg/f/f8/IMSLP70207-PMLP01842-KV_311.pdf)
 
-• 3+3 / 4+6 / 4+3 (with elisions)
+- 3+3 / 4+6 / 4+3 (with elisions)
 
 10\) [*Mozart, Piano Sonata in A Major, K. 331 (II)*](http://open.spotify.com/track/42IIAtmJhQuO7TYH0dZJpD) (p. 11) [*Score*](http://conquest.imslp.info/files/imglnks/usimg/a/a9/IMSLP70209-PMLP01846-KV_331.pdf)
 
-• 4+6 (cadences occur on beat 2)
+- 4+6 (cadences occur on beat 2)
 
 11\) [*Haydn, String Quartet in F minor, op. 20, no. 5 (I)*](http://open.spotify.com/track/3F1KgQJoI75WV9DSDJmKv0) [*Score*](http://imslp.nl/imglnks/usimg/b/bb/IMSLP05272-Haydn_-_Op._20__No._5.pdf)
 
-• 4+(5) (with elision)
+- 4+(5) (with elision)
 
 #### Difficult:
 
 12\) [*Mozart, Piano Sonata in C Major, K. 279 (II)*](http://open.spotify.com/track/3nzEQwjc4OSNJiM0BkHeKU) (p. 7) [*Score*](http://imslp.nl/imglnks/usimg/0/00/IMSLP70198-PMLP01830-KV_279.pdf)
 
-• 6 (3+3)
+- 6 (3+3)
 
 13\) [*Mozart, String Quartet in F Major, K. 590 (I)*](http://open.spotify.com/track/03grvyULjYb8n3Q1Fpnep2) [*Score*](http://javanese.imslp.info/files/imglnks/usimg/1/12/IMSLP64149-PMLP05232-Mozart_Werke_Breitkopf_Serie_14_KV590.pdf)
 
-• 3+3 / 5+4 / 3+... (STA~1~ almost replicates FTA’s 3+3)
-
-• mm. 1, 4, and 7 may be heard as hypermetrically weak
+- 3+3 / 5+4 / 3+... (STA~1~ almost replicates FTA’s 3+3)  
+- mm. 1, 4, and 7 may be heard as hypermetrically weak
 
 14\) [*Haydn, Piano Sonata in C Major, Hob. XVI: 50 (III)*](http://open.spotify.com/track/333lkwQZe9C6E4lhbAP0wB) (p. 12) [*Score*](http://hz.imslp.info/files/imglnks/usimg/d/d1/IMSLP00166-Haydn_-_Piano_Sonata_No_50_in_C.pdf)
 
-• 3+4+? (with elision)
+- 3+4+? (with elision)
 
 15\) [*Mozart, String Quartet in D Major, K. 499 (I)*](http://open.spotify.com/track/4ZFGttlA5poknN821VogDF) [*Score*](http://ks.imslp.info/files/imglnks/usimg/f/f8/IMSLP64144-PMLP05227-Mozart_Werke_Breitkopf_Serie_14_KV499.pdf)
 
-• elision at m. 20
+- elision at m. 20
 
 16\) [*Mozart, String Quintet in G minor, K. 516 (II)*](http://open.spotify.com/track/3MWCYt3UyyvdlZhMxnsY4i) (p. 9) [*Score*](http://hz.imslp.info/files/imglnks/usimg/6/68/IMSLP01923-Mozart_-_String_Quintet_No.4_Score.pdf)
 
-• 4+5+4 (with syncopation and elision)
+- 4+5+4 (with syncopation and elision)
 
 17\) [*Mozart, Piano Sonata in Bb Major, K. 333 (II)*](http://open.spotify.com/track/2gHIkLnapwV5yrA8k3wPOP) (p. 9) [*Score*](http://hz.imslp.info/files/imglnks/usimg/a/a9/IMSLP70211-PMLP01849-KV_333.pdf)
 
-• 4+4+5 (with accompanimental lead-in at m. 8)
+- 4+4+5 (with accompanimental lead-in at m. 8)
 
 18\) [*Beethoven, String Quartet in Bb Major, op. 18, no. 6 (III)*](http://open.spotify.com/track/7mlyuTcjBYwfbiTKzupRfT) (p. 11) [*Score*](http://imslp.nl/imglnks/usimg/c/c7/IMSLP04760-Beethoven_-_String_Quartet_No.6_Dover.pdf)
 
-• 4+4 / 7+7
-
-• extensive use of syncopation and hemiola
-
-• A section used in exercise set \#3
+- 4+4 / 7+7  
+- extensive use of syncopation and hemiola  
+- A section used in exercise set \#3
 
 19\) [*Haydn, Sonata in D Major, Hob. XVI, no. 51 (II)*](http://open.spotify.com/track/0MxgpoSlFxgRBSqyDGzrSV) (p. 6) [*Score*](http://ks.imslp.info/files/imglnks/usimg/d/d0/IMSLP109677-PMLP01731-Haydn-Piano_Sonate_No61-XVI51-Roitzsch.pdf)
 
-• conduct in hypermetric 2 through entire movement, adjusting as necessary due to frequent
+- conduct in hypermetric 2 through entire movement, adjusting as necessary due to frequent “extra” or “missing” single measures    
+- extensive use of syncopation
 
-“extra” or “missing” single measures
-
-• extensive use of syncopation
-
-Conclusion
-==========
+## Conclusion
 
 Following the form in jazz requires the listener to perceive both stable norms and salient deviations from them. Doing so is aural training of the highest level, and exercises in jazz listening offer an efficient path towards the acquisition of important general skills. In addition, they stimulate the mind in a unique way, may be easily incorporated into a traditional theory or aural skills classroom, and heighten our sense of both the similarities and differences between the classical and jazz idioms. Finally, though this essay has focused on matters of phrase structure and hypermeter, other aspects of the multilayered jazz listening model I have described may be utilized to help traditional music students hear harmonic implications in contrapuntal music, or music that employs extended harmony.
 
 This work is copyright ⓒ2016 Rich Pellegrin and licensed under a [*Creative Commons Attribution-ShareAlike 3.0 Unported License*](http://creativecommons.org/licenses/by-sa/3.0/).
 
-Works Cited
-============
+## Works Cited
 
 Caplin, William E. *Classical Form: A Theory of Formal Functions for the Instrumental Music of *
 
