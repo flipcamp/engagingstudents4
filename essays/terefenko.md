@@ -45,7 +45,7 @@ Example 2 illustrates the superimposition of upper-structure triads in the conte
 
 ![](media/image11.png)
 
-The relationship between the root of the major, minor and major-minor seventh chord, and the root of the upper structure is examined using bold Arabic numbers. Major upper structures are notated with upper-case Roman numerals, which relate to the local chordal root: II on **2**, V on **5,**  &#9839;III on b**3**, etc. For instance, a B&#9837; major triad in the context of Gm7 is notated as  &#9839;III on b**3**, yet the same triad in the context of E7 is notated as bV on b**5** (or  &#9839;IV on  &#9839;**4)**. Minor upper structures are notated using lower-case Roman numerals with relation to the local chordal root: ii on **2**, bii on b**2**, biii on b**3**, v on **5**, etc. For instance, an A minor triad in the context on Gm7 is notated as ii on **2**, and the same triad in the context on C7 is notated as vi on **6**.
+The relationship between the root of the major, minor and major-minor seventh chord, and the root of the upper structure is examined using bold Arabic numbers. Major upper structures are notated with upper-case Roman numerals, which relate to the local chordal root: II on **2**, V on **5,**  &#9839;III on &#9837;**3**, etc. For instance, a B&#9837; major triad in the context of Gm7 is notated as  &#9839;III on &#9837;**3**, yet the same triad in the context of E7 is notated as bV on &#9837;**5** (or  &#9839;IV on  &#9839;**4)**. Minor upper structures are notated using lower-case Roman numerals with relation to the local chordal root: ii on **2**, bii on &#9837;**2**, biii on &#9837;**3**, v on **5**, etc. For instance, an A minor triad in the context on Gm7 is notated as ii on **2**, and the same triad in the context on C7 is notated as vi on **6**.
 
 In the case of major chords, shown in Example 2a, there are four major upper-structure triads built on local **2**, **3**, **5** and **7**.
 
@@ -53,9 +53,9 @@ In the case of major chords, shown in Example 2a, there are four major upper-str
 
 ![](media/image12.png)
 
-The order in which these voicings appear represents a hierarchy that exists between them. Although a matter of personal perception and preference, this hierarchy refers to the degree of tension that each voicing projects and stems from the saturation of extensions and/or pitch alterations within each chord. In addition to four major triads, there are three minor upper-structure triads built on **3**, **7**, and  &#9839;**5**. In the case of minor chords, given in Example 2b, there are four major upper-structure triads built on b**3**, b**7**, **5** and **2**, and three minor upper-structure triads built on **5**, **2**, and  &#9839;**7**.
+The order in which these voicings appear represents a hierarchy that exists between them. Although a matter of personal perception and preference, this hierarchy refers to the degree of tension that each voicing projects and stems from the saturation of extensions and/or pitch alterations within each chord. In addition to four major triads, there are three minor upper-structure triads built on **3**, **7**, and  &#9839;**5**. In the case of minor chords, given in Example 2b, there are four major upper-structure triads built on &#9837;**3**, &#9837;**7**, **5** and **2**, and three minor upper-structure triads built on **5**, **2**, and  &#9839;**7**.
 
-**Example 2b**
+**Example 2&#9837;**
 
 ![](media/image09.png)
 
@@ -65,7 +65,7 @@ Example 3 demonstrates the distribution of major and minor upper-structure triad
 
 ![](media/image14.png)
 
-Broadly speaking, there are five major and five minor upper-structure triads that can be superimposed on top of the major-minor seventh chord. The reason for this stems from the specific pitch combinations that these triads create and voice-leading behaviors that the participating extensions/alterations project. The major upper structures are built on **2**, b**3**, b**5** ( &#9839;**4**), b**6**, and **6**. In addition to five major triads, there are five minor upper structures built on b**2**, b**3**, b**5** ( &#9839;**4**), **5**, and **6**, which produce different pairings of allowable extensions and/or pitch alterations.
+Broadly speaking, there are five major and five minor upper-structure triads that can be superimposed on top of the major-minor seventh chord. The reason for this stems from the specific pitch combinations that these triads create and voice-leading behaviors that the participating extensions/alterations project. The major upper structures are built on **2**, &#9837;**3**, &#9837;**5** ( &#9839;**4**), &#9837;**6**, and **6**. In addition to five major triads, there are five minor upper structures built on &#9837;**2**, &#9837;**3**, &#9837;**5** ( &#9839;**4**), **5**, and **6**, which produce different pairings of allowable extensions and/or pitch alterations.
 
 ## Practical Applications
 
@@ -91,7 +91,7 @@ Example 6 illustrates mm. 13–20 from Part VIII of [**Valses nobles et sentimen
 
 ![](media/image17.png)
 
-Ravel’s composition is a model example of the use of extended/chromatic harmony. Extended formations permeate the harmonic palette of the entire piece, yet *Epilogue* offers a succinct summary of all his favorite harmonic devices, including an array of upper-structure triads and various combinations of diatonic/chromatic extensions effectively expanding the structure of participating chords. Measures 13–20 prolong the dominant seventh harmony on F &#9839;. In mm. 13–16, the two upper-structure triads built on b**5** and b**6** (C and D) expand F &#9839;7. In mm. 18–19, the triadic architecture in upper parts is replaced with pairs of extensions: G–D &#9839; (&#9837;9–13) in m. 18 and G–D (&#9837;9–&#9837;13) in m. 19, before resolving to the local tonic, B(add2), in m. 20. Notice the preparation and voice-leading propensities of the individual extensions: the diatonic major thirteenth in m. 18 prepares the chromatic &#9837;thirteenth before resolving to C &#9839; (added second) in m. 20.
+Ravel’s composition is a model example of the use of extended/chromatic harmony. Extended formations permeate the harmonic palette of the entire piece, yet *Epilogue* offers a succinct summary of all his favorite harmonic devices, including an array of upper-structure triads and various combinations of diatonic/chromatic extensions effectively expanding the structure of participating chords. Measures 13–20 prolong the dominant seventh harmony on F &#9839;. In mm. 13–16, the two upper-structure triads built on &#9837;**5** and &#9837;**6** (C and D) expand F &#9839;7. In mm. 18–19, the triadic architecture in upper parts is replaced with pairs of extensions: G–D &#9839; (&#9837;9–13) in m. 18 and G–D (&#9837;9–&#9837;13) in m. 19, before resolving to the local tonic, B(add2), in m. 20. Notice the preparation and voice-leading propensities of the individual extensions: the diatonic major thirteenth in m. 18 prepares the chromatic &#9837;thirteenth before resolving to C &#9839; (added second) in m. 20.
 
 A more complex example of the use of upper-structure triad occurs at the end of [**Salome**](https://www.youtube.com/watch?v=Op1VoQXXARs) by Richard Strauss, where a transformed plagal cadence is saturated with disturbing chromaticism suitable for the macabre conclusion of the opera. Example 7 illustrates that progression.
 
