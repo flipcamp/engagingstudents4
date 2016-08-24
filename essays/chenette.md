@@ -27,7 +27,7 @@ An initial step in this direction is the incorporation of transcriptions of famo
 - The ways the motives interact with the modal context: for example, the way prominent pitches in motives emphasize structural pitches of the mode, the fact that the transposed neighbor tone in the second line emphasizes the unique part of the Dorian scale (scale degrees 6 to 7), and (not included in the example) the use of different motives when the chord and mode change.
 - How motives relate to, or grow out of, each other, as the repeated note in the third transcribed measure becomes prominent on its own through the course of a solo as a signal of phrase endings.
 
-**Figure 1.** Transcription of the opening of Miles Davis’s solo in “So What”
+**Figure 1.** Transcription of the opening of Miles Davis’s solo in “So What.”
 
 <img src="{{ site.baseurl }}/images/chenette01.png" alt="image" />
 
@@ -37,7 +37,7 @@ The excerpt from Parker and Gillespie’s “Anthropology” below (a transcript
 - The piece is fast and chromatic, making it difficult to pick out the motives aurally. Do they still help the piece cohere in some way?
 - Some of these motives are common idioms in bebop, particularly the “targeting” motive. This could lead to a discussion of the relationship between style and personal expression, and even a debate over whether to call such common devices motives at all.
 
-**Figure 2.** Opening of Parker and Gillespie, “Anthropology”
+**Figure 2.** Opening of Parker and Gillespie, “Anthropology.”
 
 <img src="{{ site.baseurl }}/images/chenette02.png" alt="image" />
 
@@ -45,7 +45,7 @@ Yet if we want to foster truly active motivic thinking in our students, we shoul
 
 1\) Have students select one motive from a transcription of composition and create a melody with it in class. The melody should likely be 2 or 4 bars long, and could have a specified set of chords, which could be played by the instructor at the piano or guitar, or from an Aebersold recording or an iReal Pro playalong. The melody need not be in jazz style, and in fact taking ideas from one style into another may be especially interesting. The example melody below is based exclusively on the contour motive labeled in “Anthropology” above. At first, allow students time to experiment with the motive and work out something they would like to play before they are put on the spot. This can be especially effective and interesting if multiple students do the activity using the same motive and either compare their uses afterwards or build on each others’ ideas as each successive student plays (perhaps in immediate succession). For example, after a performance of the melody below, class discussion might note the use of inversion in the third measure, while perhaps criticizing the constant eighth notes and the uniform rhythm and metric placement of the motive. This would suggest ways for the next student to think about making their melody more rhythmically varied.
 
-**Figure 3.** Caption?
+**Figure 3.** Caption?.
 
 <img src="{{ site.baseurl }}/images/chenette03.png" alt="image" />
 

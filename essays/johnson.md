@@ -18,7 +18,7 @@ Coltrane’s “Afro Blue,” like his more well-known adaptation of [*“My Fav
 
 The head of the tune—four four-bar phrases in the form a a’ b b’ notated in Figure 1—leads to a brief solo followed by the return of the head and then an ornamented repetition. Lengthy piano and saxophone solos comprise the middle of the piece, and then the main tune returns at the end with a slow-motion climax with augmented rhythmic values. The tune itself begins with the bold solo entry of Coltrane’s reedy soprano, grabbing listeners right away with his signature staccato phrasing. The first bar’s lilting dotted rhythm opens up pitch space by ascending from scale degree one up to five and, with the second measure’s bouncy quarter–half (as performed), signals a light-hearted dance. The rest of the quartet enters in the polymetric third measure, pitting duples against triples, and the phrase settles back down to tonic at its end. The “b” phrase features pitches that circle around but avoid tonic and it finishes with a deliberate ascent from from submediant to tonic. Thus, with its mixture of a simple, memorable melodic idea (heard three times in the first minute of the piece), compelling cross-rhythms, and modal treatment of repetitive harmonies enveloped in a complex, improvisatory texture, this piece offers a number of ready entry points for student investigations while also affording several obstacles to be negotiated. It thus provides an ideal piece to engage students deeply.
 
-**Figure 1.** Head of “Afro Blue” (adapted from a popular [simplified lead sheet](http://www.guitarcats.com/images/JazzStandardCharts/AFRO%20BLUE-9.jpg) easily accessed online)
+**Figure 1.** Head of “Afro Blue” (adapted from a popular [simplified lead sheet](http://www.guitarcats.com/images/JazzStandardCharts/AFRO%20BLUE-9.jpg) easily accessed online).
 
 <img src="{{ site.baseurl }}/images/johnson01.png" alt="image" />
 
@@ -36,7 +36,7 @@ During the initial listening of the first few minutes of the tune, students can 
 
 Transcribing the melody into notation requires deciding on a few parameters, the first of which is meter. Because students tend to hear beats at different levels of metrical hierarchy, performing the deep slower pulses and the faster shallow pulses with different parts of their bodies as they listen to the complete texture can help them draw conclusions about beats and beat divisions. This step is particularly helpful before starting a transcription of the melody, which can confuse students with its polyrhythmic play. Some will hear the fast simple-triple meter that characterizes this jazz waltz and choose a 3/4 or less likely a 3/8 time signature. Others will hear the fast three as compound divisions in a 6/8 meter. Still others may hear a simple duple or quadruple meter with occasional triplets. Students may either compare the options and come to a consensus on a single time signature or notate the melody in the meter of choice and compare their versions later. The tune is short enough that it can be notated on the board in several versions, one above the other, in different meters (3/4, 6/8, 4/4) for comparison, something like those shown in Figure 2. Conducting along can clarify the meter further, and students will usually come to a consensus that 3/4 meter “feels” right.
 
-**Figure 2.** Three possible transcriptions of the first phrase of “Afro Blue”
+**Figure 2.** Three possible transcriptions of the first phrase of “Afro Blue.”
 
 <img src="{{ site.baseurl }}/images/johnson02.png" alt="image" />
 
@@ -74,7 +74,7 @@ Students brainstorm other places to use these same types of embellishments and s
 
 The lead sheet’s written-out embellishments on the repetition of the head, notated in Figure 3, provide further explorations. Learners note, with a bit of guidance, the opening arpeggiation of the Fm7 chord, which facilitates the expansion of what had been a fairly restricted melodic ambitus into a longer descent. The question may also arise as to why only the first half of the head is embellished and it can be tested by using those rhythms and melodic figurations to suggest alterations for the second half. If time permits, the discussion can expand to other recordings like the [Live in Stockholm version (1963)](https://open.spotify.com/track/7FG6fZPYEO9CdRgt24uRq5) to survey other improvisational embellishments. Studying the end of the piece where there’s less evidence of the tune and more improvisation leads to a discussion of where the tipping point lies between variation and contrast. Doing this work—identifying an artist’s improvisations and applying them in new situations—can also prepare for later discussions of the alterations used in motivic development and theme variations. Ultimately though, it helps young musicians start to think about how they might improvise using the simple building blocks like those observed.
 
-**Figure 3.** Embellished head of “Afro Blue” (adapted from the [*simplified lead sheet*](http://www.guitarcats.com/images/JazzStandardCharts/AFRO%20BLUE-9.jpg))
+**Figure 3.** Embellished head of “Afro Blue” (adapted from the [*simplified lead sheet*](http://www.guitarcats.com/images/JazzStandardCharts/AFRO%20BLUE-9.jpg)).
 
 <img src="{{ site.baseurl }}/images/johnson03.png" alt="image" />
 

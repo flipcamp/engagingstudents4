@@ -22,7 +22,7 @@ This article proposes a method of realizing figured bass as “hollowed-out” l
 
 Figured bass can do more than indicate inversions and suspensions. In its original practical use, a figured bass number simply tells the performer which note above the bass is to be played, notwithstanding a situation when an experienced performer infers what other notes can be added to given figures. By adding figures, this notation can represent many more sonorities than the ones that students would normally encounter in the music theory classroom. Consider, for an extreme example, the famous opening chord from [Jean-Féry Rebel’s 1737 *Les Eléments*](http://imslp.org/wiki/Les_%C3%A9l%C3%A9ments_(Rebel,_Jean-F%C3%A9ry)) ([performance](https://www.youtube.com/watch?v=0p4HP3sFFkc)). In the bottom staff (*Clavecin*), the figure reads (from bottom up) 7&#9839;, 2, 3, 4, 5, and 6&#9837;, which aptly resonates with the movement’s title “Cahos” (Chaos). To play the opening chord, the performer needs to play seven notes at once. The resulting chord could be written as C&#9839;dim7(11,13)/D, Dm(&#9839;7, 9, 11, &#9837;13) or could be understood as a polychord consisting a Dm with a C&#9839;dim7. This example demonstrates that the consideration of chord quality does not have to be an essential step in realizing figured bass.
 
-**Example 1.** Jean-Féry Rebel,* Les Eléments*, mm. 1–4
+**Figure 1.** Jean-Féry Rebel,* Les Eléments*, mm. 1–4.
 
 <img src="{{ site.baseurl }}/images/park01.png" alt="image" />
 
@@ -30,19 +30,19 @@ This kind of usage demands a set of skills for realizing a figured bass that is 
 
 The process of hollowing-out is straightforward. A lead-sheet symbol is treated as the chord root and extensions only, ignoring the chord quality. For example, take a look at the first four bars of “My Funny Valentine” (Richard Rodgers and Lorenz Hart). We can hollow out the lead-sheet symbols by notating the chord root on the staff and convert the extensions (&#9839;7, 7, and 6) to figured bass numbers. The major seventh above the root in Cm(&#9839;7) becomes a 7&#9838; figure to counteract the B&#9837; in the key signature. Similarly, Cm7 becomes 7 taking into account the key signature, and Cm6 become 6&#9838; to counteract the A&#9837;. An experienced jazz performer would interpret the four lead-sheet symbols as embodying a chromatic descending tetrachord over a C minor triad (C, B&#9838;, B&#9837;, A&#9838;). The figured bass numbers can show this descent more succinctly by adding the figure number 8 at the beginning. At this stage, realizing the figured bass as two-voice counterpoint in oblique motion (one on C the other descending chromatically) would suffice.
 
-**Example 2.** The chord progression of the first four bars of “My Funny Valentine”
+**Figure 2.** The chord progression of the first four bars of “My Funny Valentine.”
 
 <img src="{{ site.baseurl }}/images/park02.png" alt="image" />
 
 Afterward, the figures can be added to match the full realization of the chord progression (below). This process is, in essence, the conversion of chord tones into numbers. Instead of realizing the lead-sheet symbols on a staff, it realizes them as figures. The consideration of chord quality can follow this stage, as the students can use the figured bass to determine the root of the chord and the scale degree of that root.
 
-**Example 3.** Full realization of the lead-sheet symbols into figured bass
+**Figure 3.** Full realization of the lead-sheet symbols into figured bass.
 
 <img src="{{ site.baseurl }}/images/park03.png" alt="image" />
 
 When a lead-sheet symbol has a separate bass note, the figured bass representation can spell out the corresponding chord tones. For example, consider the opening phrase of “On Green Dolphin Street” (Bronisław Kaper). The chord tones of lead-sheet symbols are converted into figured bass numbers, as this example shows. Measures 5 and 6 feature lead-sheet symbols with slash notation to show that the bass note (C) is different from the chord roots (D and D&#9837;). Simply by counting diatonic intervals from the bass and adding appropriate accidentals, we can represent lead-sheet symbols with slash notation as figured bass numbers.
 
-**Example 4.** The chord progression of the opening phrase of “On Green Dolphin Street"
+**Figure 4.** The chord progression of the opening phrase of “On Green Dolphin Street."
 
 <img src="{{ site.baseurl }}/images/park04.png" alt="image" />
 
@@ -56,29 +56,29 @@ Treating figured bass as hollowed-out lead sheet symbols opens up a possibility 
 
 Figured bass, understood as hollowed-out lead sheet symbols, can replace the roles that the chord symbols played in Hermann’s and Salley’s methods. The remainder of this article demonstrates how Hermann’s and Salley’s methods might be implemented to introduce baroque improvisation. The purpose of this demonstration is to show that figured bass realization can be introduced after students learn keys, scales, and intervals, and before Roman numerals.
 
-As an introduction, a student can realize a figured bass that outlines a common melody as presented in Example 5. At this stage, the students can play the bass line with the left hand while playing the implied melody with the right. This is analogous to Hermann’s treatment of the principal bass notes of the harmonies (i.e., the letters of lead sheet symbols) as *cantus firmus*. The instructor can emphasize that although the numbers may seem to leap at times, due to the moving bass line the students can find a mostly conjunct melody in the right hand. The students can also form pairs and take turns playing the bass lines and realizing the figures.
+As an introduction, a student can realize a figured bass that outlines a common melody as presented in Figure 5. At this stage, the students can play the bass line with the left hand while playing the implied melody with the right. This is analogous to Hermann’s treatment of the principal bass notes of the harmonies (i.e., the letters of lead sheet symbols) as *cantus firmus*. The instructor can emphasize that although the numbers may seem to leap at times, due to the moving bass line the students can find a mostly conjunct melody in the right hand. The students can also form pairs and take turns playing the bass lines and realizing the figures.
 
-**Example 5.** “Twinkle, Twinkle, Little Star” in as figured bass, to be realized as two-voice counterpoint
+**Figure 5.** “Twinkle, Twinkle, Little Star” in as figured bass, to be realized as two-voice counterpoint.
 
 <img src="{{ site.baseurl }}/images/park05.png" alt="image" />
 
-Combined with the knowledge of the major and minor scale, the instructor can proceed with more rigorous improvisation. For this demonstration, I will use an excerpt from Marin Marais’s “Minuet” from *Pièces de Viole, Livre V*, No. 36 (Example 6). As a first step, the student can tell what note to play immediately just by counting intervals from the bass note similar to Example 5. The students can realize the excerpt with full chordal harmony by adding omitted figures. For example, add a third for the written figures 6 or 6/5, add a fifth for figure 4, and add a third and a fifth when there is no figure. The student can write the figures or just add them in their playing without actually writing them down on the score. A possible realization should resemble Example 7. From this point, the instructor can point out the two cadences (mm.4 and 8) and the Roman numerals associated with them (i.e., I and V).
+Combined with the knowledge of the major and minor scale, the instructor can proceed with more rigorous improvisation. For this demonstration, I will use an excerpt from Marin Marais’s “Minuet” from *Pièces de Viole, Livre V*, No. 36 (Figure 6). As a first step, the student can tell what note to play immediately just by counting intervals from the bass note similar to Figure 5. The students can realize the excerpt with full chordal harmony by adding omitted figures. For example, add a third for the written figures 6 or 6/5, add a fifth for figure 4, and add a third and a fifth when there is no figure. The student can write the figures or just add them in their playing without actually writing them down on the score. A possible realization should resemble Figure 7. From this point, the instructor can point out the two cadences (mm.4 and 8) and the Roman numerals associated with them (i.e., I and V).
 
-**Example 6.** Marin Marais’s “Minuet” from *Pièces de Viole*, Livre V, No. 36 (mm. 1–8)
+**Figure 6.** Marin Marais’s “Minuet” from *Pièces de Viole*, Livre V, No. 36 (mm. 1–8).
 
 <img src="{{ site.baseurl }}/images/park06.png" alt="image" />
 
-**Example 7.** Possible realization of Example 6
+**Figure 7.** Possible realization of Figure 6.
 
 <img src="{{ site.baseurl }}/images/park07.png" alt="image" />
 
-By now, the students can start constructing a framework for melodic improvisation by choosing one note from the realization for each beat with the goal of creating a smooth melodic line (Example 8). This step is analogous to Salley’s “species one” which instructs students to create conjunct motion by using chord tones exclusively. This melodic realization can also be implemented as a group activity in which one student plays the bassline and the other plays the melody. An instructor can even let the entire class play their realizations simultaneously. Students can improvise further by adding passing and neighbor tones (Example 9). From here on, should the instructors choose to continue teaching improvisation, they can draw from [Dariusz Terefenko’s](http://aic.apsl.edu.pl/aicnr2/Terefenko%20173-196.pdf) method, which begins from a simple one-to-one counterpoint and ends with imitative counterpoint in three voices.
+By now, the students can start constructing a framework for melodic improvisation by choosing one note from the realization for each beat with the goal of creating a smooth melodic line (Figure 8). This step is analogous to Salley’s “species one” which instructs students to create conjunct motion by using chord tones exclusively. This melodic realization can also be implemented as a group activity in which one student plays the bassline and the other plays the melody. An instructor can even let the entire class play their realizations simultaneously. Students can improvise further by adding passing and neighbor tones (Figure 9). From here on, should the instructors choose to continue teaching improvisation, they can draw from [Dariusz Terefenko’s](http://aic.apsl.edu.pl/aicnr2/Terefenko%20173-196.pdf) method, which begins from a simple one-to-one counterpoint and ends with imitative counterpoint in three voices.
 
-**Example 8.** “Species one” realization of Example 7
+**Figure 8.** “Species one” realization of Figure 7.
 
 <img src="{{ site.baseurl }}/images/park08.png" alt="image" />
 
-**Example 9.** Further improvisation of Example 8 with passing and neighbor tones
+**Figure 9.** Further improvisation of Figure 8 with passing and neighbor tones.
 
 <img src="{{ site.baseurl }}/images/park09.png" alt="image" />
 

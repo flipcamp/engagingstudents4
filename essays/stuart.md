@@ -46,7 +46,7 @@ Finally, after each student has sung multiple parts, the class proceeds. The ins
 
 The four examples presented here illustrate some of the qualities of the multi-part exercises. The first is more elementary than what I would typically give my classes, but might be well suited to younger or less experienced students. This is done with straight eighth feel, and all the parts are easy, but they provide some challenges. For example, Groups 1 and 2 have fairly long silences between the moments when they sing; Group 3 has three consecutive bars coming in on the fourth beat before their fourth bar has the feeling of resolution when the land on the first beat; and Group 4 has to feel the syncopation in their last bar:
 
-**Example 1.** Four-part example rhythm exercise suited to younger or less experienced students
+**Figure 1.** Four-part example rhythm exercise suited to younger or less experienced students.
 
 <img src="{{ site.baseurl }}/images/stuart01.png" alt="image" />
 
@@ -54,7 +54,7 @@ The remaining three group exercises have some relatively easy parts and some mor
 
 Exercise 2 is done with swing feel, and can be started at a relaxed medium tempo. Group 4 claps the rhythm shown; all other groups clap on beats “2” and “4” as they sing their parts. The parts played by Groups 1 and 4 are quite easy, and Group 2's is not too difficult. Group 3 sings a 5/8 crossrhythm on 4/4; in the version shown here, they “reset” at the beginning of every four bars, but this could also be given to them so that the 5/8 crossrhythm goes continuously (only synchronizing on the first beat of the first bar with the other groups every five cycles). Group 5's part is not difficult except that there is so much time spent with rests; it can be used as a good vehicle to show how what sound like quarter note triplets starting on beat “4” can be correctly notated.
 
-**Example 2.** Five-part swing feel rhythm exercise with pickup, triplet quarter notes over the bar line, and 5/8 crossrhythm
+**Figure 2.** Five-part swing feel rhythm exercise with pickup, triplet quarter notes over the bar line, and 5/8 crossrhythm.
 
 <img src="{{ site.baseurl }}/images/stuart02.png" alt="image" />
 
@@ -62,13 +62,13 @@ Exercise 2 is the most traditional jazz of the examples I give here, and the ins
 
 Exercise 3 is a relatively easy exercise that could be used to introduce students to grooving in 7/4. Although none of the parts are difficult, Group 2 must be able to correctly feel two different places to place pickups that resolve on beat “1,” and Group 3 must feel the difference between where the last notes in the first and second bars are placed. As students become more comfortable with 7/4, a subsequent exercise could have them all clap the part shown for Group 1, while they sing their own parts over it.
 
-**Example 3.** Five-part rhythm exercise to introduce 7/4
+**Figure 3.** Five-part rhythm exercise to introduce 7/4.
 
 <img src="{{ site.baseurl }}/images/stuart03.png" alt="image" />
 
 Exercise 4 presents a meter, 15/8, with which many students may be unfamiliar, but gives Groups 1 and 2 very easy parts in this meter. The more advanced students placed in Groups 3 and 4 must be able to feel syncopated sixteenth notes in this meter, with Group 3 singing a rhythmic part without pitches that continues over the bar line at the end of the cycle (thus the first notes are tacet the first time), and Group 4 singing a part that has both a short syncopated pickup and a section that briefly suggests a 7/16 crossrhythm against 15/8.
 
-**Example 4.** Four-part rhythm exercise in 15/8 with some challenging parts, for more advanced students
+**Figure 4.** Four-part rhythm exercise in 15/8 with some challenging parts, for more advanced students.
 
 <img src="{{ site.baseurl }}/images/stuart04.png" alt="image" />
 
@@ -84,13 +84,13 @@ It is only fair to acknowledge that this “on-the-spot composition” may come 
 
 There are certain features implicit in the examples. As I have mentioned, the parts can vary in difficulty so that more challenging parts can be given to the more advanced students. Also, there is a desirable balance between parts happening separately versus parts overlapping. Generally, I would neither choose to make an exercise hocket-style (although perhaps this could be useful for young children or total beginners as a warmup exercise):
 
-**Example 5.** Hocket-style exercise, with no overlap between parts
+**Figure 5.** Hocket-style exercise, with no overlap between parts.
 
 <img src="{{ site.baseurl }}/images/stuart05.png" alt="image" />
 
 … nor extreme in the degree that parts overlap:
 
-**Example 6.** Four-part exercise with too much rhythmic overlap between parts
+**Figure 6.** Four-part exercise with too much rhythmic overlap between parts.
 
 <img src="{{ site.baseurl }}/images/stuart06.png" alt="image" />
 

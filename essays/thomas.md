@@ -32,13 +32,13 @@ Musical examples that are familiar to many students ("[Take the ‘A’ Train](h
 
 Working without a score as I describe above can be challenging and even unsettling to students, especially those who are accustomed to confirming what they hear by consulting a score. While lead sheets (abbreviated scores) are available for many jazz tunes in such sources as [*The Real Book*](https://openlibrary.org/works/OL7987939W/The_Real_Book), there are many aspects of a performance that are not represented by a lead sheet. To explore the extent to which notation reveals temporal structures, we might pair listening to the third movement of [Mozart’s Symphony No. 40](https://youtu.be/TWf7Wo0FncE) with Thelonious Monk’s "[Straight, No Chaser](https://youtu.be/dlu3T26-MFM)." Both prominently employ hemiola and metric displacement at the outset, techniques that—once heard—can be confirmed through an examination of the [score](http://imslp.org/wiki/Symphony_No.40_in_G_minor,_K.550_(Mozart,_Wolfgang_Amadeus)) and lead sheet. The conflicting 2- and 3-beat layers are easily discovered in the Mozart score (piano reduction), as I show here with brackets:
 
-**Example 1.** Mozart, Symphony No. 40, mvt. 3: brackets delineate the conflicting 2- and 3-beat layers.
+**Figure 1.** Mozart, Symphony No. 40, mvt. 3: brackets delineate the conflicting 2- and 3-beat layers.
 
 <img src="{{ site.baseurl }}/images/thomas01.png" alt="image" />
 
 The metric displacement in “Straight, No Chaser,” which results from the manipulation of the primary motive, is similarly discoverable in its lead sheet, assuming that the F–B&#9837; gesture projects an anacrusis-downbeat structure each time it appears (I show this with brackets below). The relationship of the irregular melodic line to other musical layers in a given performance is not clearly observable in the lead sheet, however, aside from the shifting alignment of the primary motive against the harmony.
 
-**Example 2.** Thelonious Monk, “Straight, No Chaser”: brackets delineate the recurring primary motive.
+**Figure 2.** Thelonious Monk, “Straight, No Chaser”: brackets delineate the recurring primary motive.
 
 <img src="{{ site.baseurl }}/images/thomas02.png" alt="image" />
 
@@ -54,7 +54,7 @@ As students become more experienced, annotations may reflect phrase and hypermet
 
 The lead sheet exercises described above naturally segue into transcription work, which requires a keen awareness of rhythm and meter. Moreover, because it is cognitively close in nature to performance, it provides a bridge between sound and notation complementary to that of listening while following a lead sheet. Transcription can begin modestly, perhaps with a straightforward tune like Horace Silver’s "[The Preacher](https://youtu.be/GEvru0HLKJc)." After listening to the opening a few times the students are asked to refine an instructor-made, simplified lead sheet (version 1 below) so that it more closely matches the recording. Then the students are shown a standard lead-sheet version of “The Preacher” (version 2 below), which captures beat anticipations more accurately than the simplified version, but possibly not as well as the students’ listening-based versions.
 
-**Example 3.** Horace Silver, “The Preacher:” 1) simplified version with regularized rhythms; 2) standard lead-sheet version with beat anticipations.
+**Figure 3.** Horace Silver, “The Preacher:” 1) simplified version with regularized rhythms; 2) standard lead-sheet version with beat anticipations.
 
 <img src="{{ site.baseurl }}/images/thomas03.png" alt="image" />
 
