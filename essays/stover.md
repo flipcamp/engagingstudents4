@@ -62,6 +62,12 @@ Figure 5 shows a very similar progression in George and Ira Gershwin’s “But 
 
 = bVII  I
 
+| | | | |
+| :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| ... IV | — | iv<br/> | | | | |
+| | | = ii | — | V | | |
+| | | | | = &#9837;VII | — | I |
+
 If this schema is taken as paradigmatic, then it is easy to see that “Stella By Starlight” simply elides the iv chord, moving straight from IV to &#9837;VII. Or, taken from a different perspective, the mediating ii–V, which we can think of as a single syntactic object with internal voice leading, is substituted by a simple V (see [Stover 2015, 172–173)](http://jjs.libraries.rutgers.edu/index.php/jjs/article/view/89).
 
 There are hundreds of songs that invoke this chord progression in exactly this way; it is one of the characteristic harmonic gestures in the repertoire of songs from the American Popular Songbook that serve as the lion’s share of jazz standards. One compelling example, which reinforces several points made thus far, is the last A section of Porter’s “I Love You”—the Gm7(&#9837;5) chord we experienced in measure 1 (see Figure 2 above) is transformed into B&#9837;min7, which becomes the ii of a ii–V moving to E&#9837;, resolving up by whole step to its F major tonic.

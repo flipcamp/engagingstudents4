@@ -365,7 +365,7 @@ hypermeter does not need to be considered)
 8\) [*Beethoven, Piano Sonata in A*](http://open.spotify.com/track/7tNWxDJqgSgQNn0p72zIjv)[*b*](http://open.spotify.com/track/7tNWxDJqgSgQNn0p72zIjv)[ *Major, op. 110 (II)*](http://open.spotify.com/track/7tNWxDJqgSgQNn0p72zIjv) – entire movement (p. 7) [*Score*](http://imslp.nl/imglnks/usimg/d/d9/IMSLP00031-Beethoven__L.v._-_Piano_Sonata_31.pdf)
 
 - conduct in 4, 1 beat per measure (hypermetric 4)  
-- consult score regarding ritardando mm. 33-35  
+- consult score regarding ritardando mm. 33–35  
 - three “extra” measures near end of the large B section (mm. 72–74) (it could be argued that mm. 73–75 are the extra measures, but for our purposes conduct a hypermetric downbeat at m. 75)
 
 9\) [*Haydn, String Quartet in D Major, op. 20, no. 4 (III)*](http://open.spotify.com/track/0Iu3nq1qHIXs7IVUT61XyN) – Menuetto (p. 18) [*Score*](http://conquest.imslp.info/files/imglnks/usimg/9/9c/IMSLP05271-Haydn_-_Op._20__No._4.pdf)
@@ -411,10 +411,8 @@ is simplest not to do so)
 
 - included for extra challenge (greater use of tempo fluctuation and rubato)
 
-Exercise Set \#4:
------------------
-
-### CPE: Non-Normative Phraseology / Mostly Unsyncopated
+### Exercise Set \#4:  
+CPE: Non-Normative Phraseology / Mostly Unsyncopated
 
 Instructions / Suggestions for Use:
 
