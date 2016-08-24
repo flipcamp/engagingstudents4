@@ -9,6 +9,9 @@ author: Garrett Michaelsen, University of Massachusetts Lowell
 
 **{{ page.author }}**
 
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="FlipCampMT">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
 ## I Got Rhythm
 
 After the 12-bar blues, no chord progression is more important to jazz than Rhythm changes. It epitomizes a number of qualities of jazz style: the appropriation of an American popular song, in this case “I Got Rhythm” by George and Ira Gershwin, for the purposes of limitless improvisation and variation; the repeating AABA form; the use of common harmonic schemas; and the rich history of alteration and reharmonization musicians have brought to it. The chord progression is worth class time on its own due to its importance to 20th-century music; jazz composers spanning many decades, from [Duke Ellington](https://open.spotify.com/track/1SHWTebOVSojzx5CxYhljV) to [Charlie Parker](https://open.spotify.com/track/4nUbaLzebDExcE5HOIOOia) to [Ornette Coleman](https://open.spotify.com/track/14FkDSrkQPko4YMhx6dLI2), have all based compositions on Rhythm changes. Beyond its historical value, teaching Rhythm changes in music theory classrooms offers two important benefits: first, it provides an ideal environment for students to explore secondary dominant chords through improvisation. Second, Rhythm changes offers a perfect canvas for the application of substitution and reharmonization processes, enabling a different perspective on chromaticism than is typically discussed in theory curricula. In this essay, I will outline the various activities I use in my classes that explore these two topics.

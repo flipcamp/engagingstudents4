@@ -4,6 +4,14 @@ title: "Coalescing Learning around a Coltrane Classic"
 author: Shersten Johnson, University of St. Thomas
 ---
 
+{{ page.title }}
+================
+
+**{{ page.author }}**
+
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="FlipCampMT">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
 Teachers of music theory courses tend to have favorite pieces that they return to again and again for a variety of reasons. Sometimes we choose those key canonic pieces that we believe all students should encounter at some point in their training, and sometimes we choose a piece because it crystallizes a number of teaching points in explicit, sequenced, and even importantly problematized terms. One of my favorites in this latter category is Mongo Santamaria’s “Afro Blue” (1959) adapted by John Coltrane (1963) ([*Live at Birdland* recording](https://open.spotify.com/track/0lS0i0VKSlGADALLxInnPk) and [*The Real Book* lead sheet](https://www.amazon.com/Real-Book-Hal-Leonard-Corporation/dp/0634060384/ref=sr_1_1?ie=UTF8&qid=1466649973&sr=8-1&keywords=realbook#reader_0634060384).)
 
 Coltrane’s “Afro Blue,” like his more well-known adaptation of [*“My Favorite Things”* (1961)](https://open.spotify.com/track/2JOEPbuwVf0nafGnMSVEhH), features Coltrane on soprano saxophone (an instrument that he championed) in a fast jazz waltz. The piece exploits a limited vocabulary of adjacent chords used in parallel fashion without typical tonal resolutions. [Neil Tesser](http://www.chicagoreader.com/Bleader/archives/2014/02/04/chicagos-neil-tesser-wins-grammy) describes this horizontally focused musical language in his Grammy-winning [notes](http://mediakits.concordmusicgroup.com/p/afro-blue-impressions/e-book.html) to the re-mastered album [*Afro Blue Impressions*](http://www.amazon.com/Afro-Blue-Impressions-Remastered-Expanded/dp/B00DOQK28C/ref=sr_1_1?ie=UTF8&qid=1463710188&sr=8-1&keywords=afro+blue+impressions) by saying that Coltrane turned 90 degrees from the vertical structures of the 1950s to a “new method of improvisation, one that eschewed harmonic movement almost entirely to better facilitate an expansive lyricism.”

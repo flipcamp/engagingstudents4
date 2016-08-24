@@ -9,6 +9,9 @@ author: Rory Stuart, New School University
 
 **{{ page.author }}**
 
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="FlipCampMT">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
 ## Introduction
 
 As critical an element as rhythm is in jazz, it is surprising that there are still so few university jazz programs that have courses devoted to rhythm (by contrast, ear training and harmony courses are widespread). The typical rhythmic instruction offered in other classes, whether these are found in a program devoted to jazz or one devoted to classical music or other styles, often focuses solely on sight reading and transcription. Examples from books by people such as [Robert Starer](https://openlibrary.org/works/OL3286318W/Basic_Rhythmic_Training_(Starer)) and [Paul Hindemith](https://openlibrary.org/works/OL2572277W/Elementary_training_for_musicians), are either sight-read, given to students in advance to prepare outside of class for performance, or performed by the instructor for the students to transcribe. These exercises certainly have value but they fail to address many of the rhythm skills needed to be a truly proficient jazz improviser.

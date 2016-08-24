@@ -9,6 +9,9 @@ author: Timothy Chenette, Utah State University
 
 **{{ page.author }}**
 
+<a href="https://twitter.com/share" class="twitter-share-button" data-via="FlipCampMT">Tweet</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+
 Motives in music are a standard topic for music theory texts. These building blocks of melody are often described as important because “composers must maintain the delicate balance between repetition and its many degrees of variation, on the one hand, and the introduction of new material on the other” ([Laitz](https://openlibrary.org/works/OL8002914W/The_Complete_Musician_Textbook_An_Integrated_Approach_to_Tonal_Theory_Analysis_and_Listening_Package) 364). Most books do not make explicit why students who do not think of themselves as composers must understand motives, but several ideas come to mind:
 
 >1. Motivic analysis helps us understand the way a piece is put together—its “narrative”—which can have implications for performance.
