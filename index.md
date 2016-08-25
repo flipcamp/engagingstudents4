@@ -24,7 +24,7 @@ Ben Britton
 Timothy Chenette
 
 [Coalescing Learning around a Coltrane Classic]({{ site.baseurl }}/essays/johnson.html)  
-Sherston Johnson
+Shersten Johnson
 
 [Rhythm Changes, Improvisation, and Chromaticism: Who Could Ask for Anything More?]({{ site.baseurl }}/essays/michaelsen.html)  
 Garrett Michaelsen
