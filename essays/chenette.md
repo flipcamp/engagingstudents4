@@ -56,19 +56,3 @@ Yet if we want to foster truly active motivic thinking in our students, we shoul
 Integrating jazz practices and repertoires into our teaching of motives, then, is an opportunity to diversify the corpus we teach and to foster active thinking in our students. Jazz musicians regularly look at and analyze the works of the masters, but usually with the goal of incorporating what they learn into their own work. To the extent that music teachers incorporate jazz repertoire and adopt some of these methods of improvisation, we will foster this active understanding of motives in the rest of our students as well.
 
 This work is copyright ⓒ2016 Timothy Chenette and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
-
-## Works cited
-
-Baker, David. 1988. [**Jazz Improvisation: A Comprehensive Method of Study for All Players.**](https://openlibrary.org/works/OL8063451W/David_Bakers_Modern_Concepts_in_Jazz_Improvisation) Rev. ed. Van Nuys, CA: Alfred Publishing.
-
-Burkholder, J. Peter, and Claude V. Palisca. 2014. [**Norton Anthology of Western Music.**](https://openlibrary.org/works/OL3954371W/Norton_Anthology_of_Western_Music) 7th ed. New York: W. W. Norton.
-
-Coker, Jerry. 1986. [**Improvising Jazz.**](https://openlibrary.org/works/OL5265279W/Improvising_Jazz_(Spectrum_Books)) New York: Simon and Schuster.
-
-Laitz, Steven G. 2008. [**The Complete Musician: An Integrated Approach to Tonal Theory, Analysis, and Listening.**](https://openlibrary.org/works/OL8002914W/The_Complete_Musician_Textbook_An_Integrated_Approach_to_Tonal_Theory_Analysis_and_Listening_Package) 2nd ed. New York: Oxford University Press.
-
-Sarath, Edward. 2010. [**Music Theory Through Improvisation.**](https://openlibrary.org/works/OL13768312W/Music_theory_through_improvisation) New York: Routledge.
-
-Schubert, Peter. 2014. [*“Teaching Music Analysis through Improvisation.”*](http://flipcamp.org/engagingstudents2/essays/schubert.html) *Engaging Students: Essays in Music Pedagogy* 2.
-
-———. 2013. [*"My Undergraduate Skills-Intensive Counterpoint Learning Environment (MUSICLE)."*](http://flipcamp.org/engagingstudents/schubert.html) *Engaging Students: Essays in Music Pedagogy* 1.

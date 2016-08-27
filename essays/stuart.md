@@ -126,25 +126,6 @@ Given that, in the classroom, I always improvise these exercises, it is ironic t
 
 There are some other ways, in addition to those described here, to do multi-part group rhythm exercises, and you may be able to come up with some that I have not used. But they all share in common language independence, address embodied cognition, and can be used to effectively build rhythmic strength, and listening skills. They are a very useful tool for teaching rhythm in the classroom or music clinic setting, even with a group of students whose talents and experience are widely varied. Please feel free to contact the author with any questions or to share your experiences with these exercises.
 
-References
-==========
-
-Daoust, Timothy James. 2008. [*Polymeter in Twentieth Century Music: A Study in Notational Methods*](https://libres.uncg.edu/ir/uncg/listing.aspx?id=214). Masters Degree Thesis for University of North Carolina at Greensboro.
-
-Hindemith, Paul. 1949. [**Elementary Training for Musicians**](https://openlibrary.org/works/OL2572277W/Elementary_training_for_musicians). New York: Schott Music Corporation.
-
-Iyer, Vijay. 2002. [*“Embodied Mind, Situated Cognition, and Expressive Microtiming in African-American Music.”*](http://www.jstor.org/stable/10.1525/mp.2002.19.3.387) *Music Perception: An Interdisciplinary Journal* 19 (3): 387–414.
-
-Kilchenmann, Lorenz, and Senn, Olivier. 2015. [*“Microtiming in Swing and Funk affects the body movement behavior of music expert listeners.”*](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4542135/) *Frontiers in Psychology* 6.
-
-Martinez, Amanda Rose. 2010. [*“The Improvisational Brain.”*](http://seedmagazine.com/content/print/the_improvisational_brain/) *Seedmagazine*. Accessed June 15, 2016.
-
-Starer, Robert. 1999. [*Basic Rhythm Training.*](https://openlibrary.org/works/OL3286318W/Basic_Rhythmic_Training_(Starer)) Alfred Publishing Company.
-
-Wikipedia. [*Hocket.*](https://en.wikipedia.org/wiki/Hocket)[ ](https://en.wikipedia.org/wiki/Hocket)Accessed June 15, 2016.
-
-Witek, Maria A. G., Clarke, Eric F., Wallentin, Mikkel, Kringelbach, Morton L., and Vuust, Peter. 2014. [*“Syncopation, Body-Movement and Pleasure in Groove Music.”*](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0094446) *PLoS ONE*.
-
 ***Acknowledgements***
 
 The author would like to express appreciation for the helpful comments and suggestions from reviewers Brian Moseley and Michael McClimon, and from Chris Stover and Garrett Michaelsen. The opportunity to develop experience with these exercises was provided by The New School and by those who graciously have invited me to teach clinics and workshops around the world. Thank you!

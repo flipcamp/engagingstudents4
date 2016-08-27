@@ -83,14 +83,3 @@ The lead sheet’s written-out embellishments on the repetition of the head, not
 “Afro Blue” is a unique tune that has much to offer beginning music theory students. Its concepts can be logically woven in with examples from other genres, and can also be used to introduce new methodologies of listening and improvising. Engaging a modal melody such as this one paves the way for the study of modal music of other popular styles that many musicians wish to explore but that are not central to traditional theory texts. This tune can also afford a jumping‐off point for a later demonstration of improvising variations on a melody, or re-composing using chord substitutions, and can lay the groundwork for later discussions of guide tones and alternative styles of voice-leading. Most important, students will be able to practice performing in solfège, arpeggiating chords, conducting, tapping rhythms, and improvising melodic embellishments, all while studying a historically significant classic with a captivating tune that will leave them humming for the rest of the day.
 
 This work is copyright ⓒ2016 Shersten Johnson and licensed under a [Creative Commons Attribution–ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
-
-Works Cited
-=====
-
-Miner, Michael.[ ](http://www.chicagoreader.com/Bleader/archives/2014/02/04/chicagos-neil-tesser-wins-grammy)[*“Chicago’s Neil Tesser wins Grammy.”*](http://www.chicagoreader.com/Bleader/archives/2014/02/04/chicagos-neil-tesser-wins-grammy) *The Bleader*. February 4, 2014.
-
-Santamaria, Mongo. “Afro Blue.” [**The Real Book**](http://www.halleonard.com/viewcloserlook.action?id=00240221&lid=-1&)*.* 6th edition. Milwaukee: Hal Leonard Corporation, 2004.
-
-Santamaria, Mongo.[ ](http://www.guitarcats.com/images/JazzStandardCharts/AFRO%20BLUE-9.jpg)[*“Afro Blue” simplified lead sheet. *](http://www.guitarcats.com/images/JazzStandardCharts/AFRO%20BLUE-9.jpg) Chord Changes: AFRO BLUE | GuitarCats. Guitarcats.com. Accessed June 23, 2016.
-
-Tesser, Neil. [*Liner notes.*](http://mediakits.concordmusicgroup.com/p/afro-blue-impressions/e-book.html) “Afro Blue Impressions” digital e-book. Accessed June 15, 2016.

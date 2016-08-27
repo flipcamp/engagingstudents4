@@ -83,20 +83,3 @@ Transcription–application pedagogy opens the door to more extended settings fo
 These extended applications and the typical transcription–application activities together illustrate the many ways that this approach enables students to engage with theory both musically and intellectually. The method incorporates many domains, including aural skills, analysis, performance, composition, and improvisation, and it employs them to build students’ fluency in spelling chords, recognizing and constructing idiomatic chord progressions, and understanding the harmonic implications of melody. The method’s effectiveness in teaching theory and its potential to build musicianship make it a prime candidate for adoption in the theory classroom.
 
 This work is copyright ⓒ2016 Ben Britton and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
-
-Works Cited
-===========
-
-Ciorba, Charles R. 2009. [“Predicting Jazz Improvisation Achievement through the Creation of a Path-Analytical Model.”](http://www.jstor.org/stable/40319319?seq=1#page_scan_tab_contents) *Bulletin of the Council for Research in Music Education* 180: 43–57.
-
-Liebman, David. [*“The Complete Transcription Process.”*](http://davidliebman.com/home/ed_articles/the-complete-transcription-process/) *David Liebman: Official Website*. Accessed May 19, 2016.
-
-Madura, Patrice D. 1996. [*“Relationships among Vocal Jazz Improvisation Achievement, Jazz Theory Knowledge, Imitative Ability, Musical Experience, Creativity, and Gender.”*](http://www.jstor.org/stable/3345598?seq=1#page_scan_tab_contents) *Journal of Research in Music Education* 44 (3): 252–267.
-
-May, Lissa F. 2003. [*“Factors and Abilities Influencing Achievement in Instrumental Jazz Improvisation.”*](http://www.jstor.org/stable/3345377?seq=1#page_scan_tab_contents) *Journal of Research in Music Education* 51 (3): 245–258.
-
-Michaelsen, Garrett. 2014. [*“Improvising to Learn/Learning to Improvise: Designing Scaffolded Group Improvisations for the Music Theory Classroom.”*](http://flipcamp.org/engagingstudents2/essays/michaelsen.html) *Engaging Students: Essays in Music Pedagogy* 2.
-
-Owens, Thomas. 1974. [*“Charlie Parker: Techniques of Improvisation.”*](http://www3.telus.net/sametz/charts/Charlie%20Parker%20Dissertation%20Volume%20I%20-%20Thomas%20Owens%201974.pdf) PhD diss. University of California, Los Angeles.
-
-Woody, Robert H. 2012. [*“Playing by Ear: Foundation or Frill?”*](http://www.jstor.org/stable/23364292?seq=1#page_scan_tab_contents) *Music Educators Journal* 99 (2): 82–88.

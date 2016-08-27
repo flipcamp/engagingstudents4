@@ -91,22 +91,3 @@ Having introduced the class to chordal extensions, chromatic alteration of those
 As music theory curricula become more and more pluralistic, Rhythm changes is an exemplary candidate for inclusion due to the many avenues it opens for students to explore chromaticism. Through learning and improvising over Rhythm changes, students will not only be exposed to an important 20th-century musical tradition, but will also more deeply ingrain common harmonic schemas and chromatic chords in their ears, fingers, and minds. Relying on that knowledge to introduce the vibrant practice of jazz reharmonization opens a new window on chromaticism, one that gives students a concrete way of embellishing harmonic prototypes through substitutional processes. Rhythm changes is a harmonic framework that exists to be explored and modified, helping to tear down the "[imaginary museum of musical works](https://openlibrary.org/works/OL1848495W/The_imaginary_museum_of_musical_works)." It is possible to imagine ways of “improvising on” works of the common-practice period in a similar way, either by extracting their chord progressions or reharmonizing their melodies. Students learn best when they come at an idea from as many angles as possible; adding Rhythm changes to music theory curricula provides a prismatic approach that can deepen and broaden their understanding of chromatic harmony.
 
 This work is copyright ⓒ2016 Garrett Michaelsen and licensed under a [Creative Commons Attribution–ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
-
-Works Cited
-===========
-
-Biamonte, Nicole. 2008. [*“Augmented-Sixth Chords vs. Tritone Substitutes.”*](http://www.mtosmt.org/issues/mto.08.14.2/mto.08.14.2.biamonte.html) *Music Theory Online* 14 (2).
-
-Goehr, Lydia. 2007. [**The Imaginary Museum of Musical Works.**](https://openlibrary.org/works/OL1848495W/The_imaginary_museum_of_musical_works) Revised ed. New York: Oxford University Press.
-
-Levine, Mark. 1995. [**The Jazz Theory Book.**](https://openlibrary.org/works/OL16981521W/The_jazz_theory_book) Petaluma, CA: Sher Music.
-
-Michaelsen, Garrett. 2014. [*“Improvising to Learn/Learning to Improvise: Designing Scaffolded Group Improvisations for the Music Theory Classroom.”*](http://flipcamp.org/engagingstudents2/essays/michaelsen.html) *Engaging Students: Essays in Music Pedagogy* 2.
-
-Rawlins, Robert. 2000. [*“Review of Mark Levine, The Jazz Theory Book.”*](http://www.mtosmt.org/issues/mto.00.6.1/mto.00.6.1.rawlins.html) *Music Theory Online* 6 (1).
-
-[**The Real Book.**](https://openlibrary.org/works/OL7987939W/The_Real_Book) 2004. 6th ed. Milwaukee, WI: Hal Leonard.
-
-Schmalfeldt, Janet. 1992. [*“Cadential Processes: The Evaded Cadence and the ‘One More Time’ Technique.”*](http://www.tandfonline.com/doi/abs/10.1080/01411899208574658) *Journal of Musicological Research* 12 (1–2): 1–52.
-
-Terefenko, Dariusz. 2014. [**Jazz Theory: From Basic to Advanced Study.**](https://openlibrary.org/works/OL17335998W/Jazz_Theory_from_Basic_to_Advanced_Study) New York: Routledge.

@@ -519,25 +519,3 @@ Overall, the difficulty designations here are more subjective. Among other consi
 Following the form in jazz requires the listener to perceive both stable norms and salient deviations from them. Doing so is aural training of the highest level, and exercises in jazz listening offer an efficient path towards the acquisition of important general skills. In addition, they stimulate the mind in a unique way, may be easily incorporated into a traditional theory or aural skills classroom, and heighten our sense of both the similarities and differences between the classical and jazz idioms. Finally, though this essay has focused on matters of phrase structure and hypermeter, other aspects of the multilayered jazz listening model I have described may be utilized to help traditional music students hear harmonic implications in contrapuntal music, or music that employs extended harmony.
 
 This work is copyright ⓒ2016 Rich Pellegrin and licensed under a [*Creative Commons Attribution-ShareAlike 3.0 Unported License*](http://creativecommons.org/licenses/by-sa/3.0/).
-
-## Works Cited
-
-Caplin, William E. *Classical Form: A Theory of Formal Functions for the Instrumental Music of Haydn, Mozart, and Beethoven.* New York: Oxford University Press, 1998.
-
-Coltrane, John. *Acknowledgement, Resolution, Pursuance/Psalm: Featuring Note-for-Note Transcriptions from A Love Supreme*. Milwaukee: Hal Leonard, 1973.
-
-Coltrane, John. *Giant Steps*. Saxophone transcriptions of the complete album. Milwaukee: Hal Leonard, \[2004?\].
-
-Corea, Chick. *Now He Sings, Now He Sobs: Complete Piano Transcriptions from the Classic Trio Recording Featuring Miroslav Vitous and Roy Haynes.* Transcriptions by Bill Dobbins. Rottenburg, Germany: Schott (Advance Music), 1988.
-
-Davis, Miles. *Kind of Blue: \[\[Transcriptions of the Classic Miles Davis Album, an Alternate Performance of “Flamenco Sketches,” an Introduction by Bill Kirchner, and More.\]\]. Milwaukee: Hal Leonard, 2001. \[\[/Full-score transcriptions of the complete album\]\]
-
-Hewson, Tom. [*Transcription of Brad Mehldau solo*](https://tomhewson.files.wordpress.com/2013/12/allthethings.pdf) from “All the Things You Are,” by the Brad Mehldau Trio.
-
-Pellegrin, Richard S. [*“On Jazz Analysis: Schenker, Salzer, and Salience.”*](https://digital.lib.washington.edu/researchworks/handle/1773/24093) PhD diss., University of Washington, 2013.
-
-Raz, Yehezkel. [*Transcription of Cory Henry solo*](https://www.youtube.com/watch?v=sCwSqqOdFM0) from “Lingus,” by Snarky Puppy.
-
-Sickler, Don, ed. *Thelonious Monk Fake Book*. Transcriptions by Steve Cardenas. Milwaukee: Hal Leonard, 2002.
-
-Yue, A-len. [*Transcription of “Sicilian Blue”*](https://imgv2-2-f.scribdassets.com/img/document/208166360/original/c4ab323d57/1455814456) by Hiromi Uehara.

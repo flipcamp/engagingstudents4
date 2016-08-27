@@ -35,12 +35,3 @@ Finally, three essays focus on harmony and harmonic nomenclature. Joon Park’s 
 For those teaching music theory in colleges and universities, what will or should a twenty-first-century music theory pedagogy look like? What further translations should we be making? These are crucial questions many are asking. They are also broad questions, since they likely involve rethinking aims and outcomes, repertories and canons, techniques and nomenclatures. The essays contained within this volume of *Engaging Students* provide a potent addition to this larger conversation.
 
 This work is copyright ⓒ2016 Keith Waters and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License.](https://www.google.com/url?q=http%3A%2F%2Fcreativecommons.org%2Flicenses%2Fby-sa%2F3.0%2F)
-
-
-## Works Cited
-
-Brownell, John. 1994. [“Analytical Models of Jazz Improvisation.”](http://jazzforschung.kug.ac.at/institut-16-jazzforschung/publikationen/jahrbuch-jazzforschung-jazz-research/jazzforschung-jazz-research-26-1994.html) Jazzforschung/Jazz Research 26: 9–29.
-
-Lewis, George. 1996. [“Improvised Music after 1950: Afrological and Eurological Perspectives.”](https://www.google.com/url?q=http%3A%2F%2Fjazzstudiesonline.org%2Fresource%2Fimprovised-music-after-1950-afrological-and-eurological-perspectives) Black Music Research Journal 16/1: 91–122.
-
-Meyer, Leonard. 1989. [Style and Music.](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL3267613W%2FStyle_and_music) Philadelphia: University of Pennsylvania.

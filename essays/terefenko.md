@@ -113,27 +113,4 @@ The lowest voice \|A&#9837;3–E3\| B&#9837;3–F &#9839;3\| neither explains th
 
 Utilizing tools from jazz theory in analysis of extended harmonic formations allows students to facilitate their understanding of the complex musical repertory from the *fin de siècle* period. In addition, it gives them an opportunity to experience harmony in much the same way as jazz musicians do. Engaging students in different modes of analysis, as demonstrated in this essay, has its advantages as it broadens their musical horizons, enhances their musical comprehension, and makes the overall pedagogy more effective.
 
-## Works Cited
-
-Cohn, Richard. 2012. [*Audacious Euphony.*](https://global.oup.com/academic/product/audacious-euphony-9780199772698?cc=ru&lang=en&) New York: Oxford University Press.
-
-Dobbins, Bill. 1994. [*A Creative Approach to Jazz Piano Harmony.*](http://www.amazon.com/Creative-Approach-Piano-Harmony-Dobbins/dp/B000WMIPMQ) Rottenburg, Germany: Advance Music.
-
-Harrison, Daniel. 1994. [*Harmonic Function in Chromatic Music*](http://press.uchicago.edu/ucp/books/book/chicago/H/bo3622784.html)[*.*](http://press.uchicago.edu/ucp/books/book/chicago/H/bo3622784.html) Chicago: University of Chicago Press.
-
-Kopp, David. 2006. [*Chromatic Transformations in Nineteenth-Century Music.*](http://www.cambridge.org/it/academic/subjects/music/nineteenth-century-music/chromatic-transformations-nineteenth-century-music) New York: Cambridge University Press.
-
-Larson, Steven. 2009. [*Analyzing Jazz: A Schenkerian Approach.*](http://www.amazon.com/Analyzing-Jazz-Schenkerian-Approach-Harmonologia/dp/1576471861) Hillsdale, NY: Pendragon Press.
-
-Levine, Mark. 1995. [*The Jazz Theory Book.*](https://openlibrary.org/works/OL16981521W/The_jazz_theory_book) Petaluma, CA: Sher Music.
-
-Rings, Steven. 2011. [*Tonality and Transformation.*](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780195384277.001.0001/acprof-9780195384277) New York: Oxford University Press.
-
-Russell, George. 2001. [*The Lydian Chromatic Concept of Tonal Organization.*](http://www.lydianchromaticconcept.com/main.html) New York: Concept Pub.
-
-Terefenko, Dariusz. 2014. [*Jazz Theory: From Basic to Advanced Study.*](https://openlibrary.org/works/OL17335998W/Jazz_Theory_from_Basic_to_Advanced_Study) New York: Routledge.
-
-Waters, Keith. 2011. [*The Studio Recordings of the Miles Davis Quintet, 1965–68.*](https://global.oup.com/academic/product/the-studio-recordings-of-the-miles-davis-quintet-1965-68-9780195393842?cc=us&lang=en&) New York: Oxford University Press.
-
-
 <p class="copyright">This work is copyright ⓒ2016 Dariusz Terefenko and licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution–ShareAlike 3.0 Unported License.</p>

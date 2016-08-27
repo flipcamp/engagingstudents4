@@ -89,18 +89,3 @@ The method I present in this article aims at building a stronger practical found
 There are several advantages of introducing figured bass as early as this article suggests. First, in line with the [2014 CMS Manifesto](http://depts.washington.edu/uwmused/UWMusEd/Happenings_files/Reform-Report%20on%20the%20Undergraduate%20Music%20Major%20.pdf), this method invites improvisation among students from the beginning. More abstract harmonic understanding will arise from the experience of the improvisation rather than teaching abstract concepts first and looking for suitable examples afterwards. Second, the students are presented with the task of creating a context-sensitive melody with less fear of “breaking the rules,” because whatever mistake the students make while improvising, they can quickly correct it by changing to a pitch represented in the figures. The experience of creating music by improvisation is different from that of writing down the notes on staff paper because, in improvisation, there is no lasting evidence of the error. Also, by framing a figured bass realization as a performance activity, an instructor can assess student work and provide feedback when it is most needed. Third, both jazz and classical music students will find this method useful, albeit for different reasons. For jazz musicians, this method directly helps the recognition of chordal extensions quickly. For classical musicians, this method complements the current notation-based instruction by providing an aural instruction with the direct link to improvisation.
 
 This work is copyright ⓒ2016 Joon Park and licensed under a [Creative Commons Attribution–ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
-
-**Works Cited**
-===============
-
-<span id="h.ao3ct0rsx2av" class="anchor"></span>Campbell, Patricia Shehan, David Myers, Edward Sarath, Juan Chattah, Lee Higgins, Victoria Lindsay Levine, David Rudge, and Timothy Rice. 2016. [**Transforming music study from its foundations: A manifesto for progressive change in the undergraduate preparation of music majors.**](http://symposium.music.org/index.php?option=com_k2&view=item&task=download&id=8_4e41331270665f6dc8bb0d8e93fbea79&Itemid=126) Copy Edited Version. The College Music Society.
-
-<span id="h.3vb37ri1n7x9" class="anchor"></span>Geminiani, Francesco. 1756. [**The Art of Accompaniment or A new and well digested method to learn to perform the Thorough Bass on the Harpsichord.**](http://imslp.nl/imglnks/usimg/b/b7/IMSLP372077-PMLP149534-artofaccompaniam00gemi.pdf) London.
-
-<span id="h.cb7o1ke48g3f" class="anchor"></span>Hermann, Richard. 2004. [*“Charlie Parker's Solo to ‘Ornithology’: Facets of Counterpoint, Analysis, and Pedagogy.”*](http://www.jstor.org/stable/25164564) *Perspectives of New Music* 42 (2): 222–262.
-
-<span id="h.sioqeggu37y6" class="anchor"></span>Salley, Keith. 2007. [*“Beyond Chord-Scale Theory: Realizing a Species Approach to Jazz Improvisation.”*](https://drive.google.com/open?id=0B0ZI8di-pEDvRXlQckRZbl82OGs) *Journal of Music Theory Pedagogy* 21: 97–118.
-
-<span id="h.a9uwba2lvd05" class="anchor"></span>Shaffer, Kris, and Robin Wharton, eds. 2014. [**Open Music Theory.**](http://openmusictheory.com) Hybrid Pedagogy Publishing.
-
-<span id="h.gwxuvfz3tpeq" class="anchor"></span>Terefenko, Dariusz. 2013. [*“The Passacaglia – A Primer for Teaching Baroque Improvisation.”*](http://aic.apsl.edu.pl/aicnr2/Terefenko%20173-196.pdf) *Ars Inter Culturas* 2: 173–196.
