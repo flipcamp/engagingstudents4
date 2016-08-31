@@ -102,7 +102,7 @@ Martinez, Amanda Rose. 2010. [“The Improvisational Brain.”](http://seedmagaz
 
 May, Lissa F. 2003. [“Factors and Abilities Influencing Achievement in Instrumental Jazz Improvisation.”](http://www.jstor.org/stable/3345377?seq=1#page_scan_tab_contents) *Journal of Research in Music Education* 51 (3): 245–258.
 
-McClelland, Ryan. 2006. [“Teaching Phrase Rhythm through Minuets from Haydn’s String Quartets.”](http://music.appstate.edu/node/3325) *Journal of Music Theory Pedagogy* 20: 5–35.
+McClelland, Ryan. 2006. [“Teaching Phrase Rhythm through Minuets from Haydn’s String Quartets.”](https://music.appstate.edu/about/jmtp/teaching-phrase-rhythm-through-minuets-haydns-string-quartets) *Journal of Music Theory Pedagogy* 20: 5–35.
 
 Meyer, Leonard. 1989. [*Style and Music.*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL3267613W%2FStyle_and_music) Philadelphia: University of Pennsylvania.
 
