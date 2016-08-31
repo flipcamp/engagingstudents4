@@ -40,6 +40,10 @@ Cohn, Richard. 2015. [“Why We Don’t Teach Meter, and Why We Should.”](http
 
 Coker, Jerry. 1986. [*Improvising Jazz.*](https://openlibrary.org/works/OL5265279W/Improvising_Jazz_(Spectrum_Books)) New York: Simon and Schuster.
 
+Coltrane, John. 1996. *John Coltrane Plays "Giant Steps:" Tenor Saxophone.* Milwaukee: Hal Leonard.
+
+———. 1973. *Acknowledgement, Resolution, Pursuance/Psalm: Featuring Note-for-Note Transcriptions from A Love Supreme*. Milwaukee: Hal Leonard.
+
 Daoust, Timothy James. 2008. [*Polymeter in Twentieth Century Music: A Study in Notational Methods.*](https://libres.uncg.edu/ir/uncg/listing.aspx?id=214) M.M. thesis, University of North Carolina at Greensboro.
 
 Dobbins, Bill. 1994. [*A Creative Approach to Jazz Piano Harmony.*](http://www.amazon.com/Creative-Approach-Piano-Harmony-Dobbins/dp/B000WMIPMQ) Rottenburg, Germany: Advance Music.
@@ -118,15 +122,15 @@ Pellegrin, Richard S. 2013. [*On Jazz Analysis: Schenker, Salzer, and Salience.*
 
 Rawlins, Robert. 2000. [“Review of Mark Levine, The Jazz Theory Book.”](http://www.mtosmt.org/issues/mto.00.6.1/mto.00.6.1.rawlins.html) *Music Theory Online* 6 (1).
 
+[*The Real Book.*](https://openlibrary.org/works/OL7987939W/The_Real_Book) 2004. Sixth edition. Milwaukee, WI: Hal Leonard.
+
 Rings, Steven. 2011. [*Tonality and Transformation.*](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780195384277.001.0001/acprof-9780195384277) New York: Oxford University Press.
 
 Russell, George. 2001. [*The Lydian Chromatic Concept of Tonal Organization.*](http://www.lydianchromaticconcept.com/main.html) New York: Concept Pub.
 
 Salley, Keith. 2007. [“Beyond Chord-Scale Theory: Realizing a Species Approach to Jazz Improvisation.”](https://drive.google.com/open?id=0B0ZI8di-pEDvRXlQckRZbl82OGs) *Journal of Music Theory Pedagogy* 21: 97–118.
 
-Santamaria, Mongo. 2004. “Afro Blue.” In [*The Real Book.*](http://www.halleonard.com/viewcloserlook.action?id=00240221&lid=-1&) Sixth edition. Milwaukee: Hal Leonard Corporation.
-
-———. [“Afro Blue” simplified lead sheet.](http://www.guitarcats.com/images/JazzStandardCharts/AFRO%20BLUE-9.jpg) Chord Changes: AFRO BLUE GuitarCats. Accessed June 23, 2016.
+Santamaria, Mongo. [“Afro Blue” simplified lead sheet.](http://www.guitarcats.com/images/JazzStandardCharts/AFRO%20BLUE-9.jpg) Chord Changes: AFRO BLUE GuitarCats. Accessed June 23, 2016.
 
 Sarath, Edward. 2010. [*Music Theory Through Improvisation.*](https://openlibrary.org/works/OL13768312W/Music_theory_through_improvisation) New York: Routledge.
 
@@ -161,11 +165,9 @@ Zbikowski, Lawrence M. 2004. [“Modelling the Groove: Conceptual Structure and 
 
 ## Review these.
 
-[**The Real Book.**](https://openlibrary.org/works/OL7987939W/The_Real_Book) 2004. 6th ed. Milwaukee, WI: Hal Leonard.
 
-Coltrane, John. *Acknowledgement, Resolution, Pursuance/Psalm: Featuring Note-for-Note Transcriptions from A Love Supreme*. Milwaukee: Hal Leonard, 1973.
 
-Coltrane, John. *Giant Steps*. Saxophone transcriptions of the complete album. Milwaukee: Hal Leonard, \[2004?\].
+
 
 Corea, Chick. *Now He Sings, Now He Sobs: Complete Piano Transcriptions from the Classic Trio Recording Featuring Miroslav Vitous and Roy Haynes.* Transcriptions by Bill Dobbins. Rottenburg, Germany: Schott (Advance Music), 1988.
 
@@ -175,6 +177,6 @@ Hewson, Tom. [*Transcription of Brad Mehldau solo*](https://tomhewson.files.word
 
 Raz, Yehezkel. [*Transcription of Cory Henry solo*](https://www.youtube.com/watch?v=sCwSqqOdFM0) from “Lingus,” by Snarky Puppy.
 
-Sickler, Don, ed. *Thelonious Monk Fake Book*. Transcriptions by Steve Cardenas. Milwaukee: Hal Leonard, 2002.
+
 
 Yue, A-len. [*Transcription of “Sicilian Blue”*](https://imgv2-2-f.scribdassets.com/img/document/208166360/original/c4ab323d57/1455814456) by Hiromi Uehara.
