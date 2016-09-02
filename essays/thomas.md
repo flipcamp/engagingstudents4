@@ -36,7 +36,7 @@ Working without a score as I describe above can be challenging and even unsettli
 
 <img src="{{ site.baseurl }}/images/thomas01.png" alt="image" />
 
-The metric displacement in “Straight, No Chaser,” which results from the manipulation of the primary motive, is similarly discoverable in its lead sheet, assuming that the F–B&#9837; gesture projects an anacrusis-downbeat structure each time it appears (I show this with brackets below). The relationship of the irregular melodic line to other musical layers in a given performance is not clearly observable in the lead sheet, however, aside from the shifting alignment of the primary motive against the harmony.
+The metric displacement in “Straight, No Chaser,” which results from the manipulation of the primary motive, is similarly discoverable in its lead sheet, assuming that the F–B<span class="accidental">&#9837;</span> gesture projects an anacrusis-downbeat structure each time it appears (I show this with brackets below). The relationship of the irregular melodic line to other musical layers in a given performance is not clearly observable in the lead sheet, however, aside from the shifting alignment of the primary motive against the harmony.
 
 **Figure 2.** Thelonious Monk, “Straight, No Chaser”: brackets delineate the recurring primary motive.
 
