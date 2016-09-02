@@ -16,10 +16,9 @@
       console.log(navigator.platform);
       if (navigator.platform == 'MacIntel' || navigator.platform == 'MacPPC') {
         console.log('grabbing Mac stylesheet');
-        var fileref=document.createElement("link");
-        fileref.setAttribute("rel", "stylesheet");
-        fileref.setAttribute("type", "text/css");
-        fileref.setAttribute("href", "{{ site.baseurl }}/stylesheets/stylesMac.css");
+        var fileref=document.createElement("script");
+        fileref.setAttribute("type", "text/javascript");
+        fileref.setAttribute("src", "{{ site.baseurl }}/javascripts/accidental_fix.js");
         document.getElementsByTagName('head')[0].appendChild(fileref);
       }
     </script>
