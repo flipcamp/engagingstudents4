@@ -31,11 +31,11 @@ The table in Figure 1 summarizes the distribution of chord tones, pitch alterati
 | Chord Type | Chord Tones | Pitch Alterations | Diatonic Extensions | Chromatic Extensions |
 | :-: | :-: | :-: | :-: | :-: |
 | **Major** | **1**, **3**, **5**, *6*, *7* | <span class="accidental">&#9837;</span>5, &#9839;5 | 9, 13 | &#9839;11, &#9839;9 |
-| **Minor** | **1**, **<span class="accidental">&#9837;</span>3**, **5**, *6*, *<span class="accidental">&#9837;</span>7* | &#9839;7 | 9, 11, 13 | &#9839;11, <span class="accidental">&#9837;</span>13 |
+| **Minor** | **1**, **&#9837;3**, **5**, *6*, *<span class="accidental">&#9837;</span>7* | &#9839;7 | 9, 11, 13 | &#9839;11, <span class="accidental">&#9837;</span>13 |
 | **Major-minor 7th** | **1**, **3**, **5**, *<span class="accidental">&#9837;</span>7* | <span class="accidental">&#9837;</span>5, &#9839;5 | 9, 13 | <span class="accidental">&#9837;</span>9, &#9839;9, &#9839;11, <span class="accidental">&#9837;</span>13 |
 | **Suspended** | **1**, **4** (11), **5**, *<span class="accidental">&#9837;</span>7* | <span class="accidental">&#9837;</span>5 | 9, 13 | <span class="accidental">&#9837;</span>9,  &#9839;9, <span class="accidental">&#9837;</span>13 |
-| **Half-diminished** | **1**, **<span class="accidental">&#9837;</span>3**, **<span class="accidental">&#9837;</span>5**, *<span class="accidental">&#9837;</span>7* | 9, 11, 13 | <span class="accidental">&#9837;</span>13 |
-| **Diminished** | **1**, **<span class="accidental">&#9837;</span>3**, **<span class="accidental">&#9837;</span>5**, *<span class="accidental">&#9837;</span><span class="accidental">&#9837;</span>7* | &#9839;7 | 9, 11, <span class="accidental">&#9837;</span>13 |
+| **Half-diminished** | **1**, **&#9837;3**, **&#9837;5**, *<span class="accidental">&#9837;</span>7* | 9, 11, 13 | <span class="accidental">&#9837;</span>13 |
+| **Diminished** | **1**, **&#9837;3**, **&#9837;5**, *<span class="accidental">&#9837;</span><span class="accidental">&#9837;</span>7* | &#9839;7 | 9, 11, <span class="accidental">&#9837;</span>13 |
 
 This table illustrates most of the possible additions to different chord types in terms of pitch alterations and chordal extensions. To guarantee that their various combinations result in coherent harmonic formations, jazz musicians frequently employ the concept of upper-structure triads. The use of upper-structure triads involves the superimposition of major or minor triads on top of (1) single notes, (2) thirds and sevenths of the underlying chords, (3) other triads, and (4) intervallic structures. To notate these chords, the slash notation is implemented, which makes them relatively easy to interpret and realize. A diagonal slash indicates that an upper-structure triad (notated on the left side of the slash) is superimposed over a single bass note; a horizontal slash indicates that an upper-structure triad (written on top) is superimposed over a chord written below the slash.
 
