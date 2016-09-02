@@ -8,14 +8,6 @@
     <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/styles.css">
     <link rel="stylesheet" href="{{ site.baseurl }}/stylesheets/pygment_trac.css">
 
-    <script>
-      console.log(navigator.platform);
-      if (navigator.platform == 'MacIntel' || navigator.platform == 'MacPPC') {
-        document.getElementById("accidental").style.letterSpacing = "-4px";
-        document.getElementById("accidental").style.marginLeft = "-5px";
-      }
-    </script>
-
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -62,5 +54,14 @@
   	  ga('send', 'pageview');
 
   	</script>
+    
+    <script>
+      console.log(navigator.platform);
+      if (navigator.platform == 'MacIntel' || navigator.platform == 'MacPPC') {
+        document.getElementByClass("accidental").style.letterSpacing = "-4px";
+        document.getElementByClass("accidental").style.marginLeft = "-5px";
+      }
+    </script>
+
   </body>
 </html>
