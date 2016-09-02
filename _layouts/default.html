@@ -54,10 +54,11 @@
   	  ga('send', 'pageview');
 
   	</script>
-    
+
     <script>
       console.log(navigator.platform);
-      if (navigator.platform == 'MacIntel' || navigator.platform == 'MacPPC') {
+      if (navigator.platform == 'MacIntel') {
+        console.log('updating');
         document.getElementByClass("accidental").style.letterSpacing = "-4px";
         document.getElementByClass("accidental").style.marginLeft = "-5px";
       }
