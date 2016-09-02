@@ -52,7 +52,8 @@ a small {
 }
 
 .accidental {
-  letter-spacing: -3px;
+  letter-spacing: -4px;
+  margin-left: -2px;
 }
 
 .wrapper {
