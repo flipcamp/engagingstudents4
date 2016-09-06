@@ -34,13 +34,13 @@ Working without a score as I describe above can be challenging and even unsettli
 
 **Figure 1.** Mozart, Symphony No. 40, mvt. 3: brackets delineate the conflicting 2- and 3-beat layers.
 
-<img src="{{ site.baseurl }}/images/thomas01.png" alt="image" />
+<img src="{{ site.baseurl }}/images/thomas01.png" alt="Figure 1. Excerpt from Mozart, Symphony No. 40, mvt. 3, piano reduction. Brackets delineate the conflicting 2-beat layers in the treble staff and 3-beat layers in the bass staff against the 3/4 meter." />
 
 The metric displacement in “Straight, No Chaser,” which results from the manipulation of the primary motive, is similarly discoverable in its lead sheet, assuming that the F–B<span class="accidental">&#9837;</span> gesture projects an anacrusis-downbeat structure each time it appears (I show this with brackets below). The relationship of the irregular melodic line to other musical layers in a given performance is not clearly observable in the lead sheet, however, aside from the shifting alignment of the primary motive against the harmony.
 
 **Figure 2.** Thelonious Monk, “Straight, No Chaser”: brackets delineate the recurring primary motive.
 
-<img src="{{ site.baseurl }}/images/thomas02.png" alt="image" />
+<img src="{{ site.baseurl }}/images/thomas02.png" alt="Figure 2. Excerpt from Thelonious Monk, \"Straight, No Chaser.\" Brackets delineate patterns of 3, 5, 3, 3, and 2 beats in the recurring primary motive against the 4/4 meter." />
 
 Thus, examining the lead sheet for “Straight, No Chaser” provides a useful first step toward understanding the tune’s temporal fabric, but it compels further engaged listening. Depending on the level of the students—and on the particular performance listened to—we might tackle such questions as: why we hear this in 4/4 given the melodic irregularities, what Monk does with his left hand to support or complicate our hearing of the meter, and what the other players are contributing to the rhythmic/metric scheme.
 
@@ -56,7 +56,7 @@ The lead sheet exercises described above naturally segue into transcription work
 
 **Figure 3.** Horace Silver, “The Preacher:” 1) simplified version with regularized rhythms; 2) standard lead-sheet version with beat anticipations.
 
-<img src="{{ site.baseurl }}/images/thomas03.png" alt="image" />
+<img src="{{ site.baseurl }}/images/thomas03.png" alt="Figure 3. First five measures of Horace Silver’s \"The Preacher\" with two staves showing a simplified version with regularized rhythms on top and a standard lead-sheet version with beat anticipations below." />
 
 Refining notation to more closely match a performance in this way reinforces the idea that rhythmic notation represents an approximation of events in time, despite how precise it appears to be on the page and in the proportional relationships of whole, half, quarter, and eighth notes. This approximation may be more obvious when listening to (or trying to capture) the rhythms of jazz, especially in light of swung eighths and anticipating and delaying beats, but recognizing it can open a broader conversation about the fuzzy nature of rhythmic notation even in detailed scores of common-practice repertoire, which generally suggest metronomic performances that do not materialize.
 
