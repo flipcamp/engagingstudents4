@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Transcription-Application Pedagogy: Learning Theory through Performance"
-author: Ben Britton, Eastman School of Music?
+author: Ben Britton, Eastman School of Music
 ---
 
 {{ page.title }}
@@ -14,15 +14,15 @@ author: Ben Britton, Eastman School of Music?
 
 Jazz musicians, like their classical counterparts, generally aspire to virtuosity in technical execution and musical expression. The demands of improvisation require that jazz students develop a parallel virtuosity in the use of many aspects of music theory, a finding indicated in studies by [Charles Ciorba](http://www.jstor.org/stable/40319319), [Patrice Madura](http://www.jstor.org/stable/3345598), and [Lissa May](http://www.jstor.org/stable/3345377). As suggested by [Garrett Michaelsen](http://flipcamp.org/engagingstudents2/essays/michaelsen.html), improvisation itself builds theoretical fluency as it requires the real time use of theoretical knowledge. Jazz pedagogy fosters this fluency by employing harmonic, melodic, and voice-leading analysis in activities meant to develop an improviser's melodic vocabulary and improve his or her ability to express harmony through melody. These learning activities include the transcription, analysis, segmentation, memorization, and transposition of content from improvised solos. This preparation leads to creative activities, which include composition based on melodic and harmonic content from the existing solo, improvisation similarly based on existing content, and improvisation of new melodic material over the chord changes of the solo.
 
-In this essay, I will refer to transcription, analysis, segmentation, memorization, transposition, and subsequent composition and improvisation as “transcription–application pedagogy.” As I will demonstrate, this approach offers multiple benefits including a combined aural, kinesthetic, and intellectual comprehension of musical concepts, which results from students’ engagement with theory through musical performance. This method and its practical applications and benefits will appeal to many students. First, the method provide practice in aural and analytical methods of memorization. Second, the it improves harmonic flexibility and expands the pool of melodic vocabulary drawn from when improvising. Third, in working toward fluid command and comprehension of idiomatic vocabulary, it benefits the performance of music in a given style. Fourth, and perhaps most important, many of these activities strengthen the relationship between audiation and instrumental or vocal execution, which, as [Robert Woody](http://www.jstor.org/stable/23364292?seq=1#page_scan_tab_contents) has outlined, contributes to success in memorized performance, traditional rehearsed performance with notation, sight reading, and improvisation. I will include an example of the approach at work to demonstrate each learning activity and its relevance to learning music theory.
+In this essay, I will refer to transcription, analysis, segmentation, memorization, transposition, and subsequent composition and improvisation as “transcription–application pedagogy.” As I will demonstrate, this approach offers multiple benefits including a combined aural, kinesthetic, and intellectual comprehension of musical concepts, which results from students’ engagement with theory through musical performance. This method and its practical applications and benefits will appeal to many students. First, the method provides practice in aural and analytical methods of memorization. Second, it improves harmonic flexibility and expands the pool of melodic vocabulary drawn from when improvising. Third, in working toward fluid command and comprehension of idiomatic vocabulary, it benefits the performance of music in a given style. Fourth, and perhaps most important, many of these activities strengthen the relationship between audiation and instrumental or vocal execution, which, as [Robert Woody](http://www.jstor.org/stable/23364292?seq=1#page_scan_tab_contents) has outlined, contributes to success in memorized performance, traditional rehearsed performance with notation, sight reading, and improvisation. I will include an example of the approach at work to demonstrate each learning activity and its relevance to learning music theory.
 
 ## Blues Transcription and Application
 
 When working with students who have little experience improvising over jazz progressions, I often use the 12-bar, jazz-blues progression, with its idiomatic presentation of tonic, subdominant, and dominant harmonies via tonicizations and blues-inflected chord tones (see the chord changes in Figure 1 for one possible progression). I assign a transcription of a musician’s blues improvisation to help students get a deeper aural and intellectual understanding of the progression and further develop their knowledge of melodic and harmonic idioms. A couple of important activities serve as precursors to the actual transcription process. First, we review the form and details of the harmonic progression. This encourages them to be aware of the harmony as they transcribe, allowing them to more intelligently predict the improvisation’s pitch content. Having the underlying harmonic pattern in mind also allows them to make analytical observations as they transcribe. Second, I have students get as familiar as possible with the solo. They listen to it repeatedly and sing along with the recording. Deep familiarity beforehand facilitates the transcription process as students can rely on their aural memory when finding the pitches. Depending on time constraints and the students’ skill levels, the transcription length can vary in length from a single phrase to an entire solo. The example transcription below is the [second chorus](https://youtu.be/HgH_7VLa1BU?t=1m12s) of Sonny Stitt’s solo on “Dig Dr. Woody.”
 
-**Figure 1.** Transcription of the second chorus of Sonny Stitt’s solo on “Dig Dr. Woody.” Transcription by author.
+**Figure 1.** Transcription of the second chorus of Sonny Stitt’s solo on “Dig Dr. Woody.” Transcription by author. Corresponding audio for this example is [linked here](https://www.youtube.com/watch?v=HgH_7VLa1BU&feature=youtu.be&t=1m12s).
 
-<img src="{{ site.baseurl }}/images/britton01.png" alt="image" />
+<img src="{{ site.baseurl }}/images/britton01.png" alt="Transcription of the second chorus of Sonny Stitt’s solo on 'Dig Dr. Woody.' Transcription by author." />
 
 After completing the transcription, we begin analyzing it. Students identify chord tones and recognize melodic features such as passing tones, neighbor tones, and delayed resolutions. Basic analysis along these lines reinforces the students’ knowledge of fundamentals and strengthens their grasp of how a melodic line communicates the harmony. I also have students identify the underlying voice-leading pathways of common progressions, which can later be elaborated in improvisation. The unfolding of scale degrees 6–5–4–3 in the ii–V–I in D minor and 5–4–3 in the ii–V–I C minor in mm. 7–9 of Figure 1 are good examples of idiomatic voice-leading paths.
 
@@ -30,7 +30,7 @@ In the the next step, we begin to segment the solo, breaking up longer phrases i
 
 **Figure 2.** Four segments from Sonny Stitt’s solo on “Dig Dr. Woody.”
 
-<img src="{{ site.baseurl }}/images/britton02.png" alt="image" />
+<img src="{{ site.baseurl }}/images/britton02.png" alt="Four segments from Sonny Stitt’s solo on 'Dig Dr. Woody.' The first is a longer passages in mm. 4–5 of the solo that occurs over a ii-V progression leading to Eb. The second appears in mm. 7–9 and features a longer chain of fifths-related chords leading to Cm7. The third is a short four-note fragment from m. 3 that features incomplete neighbor tones around a chordal fifth. The fourth and final segment, from m. 7, is also short and outlines a major chord." />
 
 In preparation for transposing the segments, I have students memorize them using scale degrees while also recognizing which scale degrees represent chord tones in each chord. When applicable, we use the scale degrees of the tonicized key. For example, in the segment from mm. 4–5, we would use scale degrees from E<span class="accidental">&#9837;</span> major. In the more complicated segment in mm. 7–9, we would start with scale degrees in D minor and switch to scale degrees in C minor at the D minor chord, interpreting the F as both scale degree 3 in D minor and 4 in C minor. Using scale degrees gives students a straightforward method of abstracting pitch information and facilitating transposition.
 
@@ -42,21 +42,21 @@ Having gained familiarity with the content through transcription, analysis, segm
 
 Due to the effectiveness transcription–application pedagogy has proven in helping jazz students internalize theoretical and aural aspects of melodic and harmonic vocabulary, I propose that the same activities could be applied to teaching melodic and harmonic vocabulary in common-practice styles. The following adaptation of the approach applies each of the activities suggested above to learning the cadential 6/4 chord. An effective passage for teaching the cadential 6/4 is the [cadence of the second theme](https://www.youtube.com/watch?v=JcUh-ggBfzI&feature=youtu.be&t=36s) in the first movement of Mozart's Piano Sonata No. 16 in C Major (see Figure 3, though students would only be provided with an audio clip). Because both the melody and accompaniment are monophonic, both parts can be easily adapted to many instruments and voice.
 
-**Figure 3.** Measures 24–26 of the first movement of Mozart’s *Piano Sonata No. 16 in C Major* (K. 545).
+**Figure 3.** Measures 24–26 of the first movement of Mozart’s Piano Sonata No. 16 in C Major (K. 545). Corresponding audio for this figure is [linked here](https://www.youtube.com/watch?v=JcUh-ggBfzI&feature=youtu.be&t=36s).
 
-<img src="{{ site.baseurl }}/images/britton04.png" alt="image" />
+<img src="{{ site.baseurl }}/images/britton04.png" alt="Measures 24–26 of the first movement of Mozart’s Piano Sonata No. 16 in C Major (K. 545)." />
 
 First, I would assign students to listen to an audio excerpt containing the measures and learn to sing the melodic line with and without the recording. To help students quickly grasp the harmonic implications of the melodic line, I would either assign a transcription of the left hand accompaniment or provide notation of just the accompaniment, based on the class’ ability (see Figure 4). Students would next complete a Roman-numeral and figured-bass analysis. I would also assign them to learn to play and sing the accompaniment from memory. With these supporting activities completed, students would now be prepared to transcribe the melodic line.
 
-**Figure 4.** Left hand accompaniment of K.545 excerpt.
+**Figure 4.** Left hand accompaniment of mm. 24–26 of Mozart’s Piano Sonata K.545.
 
-<img src="{{ site.baseurl }}/images/britton05.png" alt="image" />
+<img src="{{ site.baseurl }}/images/britton05.png" alt="Left hand accompaniment of mm. 24–26 of Mozart’s Piano Sonata K.545. The included Roman-numeral analysis shows cadential 6/4 harmony moving to dominant-seventh and resolving tonic." />
 
 Following transcription, I would have students complete an analysis of the transcribed material. They would analyze which scale degrees represent chord tones within each harmony and determine the melodic functions of the remaining pitches (e.g. passing and neighboring motion). Important voice-leading tendencies would also be included in the analysis. Additionally, we would identify the structurally important pitches of the melody, which would later be used as an aid in composition and improvisation (see Figure 5). Another aural activity reinforcing all of the above would be to sing through both the melodic line and accompaniment on scale degrees or solfège syllables.
 
 **Figure 5.** Structurally important pitches of the melody. Guide for composed or improvised embellishment.
 
-<img src="{{ site.baseurl }}/images/britton06.png" alt="image" />
+<img src="{{ site.baseurl }}/images/britton06.png" alt="Structurally important pitches of the melody to be used as a guide for composed or improvised embellishment. These pitches are B4 and D5 over the V6/4 chord, A4 over V7, and G4 over I." />
 
 With an analysis in hand, students would be prepared to begin practicing transpositions of the passage on their respective instruments. I would instruct students to practice transpositions around the circle of fifths, which discourages intervallically transposing each note from one key to the next, thereby encouraging them think in terms of scale degrees. Both the melodic line and accompaniment would be assigned. I would typically require that students practice melodic segments in all twelve keys, though this requirement could be adapted to the class's skill level.
 
@@ -64,7 +64,7 @@ Unlike the blues transcription, this example is already a focused segment of mus
 
 **Figure 6.** Short melodic segment beginning on a dissonance.
 
-<img src="{{ site.baseurl }}/images/britton07.png" alt="image" />
+<img src="{{ site.baseurl }}/images/britton07.png" alt="Short melodic segment beginning on a dissonance. It features the pitches C6–B5–A5–G5 over V6/4 harmony, and A5 over V7." />
 
 Once students are sufficiently adept at transcription, analysis, and transposition, I would assign them to compose an embellished version of the melodic line using the structurally important notes and related voice-leading as a guide (given in Figure 5 above). Giving them specific melodic parameters such as working with passing tones or appoggiaturas provides focus and direction. Depending on the skill level of the class, they can be given greater or lesser latitude in this pursuit. As in the previous activities, I would assign students to practice this new material in twelve keys.
 
@@ -72,7 +72,7 @@ Finally, I would assign students to improvise harmonically clear melodic content
 
 **Figure 7.** Roman numeral notation for improvisation.
 
-<img src="{{ site.baseurl }}/images/britton08.png" alt="image" />
+<img src="{{ site.baseurl }}/images/britton08.png" alt="Roman numeral notation and looped audio track for improvisation. The figure adapts the left-hand accompaniment from Mozart’s excerpt into a four-bar phrase, with one bar of V6/4 and V7 harmonies, then a resolution to I and repetition of the V7-I cadence." />
 
 With limited time resources, it will not always be practical to incorporate all of the above, but a number of relevant benefits would come from including the core activities of transcribing the passage, memorizing its scale degrees and Roman numeral analysis, transposing the material to other keys, and applying it creatively through composition or improvisation. Students will have gained the ability to more quickly identify and construct the cadential 6/4 in various keys and reference their kinesthetic memory in moments of analytical doubt. They will also have an improved ability to recognize the cadential 6/4 aurally. Zooming out to a broader perspective, this kind of command over fundamental harmonic vocabulary and its melodic realization will facilitate subsequent analytical activities, like examining phrase structure and form, which often require harmonic analysis as a preliminary step.
 
