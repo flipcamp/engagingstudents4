@@ -22,7 +22,7 @@ There is no standard version of Rhythm changes. Jazz musicians began adapting Ge
 
 **Figure 1.** “I Got Rhythm” lead sheet.
 
-<img src="{{ site.baseurl }}/images/michaelsen01.png" alt="image" />
+<img src="{{ site.baseurl }}/images/michaelsen01.png" alt="\"I got rhythm\" lead sheet." />
 
 After distributing the lead sheet to students, we work through the tune as a class, attempting to make sense of the chord symbols by assigning them Roman numerals. The first four bars offer few difficulties, but the next four provide ample opportunities for introducing the concept of secondary functions. The first chromatic chord, B<span class="accidental">&#9837;</span>7 in m. 5, provides an excellent introduction to the topic, as it emerges seamlessly as a chromatic alteration of the preceding B<span class="accidental">&#9837;</span>M7 tonic chord, and resolves as expected to its secondary tonic, E<span class="accidental">&#9837;</span>M7. The turnaround in mm. 7–8 provides an opportunity for discussing how the Dm7 chord, at first conceptualized as iii, can be thought of as an applied ii chord participating in a secondary ii7–V7 applied to C minor, which is then sequenced in the following bar as the primary ii7–V7. This analysis resonates particularly well with jazz harmonic practice, in which musicians view the ii7–V7–I7 as the underlying schema for most harmonic progressions. Turning to the bridge, students are now prepared for dealing with the chromatic D7 chord, and readily identify it as V7/vi. When it resolves to G7, however, they are surprised! This leads naturally to a discussion of elided or deferred resolutions of secondary dominants, creating the chain that eventually reaches its conclusion on F7, the primary dominant.
 
@@ -30,35 +30,35 @@ After analyzing Rhythm changes, I have students practice realizing it at the pia
 
 **Figure 2.** Rhythm changes keyboard chords.
 
-<img src="{{ site.baseurl }}/images/michaelsen02.png" alt="image" />
+<img src="{{ site.baseurl }}/images/michaelsen02.png" alt="A keyboard version of Rhythm-changes chords, with a single bass note in the left hand and three-note chord in the right hand. The right hand chord voicings feature smooth voice leading, but occasionally leap to preserve the same inversions for chords that recur." />
 
 [As I have argued ](http://flipcamp.org/engagingstudents2/essays/michaelsen.html) elsewhere, improvisation provides an ideal medium for students to learn and explore music theory. When using melodic improvisation to teach students harmonic concepts, my primary focus is on them inventing a line that emphasizes chord tones in time with the unfolding progression. An essential [introductory scaffold](http://edglossary.org/scaffolding/) for playing Rhythm changes is to have students arpeggiate up and/or down each seventh chord in eighth notes, both vocally and on their instrument. This should be done in two ways: first, they perform each arpeggio starting on root pitches as demonstrated in Figure 3. Second, they strive to connect chord tones more smoothly as they do when performing them on piano, but now as an arpeggiated single line. Given the two-chords-per-bar harmonic rhythm of the A sections, there is enough time to arpeggiate up the first chord, shift down to the closest neighboring pitch of the second, and then continue down before reaching the next measure. The leisurely two-bars-per-chord pace of the B section allows motion through each arpeggio twice before finding the smoothest connections to the following dominant chord. Figure 4 notates one way of performing this arpeggiated scaffold.
 
 **Figure 3.** Root-position chord arpeggios on Rhythm changes.
 
-<img src="{{ site.baseurl }}/images/michaelsen03.png" alt="image" />
+<img src="{{ site.baseurl }}/images/michaelsen03.png" alt="Root-position chord arpeggios on Rhythm changes. For chords lasting two beats, the arpeggio moves up each chord in eighth notes, then leaps to the root of the next chord. For the two-bar-long chords in the B section, each arpeggio moves up and down each chord once before leaping to the root of the next chord." />
 
 **Figure 4.** Chord arpeggios with smooth voice leading on Rhythm changes.
 
-<img src="{{ site.baseurl }}/images/michaelsen04.png" alt="image" />
+<img src="{{ site.baseurl }}/images/michaelsen04.png" alt="A version of the chordal arpeggios over Rhythm changes as in Figure 3, but one that replicates the smoother voice leading of the keyboard chords in Figure 2. For two-beat chords, the arpeggio begins on the root of the first chord, moves up in eighth notes, then moves down to the nearest chord member of the next chord and descends through its remaining chords. This pattern repeats in each measure. For the two-bar chords, the arpeggio moves up and down each twice, then repeats the common tone and does a similar arpeggiation, this time in a different inversion for the next chord." />
 
 Once students are comfortable playing the progression as an arpeggiated line, we begin making the leap towards improvising a more varied and creative melody. At first, I instruct them to keep the chordal arpeggiations in mind but add in more rhythmic variety, leaving out some of the pitches, sustaining others, and playing them in new arrangements. Figure 5 provides one example of how this might sound over the A section. This is an especially good technique for dealing with the A section, given the brisk rate at which each chord appears. I then instruct them to add passing tones in between the chord tones, filling in the gaps with melodic steps diatonic to the home key (see Figure 6 for a hypothetical improvisation). When dealing with the B section, I introduce the notion of chord–scale equivalency common in jazz pedagogy and have students practice running Mixolydian scales up and down in time with the progression, as shown in Figure 7. The large difference in harmonic rhythm between the two sections gives students the opportunity to focus on chordal arpeggiations in the A sections and scalar representations in the B section. I also encourage them to look for interesting chromatic lines that bridge the boundaries between chords. One such line that I have the class practice begins in m. 5 and is notated in Figure 8. Emphasizing moments of chromatic change, arpeggiating chord tones, and filling in the gaps with scale tones are important ways of outlining a harmonic structure that will enable students to produce sophisticated melodic improvisations.
 
 **Figure 5.** Example improvisation over the A section of Rhythm changes based on chordal arpeggiations.
 
-<img src="{{ site.baseurl }}/images/michaelsen05.png" alt="image" />
+<img src="{{ site.baseurl }}/images/michaelsen05.png" alt="Example improvisation over the A section of Rhythm changes based on chordal arpeggiations. The improvisation is rhythmically varied and uses only pitches in the seventh chords." />
 
 **Figure 6.** Example improvisation over mm. 1–4 of Rhythm changes that incorporates passing tones between chord tones.
 
-<img src="{{ site.baseurl }}/images/michaelsen06.png" alt="image" />
+<img src="{{ site.baseurl }}/images/michaelsen06.png" alt="Example improvisation over mm. 1–4 of Rhythm changes that incorporates passing tones between chord tones." />
 
 **Figure 7.** Mixolydian scales in the B section of Rhythm changes.
 
-<img src="{{ site.baseurl }}/images/michaelsen07.png" alt="image" />
+<img src="{{ site.baseurl }}/images/michaelsen07.png" alt="Notation of the four mixolydian scales rooted on D, G, C, and F, in the B section of Rhythm changes." />
 
 **Figure 8.** Chromatic line in mm. 5–7 of A section of Rhythm changes.
 
-<img src="{{ site.baseurl }}/images/michaelsen08.png" alt="image" />
+<img src="{{ site.baseurl }}/images/michaelsen08.png" alt="A chromatic line that students should perform in mm. 5–7 of A section of Rhythm changes: Bb4–A4–Ab4–G4–Gb4–F4." />
 
 Given that improvisation is a complex and authentic activity, adding in supportive scaffolds like these is essential for setting up students for success, particularly those with little to no prior experience. In the course of students’ improvisations, I often jump in and have the whole class repeat back interesting melodic ideas that the improviser comes up with. This gives the improviser praise while also engaging the rest of the class, giving them a melodic phrase to repeat and add to their personal lexicons. More of the class may be involved while waiting their turn by designating a rhythm section out of the group, with a few students providing chordal accompaniment on piano and guitar, some outlining chordal roots either vocally or on a bass-register instrument, and others providing a percussive backdrop by clapping, tapping, or playing drum kit. By experiencing the common harmonic schemas and secondary-dominant chromaticism inherent in Rhythm changes through analysis, keyboard performance, and melodic improvisation, students internalize and personalize their knowledge of these concepts, solidifying their understanding and leading into other musical styles and activities.
 
@@ -78,11 +78,11 @@ The final reharmonization technique I discuss with my students is one that John 
 
 **Figure 9.** Comparison between “Tune Up” and “Countdown.”
 
-<img src="{{ site.baseurl }}/images/michaelsen09.png" alt="image" />
+<img src="{{ site.baseurl }}/images/michaelsen09.png" alt="Comparison between the chord changes of \"Tune Up\" and \"Countdown,\" showing the interpolation of chords related by major thirds between the ii7 and V7 chords." />
 
 **Figure 10.** Rhythm changes A section with “Countdown” transformation.
 
-<img src="{{ site.baseurl }}/images/michaelsen10.png" alt="image" />
+<img src="{{ site.baseurl }}/images/michaelsen10.png" alt="Rhythm changes A section with \"Countdown\" transformation. Instead of a repeated I–vi–ii–V progression over the first four bars, the chords have been changed to: BbM9–Gm9–Cm9–Db9–GbM13–A13–DM9–F13–BbM9." />
 
 Having introduced the class to chordal extensions, chromatic alteration of those extensions, addition of ii7 chords, secondary-dominant and tritone substitutions, and Coltrane changes, I distribute this [linked PDF]({{ site.baseurl }}/images/michaelsen14.pdf), which summarizes these techniques and demonstrates their use in a one-chorus reharmonization of Rhythm changes. I have students try their hand at reharmonizing other tunes, with good candidates being "[Autumn Leaves](https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7)" and "[All The Things You Are](https://open.spotify.com/track/6T69c5obsCuQbSkIP7fYis)." While these techniques do not begin to fully describe jazz reharmonization practice, they give students plenty to work with in order to produce their own novel versions of standard tunes. By looking at chromaticism through the lens of reharmonization, students learn to treat harmonic prototypes more flexibly, enabling them to be more creative when composing or improvising on their own.
 
