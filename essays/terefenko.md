@@ -113,4 +113,4 @@ The lowest voice \|A<span class="accidental">&#9837;</span>3–E3\| B<span class
 
 Utilizing tools from jazz theory in analysis of extended harmonic formations allows students to facilitate their understanding of the complex musical repertory from the *fin de siècle* period. In addition, it gives them an opportunity to experience harmony in much the same way as jazz musicians do. Engaging students in different modes of analysis, as demonstrated in this essay, has its advantages as it broadens their musical horizons, enhances their musical comprehension, and makes the overall pedagogy more effective.
 
-<p class="copyright">This work is copyright ⓒ2016 Dariusz Terefenko and licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution–ShareAlike 3.0 Unported License.</p>
+<p class="copyright">This work is copyright ⓒ2016 Dariusz Terefenko and licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution–ShareAlike 3.0 Unported License.</a></p>

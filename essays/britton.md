@@ -82,4 +82,4 @@ Transcription–application pedagogy opens the door to more extended settings fo
 
 These extended applications and the typical transcription–application activities together illustrate the many ways that this approach enables students to engage with theory both musically and intellectually. The method incorporates many domains, including aural skills, analysis, performance, composition, and improvisation, and it employs them to build students’ fluency in spelling chords, recognizing and constructing idiomatic chord progressions, and understanding the harmonic implications of melody. The method’s effectiveness in teaching theory and its potential to build musicianship make it a prime candidate for adoption in the theory classroom.
 
-<p class="copyright">This work is copyright ⓒ2016 Ben Britton and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).</p>
+<p class="copyright">This work is copyright ⓒ2016 Ben Britton and licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution–ShareAlike 3.0 Unported License.</a></p>
