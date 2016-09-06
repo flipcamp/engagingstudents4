@@ -22,7 +22,7 @@ There is no standard version of Rhythm changes. Jazz musicians began adapting Ge
 
 **Figure 1.** “I Got Rhythm” lead sheet.
 
-<img src="{{ site.baseurl }}/images/michaelsen01.png" alt="\"I got rhythm\" lead sheet." />
+<img src="{{ site.baseurl }}/images/michaelsen01.png" alt="'I got rhythm' lead sheet." />
 
 After distributing the lead sheet to students, we work through the tune as a class, attempting to make sense of the chord symbols by assigning them Roman numerals. The first four bars offer few difficulties, but the next four provide ample opportunities for introducing the concept of secondary functions. The first chromatic chord, B<span class="accidental">&#9837;</span>7 in m. 5, provides an excellent introduction to the topic, as it emerges seamlessly as a chromatic alteration of the preceding B<span class="accidental">&#9837;</span>M7 tonic chord, and resolves as expected to its secondary tonic, E<span class="accidental">&#9837;</span>M7. The turnaround in mm. 7–8 provides an opportunity for discussing how the Dm7 chord, at first conceptualized as iii, can be thought of as an applied ii chord participating in a secondary ii7–V7 applied to C minor, which is then sequenced in the following bar as the primary ii7–V7. This analysis resonates particularly well with jazz harmonic practice, in which musicians view the ii7–V7–I7 as the underlying schema for most harmonic progressions. Turning to the bridge, students are now prepared for dealing with the chromatic D7 chord, and readily identify it as V7/vi. When it resolves to G7, however, they are surprised! This leads naturally to a discussion of elided or deferred resolutions of secondary dominants, creating the chain that eventually reaches its conclusion on F7, the primary dominant.
 
@@ -78,11 +78,11 @@ The final reharmonization technique I discuss with my students is one that John 
 
 **Figure 9.** Comparison between “Tune Up” and “Countdown.”
 
-<img src="{{ site.baseurl }}/images/michaelsen09.png" alt="Comparison between the chord changes of \"Tune Up\" and \"Countdown,\" showing the interpolation of chords related by major thirds between the ii7 and V7 chords." />
+<img src="{{ site.baseurl }}/images/michaelsen09.png" alt="Comparison between the chord changes of 'Tune Up' and 'Countdown,' showing the interpolation of chords related by major thirds between the ii7 and V7 chords." />
 
 **Figure 10.** Rhythm changes A section with “Countdown” transformation.
 
-<img src="{{ site.baseurl }}/images/michaelsen10.png" alt="Rhythm changes A section with \"Countdown\" transformation. Instead of a repeated I–vi–ii–V progression over the first four bars, the chords have been changed to: BbM9–Gm9–Cm9–Db9–GbM13–A13–DM9–F13–BbM9." />
+<img src="{{ site.baseurl }}/images/michaelsen10.png" alt="Rhythm changes A section with 'Countdown' transformation. Instead of a repeated I–vi–ii–V progression over the first four bars, the chords have been changed to: BbM9–Gm9–Cm9–Db9–GbM13–A13–DM9–F13–BbM9." />
 
 Having introduced the class to chordal extensions, chromatic alteration of those extensions, addition of ii7 chords, secondary-dominant and tritone substitutions, and Coltrane changes, I distribute this [linked PDF]({{ site.baseurl }}/images/michaelsen14.pdf), which summarizes these techniques and demonstrates their use in a one-chorus reharmonization of Rhythm changes. I have students try their hand at reharmonizing other tunes, with good candidates being "[Autumn Leaves](https://open.spotify.com/track/0X5DcGkbxCXSadgj01ZXd7)" and "[All The Things You Are](https://open.spotify.com/track/6T69c5obsCuQbSkIP7fYis)." While these techniques do not begin to fully describe jazz reharmonization practice, they give students plenty to work with in order to produce their own novel versions of standard tunes. By looking at chromaticism through the lens of reharmonization, students learn to treat harmonic prototypes more flexibly, enabling them to be more creative when composing or improvising on their own.
 
