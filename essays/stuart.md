@@ -130,4 +130,4 @@ There are some other ways, in addition to those described here, to do multi-part
 
 The author would like to express appreciation for the helpful comments and suggestions from reviewers Brian Moseley and Michael McClimon, and from Chris Stover and Garrett Michaelsen. The opportunity to develop experience with these exercises was provided by The New School and by those who graciously have invited me to teach clinics and workshops around the world. Thank you!
 
-This work is copyright ⓒ2015 Rory Stuart and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+<p class="copyright">This work is copyright ⓒ2015 Rory Stuart and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).</p>

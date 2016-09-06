@@ -34,4 +34,4 @@ Finally, three essays focus on harmony and harmonic nomenclature. Joon Park’s 
 
 For those teaching music theory in colleges and universities, what will or should a twenty-first-century music theory pedagogy look like? What further translations should we be making? These are crucial questions many are asking. They are also broad questions, since they likely involve rethinking aims and outcomes, repertories and canons, techniques and nomenclatures. The essays contained within this volume of *Engaging Students* provide a potent addition to this larger conversation.
 
-This work is copyright ⓒ2016 Keith Waters and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License.](https://creativecommons.org/licenses/by-sa/3.0/)
+<p class="copyright">This work is copyright ⓒ2016 Keith Waters and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License.](https://creativecommons.org/licenses/by-sa/3.0/)</p>

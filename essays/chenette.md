@@ -55,4 +55,4 @@ Yet if we want to foster truly active motivic thinking in our students, we shoul
 
 Integrating jazz practices and repertoires into our teaching of motives, then, is an opportunity to diversify the corpus we teach and to foster active thinking in our students. Jazz musicians regularly look at and analyze the works of the masters, but usually with the goal of incorporating what they learn into their own work. To the extent that music teachers incorporate jazz repertoire and adopt some of these methods of improvisation, we will foster this active understanding of motives in the rest of our students as well.
 
-This work is copyright ⓒ2016 Timothy Chenette and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).
+<p class="copyright">This work is copyright ⓒ2016 Timothy Chenette and licensed under a [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/).</p>
