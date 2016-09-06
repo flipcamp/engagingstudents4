@@ -161,22 +161,3 @@ Witek, Maria A. G., Eric F. Clarke, Mikkel Wallentin, Morton L. Kringelbach, and
 Woody, Robert H. 2012. [“Playing by Ear: Foundation or Frill?”](http://www.jstor.org/stable/23364292?seq=1#page_scan_tab_contents) *Music Educators Journal* 99 (2): 82–88.
 
 Zbikowski, Lawrence M. 2004. [“Modelling the Groove: Conceptual Structure and Popular Music.”](http://zbikowski.uchicago.edu/pdfs/Zbikowski_Modelling_the_Groove_2004.pdf) *Journal of the Royal Musical Association* 129 (2): 272–297.
-
-
-## Review these.
-
-
-
-
-
-Corea, Chick. *Now He Sings, Now He Sobs: Complete Piano Transcriptions from the Classic Trio Recording Featuring Miroslav Vitous and Roy Haynes.* Transcriptions by Bill Dobbins. Rottenburg, Germany: Schott (Advance Music), 1988.
-
-Davis, Miles. *Kind of Blue: \[\[Transcriptions of the Classic Miles Davis Album, an Alternate Performance of “Flamenco Sketches,” an Introduction by Bill Kirchner, and More.\]\]. Milwaukee: Hal Leonard, 2001. \[\[/Full-score transcriptions of the complete album\]\]
-
-Hewson, Tom. [*Transcription of Brad Mehldau solo*](https://tomhewson.files.wordpress.com/2013/12/allthethings.pdf) from “All the Things You Are,” by the Brad Mehldau Trio.
-
-Raz, Yehezkel. [*Transcription of Cory Henry solo*](https://www.youtube.com/watch?v=sCwSqqOdFM0) from “Lingus,” by Snarky Puppy.
-
-
-
-Yue, A-len. [*Transcription of “Sicilian Blue”*](https://imgv2-2-f.scribdassets.com/img/document/208166360/original/c4ab323d57/1455814456) by Hiromi Uehara.
