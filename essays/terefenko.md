@@ -26,7 +26,7 @@ Broadly speaking, the addition of diatonic extensions enhances the sound of indi
 
 The table in Figure 1 summarizes the distribution of chord tones, pitch alterations, and diatonic and chromatic extensions in six types of chords: major, minor, major-minor seventh, suspended, half-diminished, and diminished. (The bold face numbers in the “Chord Tones” column indicate the members of the triad; the italics indicate that either 6, 7, <span class="accidental">&#9837;</span>7, or <span class="accidental">&#9837;</span><span class="accidental">&#9837;</span>7 is added to the specific triad thus expanding it into a four-part structure.)
 
-**Figure 1**
+**Figure 1.** Chord Tones, Pitch Alterations and Extensions
 
 | Chord Type | Chord Tones | Pitch Alterations | Diatonic Extensions | Chromatic Extensions |
 | :-: | :-: | :-: | :-: | :-: |
@@ -41,7 +41,7 @@ This table illustrates most of the possible additions to different chord types i
 
 Figure 2 illustrates the superimposition of upper-structure triads in the context of major- and minor-type chords.
 
-**Figure 2**
+**Figure 2.** Upper-Structure Triads—Major- and Minor-Type Chords
 
 [![]({{ site.baseurl }}/images/terefenko03.png)]({{ site.baseurl }}/images/terefenko03.png)
 
@@ -49,19 +49,19 @@ The relationship between the root of the major, minor and major-minor seventh ch
 
 In the case of major chords, shown in Figure 2a, there are four major upper-structure triads built on local 2, 3, 5 and 7.
 
-**Figure 2a**
+**Figure 2a.** Major Chords—Placement of Upper-Structure Triads
 
 [![]({{ site.baseurl }}/images/terefenko04.png)]({{ site.baseurl }}/images/terefenko04.png)
 
 The order in which these voicings appear represents a hierarchy that exists between them. Although a matter of personal perception and preference, this hierarchy refers to the degree of tension that each voicing projects and stems from the saturation of extensions and/or pitch alterations within each chord. In addition to four major triads, there are three minor upper-structure triads built on 3, 7, and  &#9839;5. In the case of minor chords, given in Figure 2b, there are four major upper-structure triads built on <span class="accidental">&#9837;</span>3, <span class="accidental">&#9837;</span>7, 5 and 2, and three minor upper-structure triads built on 5, 2, and &#9839;7.
 
-**Figure 2b**
+**Figure 2b.** Minor Chords—Placement of Upper-Structure Triads
 
 [![]({{ site.baseurl }}/images/terefenko01.png)]({{ site.baseurl }}/images/terefenko01.png)
 
 Figure 3 demonstrates the distribution of major and minor upper-structure triads in the context of C7.
 
-**Figure 3**
+**Figure 3.** Major-Minor 7th Chords—Upper-Structure Triads
 
 [![]({{ site.baseurl }}/images/terefenko06.png)]({{ site.baseurl }}/images/terefenko06.png)
 
@@ -71,7 +71,7 @@ Broadly speaking, there are five major and five minor upper-structure triads tha
 
 Figure 4 illustrates mm. 1–3 of [*Intermezzo*](https://www.youtube.com/watch?v=KtWynSHgKH4) [*No. 1, Op. 119*](https://www.youtube.com/watch?v=KtWynSHgKH4) by Johannes Brahms.
 
-**Figure 4**
+**Figure 4.** Johannes Brahms, *Intermezzo* No. 1, Op. 119
 
 [![]({{ site.baseurl }}/images/terefenko00.png)]({{ site.baseurl }}/images/terefenko00.png)
 
@@ -79,7 +79,7 @@ In the theory classroom, this off-tonic beginning is usually described as an exa
 
 Figure 5 illustrates mm. 1–4 of [*Time Remembered*](https://www.youtube.com/watch?v=u_6DnVWpFRo) by Bill Evans.
 
-**Figure 5**
+**Figure 5.** Bill Evans, "Time Remembered"
 
 [![]({{ site.baseurl }}/images/terefenko02.png)]({{ site.baseurl }}/images/terefenko02.png)
 
@@ -87,7 +87,7 @@ This excerpt is notated in the form of a lead sheet and contains the melody acco
 
 Figure 6 illustrates mm. 13–20 from Part VIII of [*Valses nobles et sentimentales*](https://www.youtube.com/watch?v=WVYLjakSwnc) by Maurice Ravel.
 
-**Figure 6**
+**Figure 6.** Maurice Ravel, *Valses nobles et sentimentales,* Part VIII
 
 [![]({{ site.baseurl }}/images/terefenko08.png)]({{ site.baseurl }}/images/terefenko08.png)
 
@@ -95,7 +95,7 @@ Ravel’s composition is a model example of the use of extended/chromatic harmon
 
 A more complex example of the use of upper-structure triad occurs at the end of [*Salome*](https://www.youtube.com/watch?v=Op1VoQXXARs) by Richard Strauss, where a transformed plagal cadence is saturated with disturbing chromaticism suitable for the macabre conclusion of the opera. Figure 7 illustrates that progression.
 
-**Figure 7**
+**Figure 7.** Richard Strauss, *Salome*
 
 [![]({{ site.baseurl }}/images/terefenko07.png)]({{ site.baseurl }}/images/terefenko07.png)
 
@@ -103,7 +103,7 @@ The chord built on scale-degree <span class="accidental">&#9837;</span>6 has a m
 
 The musical examples discussed thus far have featured chords with clearly articulated chordal roots in the lowest voice. A far more challenging situation arises when the chordal root is implied, disguised or omitted from the chord’s structure. Figure 8 illustrates mm.17–18 from [*VII Plainte calme*](https://www.youtube.com/watch?v=JGVh-VsNp2w) by Olivier Messiaen.
 
-**Figure 8**
+**Figure 8.** Olivier Messiaen, VII *Plainte calme*
 
 [![]({{ site.baseurl }}/images/terefenko05.png)]({{ site.baseurl }}/images/terefenko05.png)
 
