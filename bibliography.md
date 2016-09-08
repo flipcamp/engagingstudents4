@@ -128,7 +128,7 @@ Rings, Steven. 2011. [*Tonality and Transformation.*](http://www.oxfordscholarsh
 
 Russell, George. 2001. [*The Lydian Chromatic Concept of Tonal Organization.*](http://www.lydianchromaticconcept.com/main.html) New York: Concept Pub.
 
-Salley, Keith. 2007. [“Beyond Chord-Scale Theory: Realizing a Species Approach to Jazz Improvisation.”](https://drive.google.com/open?id=0B0ZI8di-pEDvRXlQckRZbl82OGs) *Journal of Music Theory Pedagogy* 21: 97–118.
+Salley, Keith. 2007. [“Beyond Chord-Scale Theory: Realizing a Species Approach to Jazz Improvisation.”](https://music.appstate.edu/about/jmtp/beyond-chord-scale-theory-realizing-species-approach-jazz-improvisation) *Journal of Music Theory Pedagogy* 21: 97–118.
 
 Santamaria, Mongo. [“Afro Blue” simplified lead sheet.](http://www.guitarcats.com/images/JazzStandardCharts/AFRO%20BLUE-9.jpg) Chord Changes: AFRO BLUE GuitarCats. Accessed June 23, 2016.
 
@@ -140,7 +140,7 @@ Schubert, Peter. 2014. ["Teaching Music Analysis through Improvisation."](http:/
 
 ———. 2013. ["My Undergraduate Skills-Intensive Counterpoint Learning Environment (MUSICLE)."](http://flipcamp.org/engagingstudents/schubert.html) *Engaging Students: Essays in Music Pedagogy* 1.
 
-Shaffer, Kris, and Robin Wharton, eds. 2014. [*Open Music Theory.*](http://openmusictheory.com) Hybrid Pedagogy Publishing.
+Shaffer, Kris, Bryn Hughes and Brian Moseley. 2014. [*Open Music Theory.*](http://openmusictheory.com) Hybrid Pedagogy Publishing.
 
 Starer, Robert. 1999. [*Basic Rhythm Training.*](https://openlibrary.org/works/OL3286318W/Basic_Rhythmic_Training_(Starer)) Alfred Publishing Company.
 
