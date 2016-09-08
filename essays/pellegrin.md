@@ -51,6 +51,8 @@ Each of the four sets of exercises involves a different combination of genre, sc
 | 3 | CPE | Isolated Sections to Complete Pieces | Normative | Syncopated |
 | 4 | CPE | Opening Passages | Non-Normative | Unsyncopated (mostly) |
 
+<a name="onedesc" />
+
 ### 1) Jazz: Trading Fours / Normative Phraseology (surface-level and underlying) / Highly Syncopated
 
 [*Go to exercise set 1.*](#one)
@@ -59,17 +61,23 @@ Jazz musicians sometimes trade solos of short duration with one another. Four ba
 
 The structure of trading fours is such that learning about rhythm and meter from them is elegantly simple: by keeping track of the (hyper)meter, we are of necessity mentally processing the complex surface in terms of regular underlying units, although this task can be quite difficult in some cases. Note that the aim here is not to simply observe that the trading is occurring, nor to intuitively feel or guess when the next solo will begin, but rather to actually count through the performances precisely, thus perceiving the disparity between metric norms and the local-level deviations entailed by syncopation.
 
+<a name="twodesc" />
+
 ### 2) Jazz: Complete Performances / Normative Underlying Phraseology / Syncopated
 
 [*Go to exercise set 2.*](#two)
 
 Trading fours is a special circumstance. When not operating under such confines, soloists often avoid clearly and predictably aligning with the regular phrase structure of the form. (This is also a stylistic matter, and later genres of jazz tend to be more fluid in this way.) The form continues to go by, but soloists are free to superimpose their own phrase structure over it. Rhythm section players are also free to either clarify or obscure the form. Following the form through a complete improvisation or performance is therefore a very different exercise than tracking hypermeter in passages of trading fours. Here, we not only have to process local-level syncopation in terms of metric norms, but also must process complex surface-level phrasing in terms of normative underlying phrase structure. Fortunately, the form is often easier to follow at first but becomes progressively more difficult to track throughout the performance, and/or during each soloist’s improvisation, creating a conveniently graded pedagogical structure.
 
+<a name="threedesc" />
+
 ### 3) CPE: Normative Phraseology / Syncopated
 
 [*Go to exercise set 3.*](#three)
 
 Having honed students’ comprehension of syncopation and hypermeter with jazz exercises, the focus now turns to CPE repertoire. These examples all feature normative phrase structure and syncopation, and some contain other rhythmic complexities like hemiola, polyrhythm, and metric displacement. They therefore are analogous to the jazz exercises above, and the multilayered model of stable norms and salient deviations applies.
+
+<a name="fourdesc" />
 
 ### 4) CPE: Non-Normative Phraseology / Mostly Unsyncopated
 
@@ -175,6 +183,8 @@ Note that the track times listed indicate when the trading begins, though it may
 
 - 0:34 – (beginning of solo section): drums, bass, and piano trade choruses (twelves), each unaccompanied  
 - conduct in a medium-fast 4 (hypermetric 2)
+
+[*Return to description of Exercise Set 1.*](#onedesc)
 
 <a name="two" />
 
@@ -324,6 +334,8 @@ outro
 - quarter-note subdivision: 4+3  
 - an option is to conduct in a very fast 4 throughout (hypermetric 2), following the eighth-note subdivisions shown
 
+[*Return to description of Exercise Set 2.*](#twodesc)
+
 <a name="three" />
 
 ### Exercise Set \#3  
@@ -412,6 +424,8 @@ The instructor (or student leader/presenter) in many cases will find it helpful 
 13\) [Brahms op. 116, no. 1](http://open.spotify.com/track/3XRkLi1ZEA5vLdfYJAt4oy) (again), Vinnitskaya recording – entire piece
 
 - included for extra challenge (greater use of tempo fluctuation and rubato)
+
+[*Return to description of Exercise Set 3.*](#threedesc)
 
 <a name="four" />
 
@@ -518,6 +532,8 @@ Overall, the difficulty designations here are more subjective. Among other consi
 
 - conduct in hypermetric 2 through entire movement, adjusting as necessary due to frequent “extra” or “missing” single measures    
 - extensive use of syncopation
+
+[*Return to description of Exercise Set 4.*](#fourdesc)
 
 ## Conclusion
 
