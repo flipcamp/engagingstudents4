@@ -53,19 +53,27 @@ Each of the four sets of exercises involves a different combination of genre, sc
 
 ### 1) Jazz: Trading Fours / Normative Phraseology (surface-level and underlying) / Highly Syncopated
 
+[*Go to exercise set 1.*](#one)
+
 Jazz musicians sometimes trade solos of short duration with one another. Four bars per solo is typical, although there are many other possibilities. Thus the term “trading fours” is common. Recordings of this practice offer a relatively controlled way to study rhythmic complexity: these solos, especially the drum solos that frequently occur in this context, can be extremely rich in syncopation, but the soloists must adhere to the phraseology of the underlying form (although there may be unusual subphrases, and solos sometimes overlap with one another). Working through these examples will stimulate students to hear complex rhythms and metric aberrations in terms of regular hypermetrical units, even when the hypermetric downbeats are not being overtly articulated.
 
 The structure of trading fours is such that learning about rhythm and meter from them is elegantly simple: by keeping track of the (hyper)meter, we are of necessity mentally processing the complex surface in terms of regular underlying units, although this task can be quite difficult in some cases. Note that the aim here is not to simply observe that the trading is occurring, nor to intuitively feel or guess when the next solo will begin, but rather to actually count through the performances precisely, thus perceiving the disparity between metric norms and the local-level deviations entailed by syncopation.
 
 ### 2) Jazz: Complete Performances / Normative Underlying Phraseology / Syncopated
 
+[*Go to exercise set 2.*](#two)
+
 Trading fours is a special circumstance. When not operating under such confines, soloists often avoid clearly and predictably aligning with the regular phrase structure of the form. (This is also a stylistic matter, and later genres of jazz tend to be more fluid in this way.) The form continues to go by, but soloists are free to superimpose their own phrase structure over it. Rhythm section players are also free to either clarify or obscure the form. Following the form through a complete improvisation or performance is therefore a very different exercise than tracking hypermeter in passages of trading fours. Here, we not only have to process local-level syncopation in terms of metric norms, but also must process complex surface-level phrasing in terms of normative underlying phrase structure. Fortunately, the form is often easier to follow at first but becomes progressively more difficult to track throughout the performance, and/or during each soloist’s improvisation, creating a conveniently graded pedagogical structure.
 
 ### 3) CPE: Normative Phraseology / Syncopated
 
+[*Go to exercise set 3.*](#three)
+
 Having honed students’ comprehension of syncopation and hypermeter with jazz exercises, the focus now turns to CPE repertoire. These examples all feature normative phrase structure and syncopation, and some contain other rhythmic complexities like hemiola, polyrhythm, and metric displacement. They therefore are analogous to the jazz exercises above, and the multilayered model of stable norms and salient deviations applies.
 
 ### 4) CPE: Non-Normative Phraseology / Mostly Unsyncopated
+
+[*Go to exercise set 4.*](#four)
 
 This set of exercises contains CPE pieces exhibiting irregular phrase and/or hypermetric structure. In previous exercise sets, hypermetric structure and underlying phrase structure generally aligned, but here they do not always do so. For example, in some cases the phrase structure is arguably regular, but a measure-sized elision occurs that produces an irregular hypermetric structure (e.g., 4+4 expressed as 7).
 
@@ -83,7 +91,10 @@ Some options that may be used by instructors or student presenters/leaders as ap
 
 I have supplied a number of different examples for each exercise type, of varying degrees of complexity, in order to provide the instructor with sufficient options. The examples have been classified as “easy,” “medium,” or “difficult,” and within each category they have also been organized, as much as possible, by increasing level of difficulty.
 
+<a name="one" />
+
 ### Exercise Set \#1  
+
 Jazz: Trading Fours / Normative Phraseology (surface-level and underlying) / Highly Syncopated
 
 Instructions / Suggestions for Use:
@@ -165,7 +176,10 @@ Note that the track times listed indicate when the trading begins, though it may
 - 0:34 – (beginning of solo section): drums, bass, and piano trade choruses (twelves), each unaccompanied  
 - conduct in a medium-fast 4 (hypermetric 2)
 
+<a name="two" />
+
 ### Exercise Set \#2  
+
 Jazz: Complete Performances / Normative Underlying Phraseology / Syncopated
 
 Instructions / Suggestions for Use:
@@ -310,7 +324,10 @@ outro
 - quarter-note subdivision: 4+3  
 - an option is to conduct in a very fast 4 throughout (hypermetric 2), following the eighth-note subdivisions shown
 
+<a name="three" />
+
 ### Exercise Set \#3  
+
 CPE: Normative Phraseology / Syncopated
 
 Instructions / Suggestions for Use:
@@ -396,7 +413,10 @@ The instructor (or student leader/presenter) in many cases will find it helpful 
 
 - included for extra challenge (greater use of tempo fluctuation and rubato)
 
+<a name="four" />
+
 ### Exercise Set \#4  
+
 CPE: Non-Normative Phraseology / Mostly Unsyncopated
 
 Instructions / Suggestions for Use:
@@ -501,6 +521,6 @@ Overall, the difficulty designations here are more subjective. Among other consi
 
 ## Conclusion
 
-Following the form in jazz requires the listener to perceive both stable norms and salient deviations from them. Doing so is aural training of the highest level, and exercises in jazz listening offer an efficient path towards the acquisition of important general skills. In addition, they stimulate the mind in a unique way, may be easily incorporated into a traditional theory or aural skills classroom, and heighten our sense of both the similarities and differences between the classical and jazz idioms. Finally, though this essay has focused on matters of phrase structure and hypermeter, other aspects of the multilayered jazz listening model I have described may be utilized to help traditional music students hear harmonic implications in contrapuntal music, or music that employs extended harmony.
+Following the form in jazz requires the listener to perceive both stable norms and salient deviations from them. Doing so is aural training of the highest level, and exercises in jazz listening offer an efficient path toward the acquisition of important general skills. In addition, they stimulate the mind in a unique way, may be easily incorporated into a traditional theory or aural skills classroom, and heighten our sense of both the similarities and differences between the classical and jazz idioms. Finally, though this essay has focused on matters of phrase structure and hypermeter, other aspects of the multilayered jazz listening model I have described may be utilized to help traditional music students hear harmonic implications in contrapuntal music, or music that employs extended harmony.
 
 <p class="copyright">This work is copyright ⓒ2016 Rich Pellegrin and licensed under a <a href="http://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution–ShareAlike 3.0 Unported License.</a></p>
