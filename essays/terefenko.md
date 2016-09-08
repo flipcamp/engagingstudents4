@@ -89,7 +89,7 @@ Figure 6 illustrates mm. 13–20 from Part VIII of [*Valses nobles et sentimenta
 
 **Figure 6.** Maurice Ravel, *Valses nobles et sentimentales,* Part VIII
 
-<img src="{{ site.baseurl }}/images/terefenko08.png" alt="Measures 13–20 of Maurice Ravel, Valses nobles et sentimentales, Part VIII." />
+<img src="{{ site.baseurl }}/images/terefenko08.jpg" alt="Measures 13–20 of Maurice Ravel, Valses nobles et sentimentales, Part VIII." />
 
 Ravel’s composition is a model example of the use of extended/chromatic harmony. Extended formations permeate the harmonic palette of the entire piece, yet *Epilogue* offers a succinct summary of all his favorite harmonic devices, including an array of upper-structure triads and various combinations of diatonic/chromatic extensions effectively expanding the structure of participating chords. Measures 13–20 prolong the dominant seventh harmony on F&#9839;. In mm. 13–16, the two upper-structure triads built on <span class="accidental">&#9837;</span>5 and <span class="accidental">&#9837;</span>6 (C and D) expand F&#9839;7. In mm. 18–19, the triadic architecture in upper parts is replaced with pairs of extensions: G–D&#9839; (<span class="accidental">&#9837;</span>9–13) in m. 18 and G–D (<span class="accidental">&#9837;</span>9–<span class="accidental">&#9837;</span>13) in m. 19, before resolving to the local tonic, B(add2), in m. 20. Notice the preparation and voice-leading propensities of the individual extensions: the diatonic major thirteenth in m. 18 prepares the chromatic flat thirteenth before resolving to C&#9839; (added second) in m. 20.
 
@@ -105,7 +105,7 @@ The musical examples discussed thus far have featured chords with clearly articu
 
 **Figure 8.** Olivier Messiaen, VII *Plainte calme*
 
-<img src="{{ site.baseurl }}/images/terefenko05.png" alt="Measures 17–18 of Olivier Messiaen, VII Plainte calme." />
+<img src="{{ site.baseurl }}/images/terefenko05.jpg" alt="Measures 17–18 of Olivier Messiaen, VII Plainte calme." />
 
 The lowest voice \|A<span class="accidental">&#9837;</span>3–E3\| B<span class="accidental">&#9837;</span>3–F&#9839;3\| neither explains the structure nor the functionality of underlying chords, yet the perception of this progression suggests a hierarchical dependence between the two chords wherein the first chord in each measure is more chromatic than the second chord. The analysis of chords occurring on the downbeats of m. 17 and m. 18 reveals the use of two triadic formations: Em6–4 over D<span class="accidental">&#9837;</span>6–4 and F&#9839;m6–4 over E<span class="accidental">&#9837;</span>6–4, respectively. Known as polychords, these formations resolve to the first inversion C and D triads decorated with melodic appoggiaturas, D5/D4 in m. 17 and E5/E4 in m. 18. Their resolutions, therefore, imply the presence of some kind of local dominant seventh chords on G and A, which can be alternatively notated as G13(&#9839;11,<span class="accidental">&#9837;</span>9) and A13(&#9839;11,<span class="accidental">&#9837;</span>9), respectively. With their roots disguised in the inner voices, these structures are more challenging to analyze, yet the context in which they appear confirms their latent functional status, at least as perceived by jazz theorists.
 
