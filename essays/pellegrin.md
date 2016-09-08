@@ -22,7 +22,7 @@ In [other work](https://digital.lib.washington.edu/researchworks/handle/1773/240
 
 ### Hearing Phrase Structure in CPE Music
 
-There are at least two distinct issues students grapple with when learning to hear phrase structure in CPE music: syncopation and irregular phraseology. On the one hand, students may have difficulty processing local-level syncopation in a passage and therefore fail to recognize that the underlying phrase structure is normative (i.e., occurring in powers-of-two units). On the other hand, students may be deceived by phraseology that is irregular (i.e., *not* occurring in powers-of-two units), failing to recognize it as such. This irregular phraseology may exist at the outset of a piece, or may occur as a normative phrase is subsequently transformed into an expanded, non-normative version. One may also encounter syncopation and irregular phraseology occurring simultaneously. (For the remainder of this essay I will use the terms “phrase structure” and “phraseology” interchangeably.)
+There are at least two distinct issues students grapple with when learning to hear phrase structure in CPE music: syncopation and irregular phraseology. On the one hand, students may have difficulty processing local-level syncopation in a passage and therefore fail to recognize that the underlying phrase structure is normative (i.e., occurring in powers-of-two units). On the other hand, students may be deceived by phraseology that is irregular (i.e., *not* occurring in powers-of-two units), failing to recognize it as such. This irregular phraseology may exist at the outset of a piece, or may occur as a normative phrase that is subsequently transformed into an expanded, non-normative version. One may also encounter syncopation and irregular phraseology occurring simultaneously. (For the remainder of this essay I will use the terms “phrase structure” and “phraseology” interchangeably.)
 
 In order to fully understand phrase structure in CPE music, students must become sensitized to deviations from (hyper)metrical norms by developing an intuitive sense of normativity strong enough to remain accurate amidst the rhythmic fray of syncopation, metric displacement, tempo fluctuation, rubato, and microtiming. However, since CPE repertoire often combines regular and irregular phrase structure, is only sometimes syncopated, and is frequently performed with tempo fluctuations and rubato, it can be challenging to find good examples with which to engage students who are struggling to develop this skill. By contrast, although many jazz compositions do contain unusual phrase lengths, there is a plentiful supply of jazz compositions, and recordings of them by many different artists, that employ a high degree of regularity with respect to several of these parameters. Specifically, many jazz compositions employ powers-of-two phraseology throughout (e.g., standard 32-bar AABA song forms); jazz itself is nearly always syncopated, if only by virtue of the emphasis on beats 2 and 4; mainstream, studio-recorded jazz generally makes less use of true rubato and tempo fluctuation (though in both genres, solo and chamber music may use these devices more); and in mainstream jazz microtiming is usually superimposed over the form (see below), and therefore does not affect the tempo. For these reasons, jazz provides an expeditious way of isolating syncopation and normative phrase structure for study.
 
@@ -63,7 +63,7 @@ Trading fours is a special circumstance. When not operating under such confines,
 
 ### 3) CPE: Normative Phraseology / Syncopated
 
-Having honed students’ comprehension of syncopation and hypermeter with jazz exercises, the focus now turns to CPE repertoire. These examples all feature normative phrase structure and syncopation, and some contain other rhythmic complexities such as hemiola, polyrhythm, and metric displacement as well. They therefore are analogous to the jazz exercises above, and the multilayered model of stable norms and salient deviations applies.
+Having honed students’ comprehension of syncopation and hypermeter with jazz exercises, the focus now turns to CPE repertoire. These examples all feature normative phrase structure and syncopation, and some contain other rhythmic complexities like hemiola, polyrhythm, and metric displacement. They therefore are analogous to the jazz exercises above, and the multilayered model of stable norms and salient deviations applies.
 
 ### 4) CPE: Non-Normative Phraseology / Mostly Unsyncopated
 
@@ -194,8 +194,8 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 2\) [Miles Davis – “All Blues” (*Kind of Blue*)](http://open.spotify.com/track/0TUa7gBg7LJH6B8dkNVioU)
 
 - conduct in a slow 4 (hypermetric 2)  
-- 12-measure form  
-- 8-measure intro (vamp)  
+- twelve-measure form  
+- eight-measure intro (vamp)  
 - head/form starts when trumpet enters  
 - full transcription of the album is available from Hal Leonard
 
@@ -211,9 +211,9 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 
 - one introductory chorus played freely, followed by vamp/intro, then head  
 - conduct in a medium-slow 4 (hypermetric 2)  
-- but must adjust at the end of each chorus due to 7-measure phrase  
+- but must adjust at the end of each chorus due to seven-measure phrase  
 - AABA form (8+8+14+7)  
-- 14-measure bridge divided 8+6  
+- fourteen-measure bridge divided 8+6  
 - additional points of contact with CPE examples (sets 3 and 4)  
 - type of syncopation used in the vamp/intro/outro and bridge  
 - greater use of true rubato  
@@ -241,8 +241,8 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 
 - solo bass introduction (head starts at 0:21)  
 - conduct in a medium 4 (hypermetric 2)  
-- for this example, simply keep track of the 8-measure hypermetric units (4 conducted measures) and do not be concerned with the larger formal structure  
-- the low fifths in the piano often occur on the downbeats of these 8-measure hypermetric downbeats  
+- for this example, simply keep track of the eight-measure hypermetric units (4 conducted measures) and do not be concerned with the larger formal structure  
+- the low fifths in the piano often occur on the downbeats of these eight-measure hypermetric downbeats  
 - during the solos, the chord changes of the head are not followed  
 - rather, a modal approach is taken, based on E&#9837; Aeolian, with increasing amounts of outside playing (playing notes outside of the mode) as each solo progresses  
 - saxophone transcription of the album is available from Hal Leonard
@@ -262,7 +262,7 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 - solo piano introduction (free) (head starts at 0:47)  
 - conduct in a very fast 4 (hypermetric 2)  
 - for an added challenge, conduct in a medium-slow 4 (hypermetric 4) (this will conflict with the melodic structure of the head, but works during the solo section)  
-- 12-measure form  
+- twelve-measure form  
 - head: minor blues chord changes (4+4+4), but melodic structure is 6+6  
 - solo section is generally felt 4+4+4  
 - the beginning of the second chorus of piano solo is clearly marked with the snare drum, and the beginning of the third chorus is clearly marked with the bass drum  
@@ -277,7 +277,7 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 - except here 1 measure of 7 is equivalent to 2 measures of the original tune  
 - eighth-note subdivision = 4+4+3+3  
 - this is most consistently articulated by the bass  
-- AABA with 12 measures in last A section (36-measure form)  
+- AABA with twelve measures in last A section (36-measure form)  
 - one could also conduct this in a medium 3 (hypermetric 2), feeling a 2+2+3 quarter-note subdivision of the meter (this is harder in that the conducting is slower, but is easier when the bass walks quarter notes rather than articulating the 4+4+3+3 eighth-note subdivision)  
 - transcription of piano solo by Tom Hewson available [*here*](https://tomhewson.files.wordpress.com/2013/12/allthethings.pdf)
 
@@ -469,7 +469,7 @@ Overall, the difficulty designations here are more subjective. Among other consi
 
 13\) [Mozart, *String Quartet in F Major,* K. 590 (I)](http://open.spotify.com/track/03grvyULjYb8n3Q1Fpnep2) [Score](http://javanese.imslp.info/files/imglnks/usimg/1/12/IMSLP64149-PMLP05232-Mozart_Werke_Breitkopf_Serie_14_KV590.pdf)
 
-- 3+3 / 5+4 / 3+... (STA~1~ almost replicates FTA’s 3+3)  
+- 3+3 / 5+4 / 3+... (STA<sub>1</sub> almost replicates FTA’s 3+3)  
 - mm. 1, 4, and 7 may be heard as hypermetrically weak
 
 14\) [Haydn, *Piano Sonata in C Major,* Hob. XVI: 50 (III)](http://open.spotify.com/track/333lkwQZe9C6E4lhbAP0wB) (p. 12) [Score](http://hz.imslp.info/files/imglnks/usimg/d/d1/IMSLP00166-Haydn_-_Piano_Sonata_No_50_in_C.pdf)
