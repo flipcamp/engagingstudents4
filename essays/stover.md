@@ -130,9 +130,9 @@ The students’ first step is to quickly analyze the harmony, focusing on goals 
 
 There are other possibilities that could be explored as well, of course; for example, the Gmin7 chord in measure 13 could be set up as a goal of motion, in a move that parallels the similar establishment in measure 5. Or, conversely, the measure 7–8 half-cadential ii–V could be established as a parallel anchor point to the measure 17 arrival. Indeed, the initial project of choosing different anchor points can suggest many exciting new harmonic possibilities for students to explore.
 
-As Figure 12 above illustrates, one way to maintain a structurally important harmonic space is with a turnaround, the most common by far being I–vi–ii–V–I. Figure 15 shows this: the displaced I chord (the first anchor point) is approached by this common turnaround. Note that the dominant chord is expressed as V7sus to conform to the melody’s \^1. V7sus is a syntactic chord in jazz; the suspension does not require resolution as it does in some other musical contexts.
+As Figure 12 above illustrates, one way to maintain a structurally important harmonic space is with a turnaround, the most common by far being I–vi–ii–V–I. Figure 15 shows this: the displaced I chord (the first anchor point) is approached by this common turnaround. Note that the dominant chord is expressed as V7sus to conform to the melody’s scale-degree 1. V7sus is a syntactic chord in jazz; the suspension does not require resolution as it does in some other musical contexts.
 
-**Figure 15.** Opening tonic prolonged with a I–vi–ii–V—I turnaround.
+**Figure 15.** Opening tonic prolonged with a I–vi–ii–V–I turnaround.
 
 <img src="{{ site.baseurl }}/images/stover15.png" alt="image" />
 
