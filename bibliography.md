@@ -36,13 +36,13 @@ Ciorba, Charles R. 2009. [“Predicting Jazz Improvisation Achievement through t
 
 Cohn, Richard. 2015. [“Why We Don’t Teach Meter, and Why We Should.”](http://www.mtmw.org/uploads/mtmw2015_keynote.php) Keynote address for the 2015 meeting of Music Theory Midwest. 9 May 2015.
 
-———. 2012. [*Audacious Euphony.*](https://global.oup.com/academic/product/audacious-euphony-9780199772698?cc=ru&lang=en&) New York: Oxford University Press.
+———. 2012. [*Audacious Euphony.*](https://openlibrary.org/works/OL15902693W/Audacious_euphony) New York: Oxford University Press.
 
 Coker, Jerry. 1986. [*Improvising Jazz.*](https://openlibrary.org/works/OL5265279W/Improvising_Jazz_(Spectrum_Books)) New York: Simon and Schuster.
 
 Daoust, Timothy James. 2008. [*Polymeter in Twentieth Century Music: A Study in Notational Methods.*](https://libres.uncg.edu/ir/uncg/listing.aspx?id=214) M.M. thesis, University of North Carolina at Greensboro.
 
-Dobbins, Bill. 1994. [*A Creative Approach to Jazz Piano Harmony.*](http://www.amazon.com/Creative-Approach-Piano-Harmony-Dobbins/dp/B000WMIPMQ) Rottenburg, Germany: Advance Music.
+Dobbins, Bill. 1994. [*A Creative Approach to Jazz Piano Harmony.*](https://openlibrary.org/works/OL10372053W/A_creative_aproach_to_jazz_piano_harmony) Rottenburg, Germany: Advance Music.
 
 Folio, Cynthia. 1995. “An Analysis of Polyrhythm in Selected Improvised Jazz Solos.” In [*Concert Music, Rock, and Jazz Since 1945: Essays and Analytical Studies.*](https://openlibrary.org/books/OL25909455M/Concert_Music_Rock_and_Jazz_Since_1945) edited by Elizabeth West Marvin and Richard Hermann. Rochester, NY: University of Rochester Press: 103–134.
 
@@ -54,7 +54,7 @@ Goehr, Lydia. 2007. [*The Imaginary Museum of Musical Works.*](https://openlibra
 
 Gridley, Mark C. 2006. [*Jazz Styles: History and Analysis.*](https://openlibrary.org/books/OL9293380M/Jazz_Styles) Ninth edition. Upper Saddle River, NJ: Pearson.
 
-Harrison, Daniel. 1994. [*Harmonic Function in Chromatic Music.*](http://press.uchicago.edu/ucp/books/book/chicago/H/bo3622784.html) Chicago: University of Chicago Press.
+Harrison, Daniel. 1994. [*Harmonic Function in Chromatic Music.*](https://openlibrary.org/works/OL3914456W/Harmonic_function_in_chromatic_music) Chicago: University of Chicago Press.
 
 Hasty, Christopher F. 1997. [*Meter as Rhythm.*](https://openlibrary.org/works/OL3278287W/Meter_as_rhythm) New York: Oxford University Press.
 
@@ -68,13 +68,13 @@ Keil, Charles. 1994. “Motion and Feeling through Music.” In [*Music Grooves:
 
 Kilchenmann, Lorenz, and Olivier Senn. 2015. [“Microtiming in Swing and Funk affects the body movement behavior of music expert listeners.”](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC4542135/) *Frontiers in Psychology* 6.
 
-Kopp, David. 2006. [*Chromatic Transformations in Nineteenth-Century Music.*](http://www.cambridge.org/it/academic/subjects/music/nineteenth-century-music/chromatic-transformations-nineteenth-century-music) New York: Cambridge University Press.
+Kopp, David. 2006. [*Chromatic Transformations in Nineteenth-Century Music.*](https://openlibrary.org/works/OL11613712W/Chromatic_transformations_in_nineteenth-century_music) New York: Cambridge University Press.
 
 Kramer, Jonathan D. 1988. [*The Time of Music.*](https://openlibrary.org/works/OL17333501W/The_Time_of_Music) New York: Schirmer Books.
 
 Laitz, Steven G. 2008. [*The Complete Musician: An Integrated Approach to Tonal Theory, Analysis, and Listening.*](https://openlibrary.org/works/OL8002914W/The_Complete_Musician_Textbook_An_Integrated_Approach_to_Tonal_Theory_Analysis_and_Listening_Package) Second edition. New York: Oxford University Press.
 
-Larson, Steven. 2009. [*Analyzing Jazz: A Schenkerian Approach.*](http://www.amazon.com/Analyzing-Jazz-Schenkerian-Approach-Harmonologia/dp/1576471861) Hillsdale, NY: Pendragon Press.
+Larson, Steven. 2009. [*Analyzing Jazz: A Schenkerian Approach.*](https://openlibrary.org/works/OL15301211W/Analyzing_jazz) Hillsdale, NY: Pendragon Press.
 
 Levine, Mark. 1995. [*The Jazz Theory Book.*](https://openlibrary.org/works/OL16981521W/The_jazz_theory_book) Petaluma, CA: Sher Music.
 
@@ -120,9 +120,9 @@ Rawlins, Robert. 2000. [“Review of Mark Levine, The Jazz Theory Book.”](http
 
 [*The Real Book.*](https://openlibrary.org/works/OL7987939W/The_Real_Book) 2004. Sixth edition. Milwaukee, WI: Hal Leonard.
 
-Rings, Steven. 2011. [*Tonality and Transformation.*](http://www.oxfordscholarship.com/view/10.1093/acprof:oso/9780195384277.001.0001/acprof-9780195384277) New York: Oxford University Press.
+Rings, Steven. 2011. [*Tonality and Transformation.*](https://openlibrary.org/works/OL15617046W/Tonality_and_transformation) New York: Oxford University Press.
 
-Russell, George. 2001. [*The Lydian Chromatic Concept of Tonal Organization.*](http://www.lydianchromaticconcept.com/main.html) New York: Concept Pub.
+Russell, George. 2001. [*The Lydian Chromatic Concept of Tonal Organization.*](https://openlibrary.org/works/OL4903207W/The_Lydian_chromatic_concept_of_tonal_organization) New York: Concept Pub.
 
 Salley, Keith. 2007. [“Beyond Chord-Scale Theory: Realizing a Species Approach to Jazz Improvisation.”](https://music.appstate.edu/about/jmtp/beyond-chord-scale-theory-realizing-species-approach-jazz-improvisation) *Journal of Music Theory Pedagogy* 21: 97–118.
 
@@ -146,7 +146,7 @@ Terefenko, Dariusz. 2014. [*Jazz Theory: From Basic to Advanced Study.*](https:/
 
 Tesser, Neil. [Liner notes.](http://mediakits.concordmusicgroup.com/p/afro-blue-impressions/e-book.html) “Afro Blue Impressions” digital e-book. Accessed June 15, 2016.
 
-Waters, Keith. 2011. [*The Studio Recordings of the Miles Davis Quintet, 1965–68.*](https://global.oup.com/academic/product/the-studio-recordings-of-the-miles-davis-quintet-1965-68-9780195393842?cc=us&lang=en&) New York: Oxford University Press.
+Waters, Keith. 2011. [*The Studio Recordings of the Miles Davis Quintet, 1965–68.*](https://openlibrary.org/works/OL15413904W/The_studio_recordings_of_the_Miles_Davis_Quintet_1965-68) New York: Oxford University Press.
 
 ———. 1996. [“Blurring the Barline: Metric Displacement in the Piano Solos of Herbie Hancock.”](https://rowman.com/ISBN/9780810849730/Annual-Review-of-Jazz-Studies-8-1996-Special-Edition-on-Jazz-Theory) *Annual Review of Jazz Studies* 8: 19–37.
 
