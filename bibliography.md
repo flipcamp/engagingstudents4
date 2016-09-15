@@ -40,10 +40,6 @@ Cohn, Richard. 2015. [“Why We Don’t Teach Meter, and Why We Should.”](http
 
 Coker, Jerry. 1986. [*Improvising Jazz.*](https://openlibrary.org/works/OL5265279W/Improvising_Jazz_(Spectrum_Books)) New York: Simon and Schuster.
 
-Coltrane, John. 1996. *John Coltrane Plays "Giant Steps:" Tenor Saxophone.* Milwaukee: Hal Leonard.
-
-———. 1973. *Acknowledgement, Resolution, Pursuance/Psalm: Featuring Note-for-Note Transcriptions from A Love Supreme*. Milwaukee: Hal Leonard.
-
 Daoust, Timothy James. 2008. [*Polymeter in Twentieth Century Music: A Study in Notational Methods.*](https://libres.uncg.edu/ir/uncg/listing.aspx?id=214) M.M. thesis, University of North Carolina at Greensboro.
 
 Dobbins, Bill. 1994. [*A Creative Approach to Jazz Piano Harmony.*](http://www.amazon.com/Creative-Approach-Piano-Harmony-Dobbins/dp/B000WMIPMQ) Rottenburg, Germany: Advance Music.
@@ -82,9 +78,9 @@ Larson, Steven. 2009. [*Analyzing Jazz: A Schenkerian Approach.*](http://www.ama
 
 Levine, Mark. 1995. [*The Jazz Theory Book.*](https://openlibrary.org/works/OL16981521W/The_jazz_theory_book) Petaluma, CA: Sher Music.
 
-Levy, Brian. 2006. [“Polyrhythmic Superimposition in Jazz Hemiola and Implied Meters Before 1965."](http://search.ebscohost.com/login.aspx?direct=true&db=mah&AN=22547267&site=ehost-live&scope=site) *Sonus* 27 (1): 52–69.
+Levy, Brian. 2006. [“Polyrhythmic Superimposition in Jazz Hemiola and Implied Meters Before 1965."](http://sonicdesign.org/sonus) *Sonus* 27 (1): 52–69.
 
-Lewis, George. 1996. [“Improvised Music after 1950: Afrological and Eurological Perspectives.”](https://www.google.com/url?q=http%3A%2F%2Fjazzstudiesonline.org%2Fresource%2Fimprovised-music-after-1950-afrological-and-eurological-perspectives) *Black Music Research Journal* 16 (1): 91–122.
+Lewis, George. 1996. [“Improvised Music after 1950: Afrological and Eurological Perspectives.”](http://jazzstudiesonline.org/resource/improvised-music-after-1950-afrological-and-eurological-perspectives) *Black Music Research Journal* 16 (1): 91–122.
 
 Liebman, David. [“The Complete Transcription Process.”](http://davidliebman.com/home/ed_articles/the-complete-transcription-process/) David Liebman: Official Website. Accessed May 19, 2016.
 
@@ -104,7 +100,7 @@ May, Lissa F. 2003. [“Factors and Abilities Influencing Achievement in Instrum
 
 McClelland, Ryan. 2006. [“Teaching Phrase Rhythm through Minuets from Haydn’s String Quartets.”](https://music.appstate.edu/about/jmtp/teaching-phrase-rhythm-through-minuets-haydns-string-quartets) *Journal of Music Theory Pedagogy* 20: 5–35.
 
-Meyer, Leonard. 1989. [*Style and Music.*](https://www.google.com/url?q=https%3A%2F%2Fopenlibrary.org%2Fworks%2FOL3267613W%2FStyle_and_music) Philadelphia: University of Pennsylvania.
+Meyer, Leonard. 1989. [*Style and Music.*](https://openlibrary.org/works/OL3267613W/Style_and_music) Philadelphia: University of Pennsylvania.
 
 Michaelsen, Garrett. 2016. [“Rhythm Changes, Improvisation, and Chromaticism: Who Could Ask for Anything More?”](http://flipcamp.org/engagingstudents4/essays/michaelsen.html) *Engaging Students: Essays in Music Pedagogy* 4.
 
@@ -129,8 +125,6 @@ Rings, Steven. 2011. [*Tonality and Transformation.*](http://www.oxfordscholarsh
 Russell, George. 2001. [*The Lydian Chromatic Concept of Tonal Organization.*](http://www.lydianchromaticconcept.com/main.html) New York: Concept Pub.
 
 Salley, Keith. 2007. [“Beyond Chord-Scale Theory: Realizing a Species Approach to Jazz Improvisation.”](https://music.appstate.edu/about/jmtp/beyond-chord-scale-theory-realizing-species-approach-jazz-improvisation) *Journal of Music Theory Pedagogy* 21: 97–118.
-
-Santamaria, Mongo. [“Afro Blue” simplified lead sheet.](http://www.guitarcats.com/images/JazzStandardCharts/AFRO%20BLUE-9.jpg) Chord Changes: AFRO BLUE GuitarCats. Accessed June 23, 2016.
 
 Sarath, Edward. 2010. [*Music Theory Through Improvisation.*](https://openlibrary.org/works/OL13768312W/Music_theory_through_improvisation) New York: Routledge.
 

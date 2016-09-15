@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Engaging Students – Essays in Music Pedagogy, Volume 3
+title: "Engaging Students: Essays in Music Pedagogy, Volume 4 – Engaging Students Through Jazz"
 ---
 
 _Engaging Students: Essays in Music Pedagogy_ presents short essays on the subject of student-centered learning, and serves as an open-access, web-based resource for those teaching college-level classes in music. This is the fourth volume, *Engaging Students Through Jazz.* You can find the original collection and read more about the vision behind this project [here](http://www.flipcamp.org/engagingstudents/).
