@@ -221,7 +221,7 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 - conduct in a slow 4 (hypermetric 2)  
 - twelve-measure form  
 - eight-measure intro (vamp)  
-- head/form starts when trumpet enters  
+  - head/form starts when trumpet enters  
 - full transcription of the album is available from Hal Leonard
 
 3\) [Thelonious Monk and John Coltrane – “Nutty” (*Thelonious Monk with John Coltrane*)](http://open.spotify.com/track/0sWqnxofErf7mk8VKgbrXw)
@@ -236,13 +236,13 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 
 - one introductory chorus played freely, followed by vamp/intro, then head  
 - conduct in a medium-slow 4 (hypermetric 2)  
-- but must adjust at the end of each chorus due to seven-measure phrase  
+  - but must adjust at the end of each chorus due to seven-measure phrase  
 - AABA form (8+8+14+7)  
-- fourteen-measure bridge divided 8+6  
+  - fourteen-measure bridge divided 8+6  
 - additional points of contact with CPE examples (sets 3 and 4)  
-- type of syncopation used in the vamp/intro/outro and bridge  
-- greater use of true rubato  
-- an irregular phrase length produced by elision at the end of the form (end of bridge also irregular)  
+  - type of syncopation used in the vamp/intro/outro and bridge  
+  - greater use of true rubato  
+  - an irregular phrase length produced by elision at the end of the form (end of bridge also irregular)  
 - transcription of the head by A-len Yue available [*here*](https://imgv2-2-f.scribdassets.com/img/document/208166360/original/c4ab323d57/1455814456)  
 - a simpler option is to conduct in 2 throughout (hypermetric 1)
 
