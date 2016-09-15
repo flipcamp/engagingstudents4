@@ -256,10 +256,10 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 - conduct in a very fast 4 (hypermetric 2)  
 - 32-measure form (AA)  
 - order of events (form gets *easier* to hear as performance progresses):  
-- one chorus of drum solo, plus four extra measures  
-- saxophone solo enters on downbeat of new chorus  
-- piano and bass do not enter until later  
-- head is only presented at the end  
+  - one chorus of drum solo, plus four extra measures  
+  - saxophone solo enters on downbeat of new chorus  
+  - piano and bass do not enter until later  
+  - head is only presented at the end  
 - saxophone transcription is available from Hal Leonard
 
 7\) [John Coltrane – “Resolution” (*A Love Supreme*)](http://open.spotify.com/track/12drI98LeZfgwwpdVws9Zi)
@@ -267,9 +267,9 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 - solo bass introduction (head starts at 0:21)  
 - conduct in a medium 4 (hypermetric 2)  
 - for this example, simply keep track of the eight-measure hypermetric units (4 conducted measures) and do not be concerned with the larger formal structure  
-- the low fifths in the piano often occur on the downbeats of these eight-measure hypermetric downbeats  
+  - the low fifths in the piano often occur on the downbeats of these eight-measure hypermetric downbeats  
 - during the solos, the chord changes of the head are not followed  
-- rather, a modal approach is taken, based on E&#9837; Aeolian, with increasing amounts of outside playing (playing notes outside of the mode) as each solo progresses  
+  - rather, a modal approach is taken, based on E&#9837; Aeolian, with increasing amounts of outside playing (playing notes outside of the mode) as each solo progresses  
 - saxophone transcription of the album is available from Hal Leonard
 
 8\) [Thelonious Monk — “Evidence” (*Thelonious Monk Quartet with John Coltrane at Carnegie Hall*)](http://open.spotify.com/track/27AXwsIBdtxLB0YEXptH1r)
@@ -277,8 +277,8 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 - conduct in a medium 4 (hypermetric 2)  
 - 32-measure AABA form  
 - highly syncopated theme  
-- consult [*lead sheet*](http://2.bp.blogspot.com/-SsC5TsNP_Q8/UBv-xMCq1FI/AAAAAAAAAWM/Rpz9GRtmWgQ/s1600/Evidence.png) for assistance (also available from Hal Leonard in *Thelonious Monk Fake Book*)  
-- drums enter on the downbeat of measure 2 of the head (after piano intro)
+  - consult [*lead sheet*](http://2.bp.blogspot.com/-SsC5TsNP_Q8/UBv-xMCq1FI/AAAAAAAAAWM/Rpz9GRtmWgQ/s1600/Evidence.png) for assistance (also available from Hal Leonard in *Thelonious Monk Fake Book*)  
+  - drums enter on the downbeat of measure 2 of the head (after piano intro)
 
 #### Difficult:
 
@@ -286,10 +286,10 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 
 - solo piano introduction (free) (head starts at 0:47)  
 - conduct in a very fast 4 (hypermetric 2)  
-- for an added challenge, conduct in a medium-slow 4 (hypermetric 4) (this will conflict with the melodic structure of the head, but works during the solo section)  
+  - for an added challenge, conduct in a medium-slow 4 (hypermetric 4) (this will conflict with the melodic structure of the head, but works during the solo section)  
 - twelve-measure form  
-- head: minor blues chord changes (4+4+4), but melodic structure is 6+6  
-- solo section is generally felt 4+4+4  
+  - head: minor blues chord changes (4+4+4), but melodic structure is 6+6  
+  - solo section is generally felt 4+4+4  
 - the beginning of the second chorus of piano solo is clearly marked with the snare drum, and the beginning of the third chorus is clearly marked with the bass drum  
 - “Steps” essentially ends at 5:04, where an extended drum solo begins that segues into another composition, “What Was”  
 - piano transcription of the album is available from Schott
@@ -299,9 +299,9 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 - 4-chorus piano introduction, head at 2:08  
 - conduct in a medium-fast 4 (hypermetric 2)  
 - in 7 (4/4 + 3/4), as with the previous Mehldau example  
-- except here 1 measure of 7 is equivalent to 2 measures of the original tune  
+  - except here 1 measure of 7 is equivalent to 2 measures of the original tune  
 - eighth-note subdivision = 4+4+3+3  
-- this is most consistently articulated by the bass  
+  - this is most consistently articulated by the bass  
 - AABA with twelve measures in last A section (36-measure form)  
 - one could also conduct this in a medium 3 (hypermetric 2), feeling a 2+2+3 quarter-note subdivision of the meter (this is harder in that the conducting is slower, but is easier when the bass walks quarter notes rather than articulating the 4+4+3+3 eighth-note subdivision)  
 - transcription of piano solo by Tom Hewson available [*here*](https://tomhewson.files.wordpress.com/2013/12/allthethings.pdf)
@@ -309,11 +309,11 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 11\) [Robert Glasper — “G&B” (*In My Element*)](http://open.spotify.com/track/5P22GrIprYmnFZoR3P6142)
 
 - AAB 48-measure form (16+16+16), mixed meter  
-- head is played twice in the beginning and once at the end, preceded each time by a 16-measure vamp that closely resembles the A section (overall form is shown below)  
+  - head is played twice in the beginning and once at the end, preceded each time by a 16-measure vamp that closely resembles the A section (overall form is shown below)  
 - listening to the bass is helpful in following the form in this example  
 - conduct in a gently lilting 4 throughout (hypermetric 4)  
-- conduct A sections in a medium-slow 4 (4+5+5+4) (hypermetric 4)  
-- conduct B sections in a medium 4 (4+3+4+3) (hypermetric 4)  
+  - conduct A sections in a medium-slow 4 (4+5+5+4) (hypermetric 4)  
+  - conduct B sections in a medium 4 (4+3+4+3) (hypermetric 4)  
 - overall form of performance:
 
 > vamp  
@@ -326,14 +326,14 @@ outhead (AAB)
 outro
 
 - supplementary metric explanation (not necessary to successfully perform exercise):  
-- A sections are in 9: (4/4 + 5/4) / (5/4 + 4/4)  
-- eighth-note subdivision: 4+4+3+7 / 3+7+4+4  
-- quarter-note subdivision: 4+5 / 5+4  
-- B sections are in 7: 4/4 + 3/4  
-- same 7/4 groove as in the Mehldau example  
-- eighth-note subdivision: 4+4+3+3  
-- quarter-note subdivision: 4+3  
-- an option is to conduct in a very fast 4 throughout (hypermetric 2), following the eighth-note subdivisions shown
+  - A sections are in 9: (4/4 + 5/4) / (5/4 + 4/4)  
+    - eighth-note subdivision: 4+4+3+7 / 3+7+4+4  
+    - quarter-note subdivision: 4+5 / 5+4  
+  - B sections are in 7: 4/4 + 3/4  
+    - same 7/4 groove as in the Mehldau example  
+    - eighth-note subdivision: 4+4+3+3  
+    - quarter-note subdivision: 4+3  
+  - an option is to conduct in a very fast 4 throughout (hypermetric 2), following the eighth-note subdivisions shown
 
 [*Return to description of Exercise Set 2.*](#twodesc)
 
@@ -409,7 +409,7 @@ The instructor (or student leader/presenter) in many cases will find it helpful 
 11\) [Brahms, Capriccio in C Major, op. 76, no. 8](http://open.spotify.com/track/1L736bAHszoywHiqwuLhuk) – entire piece [Score](http://petrucci.mus.auth.gr/imglnks/usimg/e/e8/IMSLP02513-Brahms_-_Capriccio__C_Major__Op.76_No.8.pdf)
 
 - conduct in two, one beat per measure (hypermetric 2)  
-- or conduct in four, two beats per measure (hypermetric 2)  
+  - or conduct in four, two beats per measure (hypermetric 2)  
 - first ending is an extra measure; however, the second ending is a hypermetric downbeat (measures 9–11 might be considered as a three-bar unit, but for the purposes of this exercise it is simplest not to do so)
 - measures 27–29 form a three-bar unit  
 - extensive use of hemiola, rubato, and tempo fluctuation
@@ -417,9 +417,9 @@ The instructor (or student leader/presenter) in many cases will find it helpful 
 12\) [Brahms, Capriccio in D minor, op. 116, no. 1](http://open.spotify.com/track/4oKSj9WWEjITmYm5FDXLaU) – entire piece [Score](http://javanese.imslp.info/files/imglnks/usimg/2/23/IMSLP01524-Bp27.pdf)
 
 - conduct in four, one beat per measure (hypermetric 4), except:  
-- conduct measures 53–58 in hypermetric 3  
-- measure 131 is an extra bar  
-- conduct measures 164–75 in hypermetric 3  
+  - conduct measures 53–58 in hypermetric 3  
+  - measure 131 is an extra bar  
+  - conduct measures 164–75 in hypermetric 3  
 - extensive use of metric displacement and hemiola
 
 13\) [Brahms op. 116, no. 1](http://open.spotify.com/track/3XRkLi1ZEA5vLdfYJAt4oy) (again), Vinnitskaya recording – entire piece
@@ -454,8 +454,7 @@ Overall, the difficulty designations here are more subjective. Among other consi
 
 2\) [Mozart, Piano Sonata in C Major, K. 309 (III)](http://open.spotify.com/track/5MhIwJ7Hqs4e4bJmO3AsVA) (p. 11) [Score](http://petrucci.mus.auth.gr/imglnks/usimg/8/8d/IMSLP70205-PMLP01840-KV_309.pdf)
 
-- 8+11 (with extension and what [William Caplin](https://openlibrary.org/books/OL679075M/Classical_form) refers to as accompanimental overlap (not elision) at m. 19)
-
+- 8+11 (with extension and what [William Caplin](https://openlibrary.org/books/OL679075M/Classical_form) refers to as accompanimental overlap (not elision) at m. 19)  
 - for a more clear example of an accompanimental overlap, see Haydn, *Piano Sonata in C Major,* Hob. XVI, no. 35 (I), m. 8 [Score](http://javanese.imslp.info/files/imglnks/usimg/2/2b/IMSLP58791-PMLP01715-Haydn--Piano-Sonata-No35--Ed-Boileau.pdf)
 
 3\) [Mozart, Piano Sonata in C Major, K. 279 (III)](http://open.spotify.com/track/7sR50dVGwqr61epLHltZzn) (p. 10) [Score](http://imslp.nl/imglnks/usimg/0/00/IMSLP70198-PMLP01830-KV_279.pdf)
