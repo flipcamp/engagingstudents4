@@ -14,7 +14,7 @@ author: "Dariusz Terefenko, Eastman School of Music"
 
 ## Introduction
 
-The [*fin de siècle*](https://en.wikipedia.org/wiki/Fin_de_si%C3%A8cle) period saw a rapid expansion of harmonic syntax, particularly in the domain of extended chromaticism and chromatic key relations ([Daniel Harrison](https://openlibrary.org/works/OL3914456W/Harmonic_function_in_chromatic_music), [Richard Cohn](https://openlibrary.org/works/OL15902693W/Audacious_euphony), [David Kopp](https://openlibrary.org/works/OL11613712W/Chromatic_transformations_in_nineteenth-century_music), [Steven Rings](https://openlibrary.org/works/OL15617046W/Tonality_and_transformation)(.) The shift toward bolder chromaticism and distant tonal relationships manifested itself in the works of various composers, such as [Franz Liszt](https://www.youtube.com/watch?v=A6fNpaz79h0), [Hugo Wolf](https://www.youtube.com/watch?v=ZMe22tHvG4c), [Johannes Brahms](https://www.youtube.com/watch?v=--dFka8hrzo), [Cesar Franck](https://www.youtube.com/watch?v=YCp5XC2rsEM), and others. The music of the next generation of composers (such as [Claude Debussy](https://www.youtube.com/watch?v=CQ4rkSykjn4), [Richard Strauss](https://www.youtube.com/watch?v=ViLcRFqtTpk), [Alban Berg](https://www.youtube.com/watch?v=aqE5By_69OY), and [Maurice Ravel)](https://www.youtube.com/watch?v=BS0i9aCGclc) ushered in even more stunning changes in the realm of chromatic harmony, pushing it further toward its absolute tonal limits. In undergraduate theory curricula, the works of these composers typically appear in the final or penultimate semester of theory instruction, yet their dense harmonic textures, unusual chord progressions, and ambiguous functionality make it challenging for the students to analyze and understand.
+The [*fin de siècle*](https://en.wikipedia.org/wiki/Fin_de_si%C3%A8cle) period saw a rapid expansion of harmonic syntax, particularly in the domain of extended chromaticism and chromatic key relations ([Daniel Harrison](https://openlibrary.org/works/OL3914456W/Harmonic_function_in_chromatic_music), [Richard Cohn](https://openlibrary.org/works/OL15902693W/Audacious_euphony), [David Kopp](https://openlibrary.org/works/OL11613712W/Chromatic_transformations_in_nineteenth-century_music), [Steven Rings](https://openlibrary.org/works/OL15617046W/Tonality_and_transformation)). The shift toward bolder chromaticism and distant tonal relationships manifested itself in the works of various composers, such as [Franz Liszt](https://www.youtube.com/watch?v=A6fNpaz79h0), [Hugo Wolf](https://www.youtube.com/watch?v=ZMe22tHvG4c), [Johannes Brahms](https://www.youtube.com/watch?v=--dFka8hrzo), [Cesar Franck](https://www.youtube.com/watch?v=YCp5XC2rsEM), and others. The music of the next generation of composers (such as [Claude Debussy](https://www.youtube.com/watch?v=CQ4rkSykjn4), [Richard Strauss](https://www.youtube.com/watch?v=ViLcRFqtTpk), [Alban Berg](https://www.youtube.com/watch?v=aqE5By_69OY), and [Maurice Ravel)](https://www.youtube.com/watch?v=BS0i9aCGclc) ushered in even more stunning changes in the realm of chromatic harmony, pushing it further toward its absolute tonal limits. In undergraduate theory curricula, the works of these composers typically appear in the final or penultimate semester of theory instruction, yet their dense harmonic textures, unusual chord progressions, and ambiguous functionality make it challenging for the students to analyze and understand.
 
 Studying the music of the *fin de siècle* period offers an excellent opportunity to familiarize students with various topics borrowed from [jazz theory](https://openlibrary.org/works/OL17335998W/Jazz_Theory_from_Basic_to_Advanced_Study), such as jazz harmony [(Keith Waters](https://openlibrary.org/works/OL15413904W/The_studio_recordings_of_the_Miles_Davis_Quintet_1965-68), [Steven Larson](https://openlibrary.org/works/OL15301211W/Analyzing_jazz), [Mark Levine](https://openlibrary.org/works/OL16981521W/The_jazz_theory_book), [George Russell](https://openlibrary.org/works/OL4903207W/The_Lydian_chromatic_concept_of_tonal_organization), and [Bill Dobbins](https://openlibrary.org/works/OL10372053W/A_creative_aproach_to_jazz_piano_harmony)). The chief characteristic of jazz harmony is the emphasis on larger chord structures, wherein combinations of diatonic and/or chromatic extensions expand the pitch content of chords. Another feature of jazz harmony ― one that stands in stark contrast with common-practice tonality and harmony ― is a considerably different status and functionality of seventh chords (major, minor, major-minor seventh, half-diminished, and diminished). This essay engages its readers in a study of extended chromatic harmony from the *fin de siècle* period as experienced through the prism of jazz harmony.
 
@@ -41,7 +41,7 @@ This table illustrates most of the possible additions to different chord types i
 
 Figure 2 illustrates the superimposition of upper-structure triads in the context of major- and minor-type chords.
 
-**Figure 2.** Upper-Structure Triads—Major- and Minor-Type Chords
+**Figure 2.** Upper-Structure Triads — Major- and Minor-Type Chords
 
 <img src="{{ site.baseurl }}/images/terefenko03.png" alt="Upper-structure triads over major- and minor-type chords." />
 
@@ -49,19 +49,19 @@ The relationship between the root of the major, minor and major-minor seventh ch
 
 In the case of major chords, shown in Figure 2a, there are four major upper-structure triads built on local 2, 3, 5 and 7.
 
-**Figure 2a.** Major Chords—Placement of Upper-Structure Triads
+**Figure 2a.** Major Chords — Placement of Upper-Structure Triads
 
 <img src="{{ site.baseurl }}/images/terefenko04.png" alt="Upper-structure triads over major chords." />
 
 The order in which these voicings appear represents a hierarchy that exists between them. Although a matter of personal perception and preference, this hierarchy refers to the degree of tension that each voicing projects and stems from the saturation of extensions and/or pitch alterations within each chord. In addition to four major triads, there are three minor upper-structure triads built on 3, 7, and  &#9839;5. In the case of minor chords, given in Figure 2b, there are four major upper-structure triads built on <span class="accidental">&#9837;</span>3, <span class="accidental">&#9837;</span>7, 5 and 2, and three minor upper-structure triads built on 5, 2, and &#9839;7.
 
-**Figure 2b.** Minor Chords—Placement of Upper-Structure Triads
+**Figure 2b.** Minor Chords — Placement of Upper-Structure Triads
 
 <img src="{{ site.baseurl }}/images/terefenko01.png" alt="Upper-structure triads over minor chords." />
 
 Figure 3 demonstrates the distribution of major and minor upper-structure triads in the context of C7.
 
-**Figure 3.** Major-Minor 7th Chords—Upper-Structure Triads
+**Figure 3.** Major-Minor 7th Chords — Upper-Structure Triads
 
 <img src="{{ site.baseurl }}/images/terefenko06.png" alt="Major and minor upper structure triads over major-minor seventh chords." />
 
