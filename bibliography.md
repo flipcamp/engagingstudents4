@@ -44,7 +44,7 @@ Daoust, Timothy James. 2008. [*Polymeter in Twentieth Century Music: A Study in 
 
 Dobbins, Bill. 1994. [*A Creative Approach to Jazz Piano Harmony.*](https://openlibrary.org/works/OL10372053W/A_creative_aproach_to_jazz_piano_harmony) Rottenburg, Germany: Advance Music.
 
-Folio, Cynthia. 1995. “An Analysis of Polyrhythm in Selected Improvised Jazz Solos.” In [*Concert Music, Rock, and Jazz Since 1945: Essays and Analytical Studies.*](https://openlibrary.org/books/OL25909455M/Concert_Music_Rock_and_Jazz_Since_1945) edited by Elizabeth West Marvin and Richard Hermann. Rochester, NY: University of Rochester Press: 103–134.
+Folio, Cynthia. 1995. “An Analysis of Polyrhythm in Selected Improvised Jazz Solos.” In [*Concert Music, Rock, and Jazz Since 1945: Essays and Analytical Studies.*](https://openlibrary.org/books/OL25909455M/Concert_Music_Rock_and_Jazz_Since_1945) Edited by Elizabeth West Marvin and Richard Hermann. Rochester, NY: University of Rochester Press: 103–134.
 
 Geminiani, Francesco. 1756. [*The Art of Accompaniment or A New and Well Digested Method to Learn to Perform the Thorough Bass on the Harpsichord.*](http://imslp.nl/imglnks/usimg/b/b7/IMSLP372077-PMLP149534-artofaccompaniam00gemi.pdf) London.
 
