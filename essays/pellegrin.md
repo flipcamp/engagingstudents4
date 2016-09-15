@@ -296,10 +296,10 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 
 10\) [Brad Mehldau — “All the Things You Are” (*The Art of the Trio, Volume 4: Back at the Vanguard*)](http://open.spotify.com/track/77kiZTOELj5lsOanRu8vBV)
 
-- 4-chorus piano introduction, head at 2:08  
+- four-chorus piano introduction, head at 2:08  
 - conduct in a medium-fast 4 (hypermetric 2)  
 - in 7 (4/4 + 3/4), as with the previous Mehldau example  
-  - except here 1 measure of 7 is equivalent to 2 measures of the original tune  
+  - except here one measure of 7 is equivalent to two measures of the original tune  
 - eighth-note subdivision = 4+4+3+3  
   - this is most consistently articulated by the bass  
 - AABA with twelve measures in last A section (36-measure form)  
@@ -361,7 +361,7 @@ The instructor (or student leader/presenter) in many cases will find it helpful 
 
 3\) [Schumann, String Quartet in A Major, op. 41, no. 3 (I)](http://open.spotify.com/track/2gGS6UAqWr9D8oT0tGIxFc) – second theme (1:24, m. 46) [Score](http://ks.imslp.info/files/imglnks/usimg/e/e4/IMSLP05669-Schumann_quartet41_3_score.pdf)
 
-- conduct in 4, 1 beat per measure (hypermetric 4)
+- conduct in 4, one beat per measure (hypermetric 4)
 
 4\) [Mozart, Piano Sonata in C minor, K. 457 (III)](http://open.spotify.com/track/5heSdMj2Ech1lEsh33UXeP) – opening theme (p. 12) [Score](http://petrucci.mus.auth.gr/imglnks/usimg/e/e8/IMSLP70212-PMLP01852-KV_457.pdf)
 
@@ -396,7 +396,7 @@ The instructor (or student leader/presenter) in many cases will find it helpful 
 
 - conduct in four, one beat per measure (hypermetric 4)  
 - 4+4 / 8+4  
-- note sequence with imitation and hemiola, containing 8 (!) beats per iteration, during the B section (the rhythmic complexity in this example would in fact more properly be described as “hemiola” than “syncopation”)
+- note sequence with imitation and hemiola, containing eight (!) beats per iteration, during the B section (the rhythmic complexity in this example would in fact more properly be described as “hemiola” than “syncopation”)
 
 10\) [Beethoven, String Quartet in B<span class="accidental">&#9837;</span> Major, op. 18, no. 6 (III)](http://open.spotify.com/track/7mlyuTcjBYwfbiTKzupRfT) – A section of Scherzo (p. 11) [Score](http://imslp.nl/imglnks/usimg/c/c7/IMSLP04760-Beethoven_-_String_Quartet_No.6_Dover.pdf)
 
