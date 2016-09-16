@@ -63,3 +63,23 @@ Dariusz Terefenko
 
 
 # Editorial & Review Board
+
+Danny Arthurs, University of Tulsa  
+Carla Colletti, Webster University  
+Philip Duker, University of Delaware, co-editor  
+Dave Easley, Oklahoma City University  
+Anna Gawboy, Ohio State University, co-editor  
+Stephen Gosden, University of North Florida  
+Bryn Hughes, University of Lethbridge, co-editor  
+Enoch Jacobus, independent scholar, Berea, Kentucky  
+Stefan Love, University of Massachusetts–Amherst  
+Michael McClimon, Furman University  
+Garrett Michaelsen, University of Massachusetts–Lowell, special issue co-editor  
+Brian Moseley, The University at Buffalo, SUNY  
+Meghan Naxer, Kent State University, production editor  
+Colin Roust, Roosevelt University  
+Keith Salley, Shenandoah University  
+Kris Shaffer, University of Mary Washington, production editor  
+Daniel Stevens, University of Delaware  
+Chris Stover, New School, special issue co-editor  
+Dariusz Terefenko, Eastman School of Music, special issue co-editor
