@@ -152,7 +152,7 @@ Note that the track times listed indicate when the trading begins, though it may
 
 7\) [Buddy Rich and Max Roach – “Figure Eights” (*Rich versus Roach*)](http://open.spotify.com/track/23EssvWYUPdrxyFpwDQkt0)
 
-- drummers Rich and Roach trade eights for entire track    
+- drummers Rich and Roach trade eights for entire performance    
 - conduct in a medium 4 (hypermetric 4)    
 - structure begins to breakdown at 3:38, when two beats appear to be added between solos
 
@@ -160,7 +160,7 @@ Note that the track times listed indicate when the trading begins, though it may
 
 - 2:36 – trumpet and piano trade eights with no accompaniment (duo album)    
 - conduct in a very fast 4 (hypermetric 2)    
-- Part of the humor and drama of this trading eights section is the dialog the musicians have around tempo: Peterson pushes and Terry pulls back (sometimes in extreme fashion!); one must adapt to these fluctuations in conducting through the passage.
+- Part of the humor and drama of this trading eights passage is the dialog the musicians have around tempo: Peterson pushes and Terry pulls back (sometimes in extreme fashion!); one must adapt to these fluctuations in conducting through the passage.
 
 #### Difficult:
 
@@ -266,13 +266,13 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 
 - solo bass introduction (head starts at 0:21)  
 - conduct in a medium 4 (hypermetric 2)  
-- for this example, simply keep track of the eight-measure hypermetric units (4 conducted measures) and do not be concerned with the larger formal structure  
+- for this example, simply keep track of the eight-measure hypermetric units (four conducted measures) and do not be concerned with the larger formal structure  
   - the low fifths in the piano often occur on the downbeats of these eight-measure hypermetric downbeats  
 - during the solos, the chord changes of the head are not followed  
   - rather, a modal approach is taken, based on E&#9837; Aeolian, with increasing amounts of outside playing (playing notes outside of the mode) as each solo progresses  
 - saxophone transcription of the album is available from Hal Leonard
 
-8\) [Thelonious Monk — “Evidence” (*Thelonious Monk Quartet with John Coltrane at Carnegie Hall*)](http://open.spotify.com/track/27AXwsIBdtxLB0YEXptH1r)
+8\) [Thelonious Monk – "Evidence” (*Thelonious Monk Quartet with John Coltrane at Carnegie Hall*)](http://open.spotify.com/track/27AXwsIBdtxLB0YEXptH1r)
 
 - conduct in a medium 4 (hypermetric 2)  
 - 32-measure AABA form  
@@ -282,7 +282,7 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 
 #### Difficult:
 
-9\) [Chick Corea — “Steps” (*Now He Sings, Now He Sobs*)](http://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF)
+9\) [Chick Corea – “Steps” (*Now He Sings, Now He Sobs*)](http://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF)
 
 - solo piano introduction (free) (head starts at 0:47)  
 - conduct in a very fast 4 (hypermetric 2)  
@@ -294,7 +294,7 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 - “Steps” essentially ends at 5:04, where an extended drum solo begins that segues into another composition, “What Was”  
 - piano transcription of the album is available from Schott
 
-10\) [Brad Mehldau — “All the Things You Are” (*The Art of the Trio, Volume 4: Back at the Vanguard*)](http://open.spotify.com/track/77kiZTOELj5lsOanRu8vBV)
+10\) [Brad Mehldau – “All the Things You Are” (*The Art of the Trio, Volume 4: Back at the Vanguard*)](http://open.spotify.com/track/77kiZTOELj5lsOanRu8vBV)
 
 - four-chorus piano introduction, head at 2:08  
 - conduct in a medium-fast 4 (hypermetric 2)  
@@ -306,7 +306,7 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 - one could also conduct this in a medium 3 (hypermetric 2), feeling a 2+2+3 quarter-note subdivision of the meter (this is harder in that the conducting is slower, but is easier when the bass walks quarter notes rather than articulating the 4+4+3+3 eighth-note subdivision)  
 - transcription of piano solo by Tom Hewson available [*here*](https://tomhewson.files.wordpress.com/2013/12/allthethings.pdf)
 
-11\) [Robert Glasper — “G&B” (*In My Element*)](http://open.spotify.com/track/5P22GrIprYmnFZoR3P6142)
+11\) [Robert Glasper – “G&B” (*In My Element*)](http://open.spotify.com/track/5P22GrIprYmnFZoR3P6142)
 
 - AAB 48-measure form (16+16+16), mixed meter  
   - head is played twice in the beginning and once at the end, preceded each time by a 16-measure vamp that closely resembles the A section (overall form is shown below)  
