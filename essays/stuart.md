@@ -48,7 +48,7 @@ The four examples presented here illustrate some of the qualities of the multi-p
 
 **Figure 1.** Four-part example rhythm exercise suited to younger or less experienced students.
 
-<img src="{{ site.baseurl }}/images/stuart01.png" alt="image" />
+<img src="{{ site.baseurl }}/images/stuart01.jpg" alt="image" />
 
 The remaining three group exercises have some relatively easy parts and some more difficult parts within the same exercise. Notice that the parts with more space tend to be more challenging to many students. All three include a part with a pickup, and another part that goes over the bar line on the repeat, so that the first notes are tacet the first time through.
 
