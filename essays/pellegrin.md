@@ -349,7 +349,7 @@ The instructor (or student leader/presenter) in many cases will find it helpful 
 
 [*Spotify playlist for Exercise Set \#3*](http://open.spotify.com/user/pellegrin42/playlist/6uugKVrWVNIbR0JKfqS4Nh) (hyperlinks are also embedded in each individual example)
 
-#### *Easy*:
+#### Easy:
 
 1\) [Beethoven, Piano Sonata in F minor, op. 57 (“Appassionata”) (II)](http://open.spotify.com/track/086mjj7hFFf8Q00qX2u6tY) –variation I (1:37, p. 16, m\. 17) [Score](http://imslp.nl/imglnks/usimg/e/ed/IMSLP00023-Beethoven__L.v._-_Piano_Sonata_23.pdf)
 
@@ -361,7 +361,7 @@ The instructor (or student leader/presenter) in many cases will find it helpful 
 
 3\) [Schumann, String Quartet in A Major, op. 41, no. 3 (I)](http://open.spotify.com/track/2gGS6UAqWr9D8oT0tGIxFc) – second theme (1:24, m. 46) [Score](http://ks.imslp.info/files/imglnks/usimg/e/e4/IMSLP05669-Schumann_quartet41_3_score.pdf)
 
-- conduct in 4, one beat per measure (hypermetric 4)
+- conduct in four, one beat per measure (hypermetric 4)
 
 4\) [Mozart, Piano Sonata in C minor, K. 457 (III)](http://open.spotify.com/track/5heSdMj2Ech1lEsh33UXeP) – opening theme (p. 12) [Score](http://petrucci.mus.auth.gr/imglnks/usimg/e/e8/IMSLP70212-PMLP01852-KV_457.pdf)
 
@@ -378,7 +378,7 @@ The instructor (or student leader/presenter) in many cases will find it helpful 
 
 - conduct in three, three beats per measure (hypermetric 1, due to tempo)  
 - could conduct larger downbeats every other measure to reinforce hypermetric regularity  
-- also possible to conduct in a very slow, subdivided 2, one beat per measure (hypermetric 2)  
+- also possible to conduct in a very slow, subdivided two, one beat per measure (hypermetric 2)  
 - note the use of polyrhythm
 
 7\) [Schubert, String Quintet in C Major, D. 956 (II)](http://open.spotify.com/track/3SGf5oDjdYXRyTd1bVgP3B) – B section (4:47, p. 20, m. 29) [Score](http://petrucci.mus.auth.gr/imglnks/usimg/5/5e/IMSLP35019-PMLP06343-Schubert_String_Quintet.pdf)
@@ -386,11 +386,11 @@ The instructor (or student leader/presenter) in many cases will find it helpful 
 - conduct in four, four beats per measure (hypermetric 1, due to expansiveness of meter)  
 - simply conducting the meter is sufficient for this exercise (actual phrase structure or hypermeter does not need to be considered)
 
-8\) [Beethoven, Piano Sonata in A<span class="accidental">&#9837;</span> Major, op. 110 (II)*](http://open.spotify.com/track/7tNWxDJqgSgQNn0p72zIjv) – entire movement (p. 7) [Score](http://imslp.nl/imglnks/usimg/d/d9/IMSLP00031-Beethoven__L.v._-_Piano_Sonata_31.pdf)
+8\) [Beethoven, Piano Sonata in A<span class="accidental">&#9837;</span> Major, op. 110 (II)](http://open.spotify.com/track/7tNWxDJqgSgQNn0p72zIjv) – entire movement (p. 7) [Score](http://imslp.nl/imglnks/usimg/d/d9/IMSLP00031-Beethoven__L.v._-_Piano_Sonata_31.pdf)
 
 - conduct in four, one beat per measure (hypermetric 4)  
-- consult score regarding ritardando mm. 33–35  
-- three “extra” measures near end of the large B section (mm. 72–74) (it could be argued that mm. 73–75 are the extra measures, but for our purposes conduct a hypermetric downbeat at m. 75)
+- consult score regarding ritardando in mm. 33–35  
+- note three “extra” measures near the end of the large B section (mm. 72–74) (it could be argued that mm. 73–75 are the extra measures, but for our purposes conduct a hypermetric downbeat at m. 75)
 
 9\) [Haydn, String Quartet in D Major, op. 20, no. 4 (III)](http://open.spotify.com/track/0Iu3nq1qHIXs7IVUT61XyN) – Menuetto (p. 18) [Score](http://conquest.imslp.info/files/imglnks/usimg/9/9c/IMSLP05271-Haydn_-_Op._20__No._4.pdf)
 
