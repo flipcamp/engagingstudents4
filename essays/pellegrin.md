@@ -53,7 +53,7 @@ Each of the four sets of exercises involves a different combination of genre, sc
 
 <a name="onedesc" />
 
-### 1) Jazz: Trading Fours / Normative Phraseology (surface-level and underlying) / Highly Syncopated
+#### 1) Jazz: Trading Fours / Normative Phraseology (surface-level and underlying) / Highly Syncopated
 
 [*Go to exercise set 1.*](#one)
 
@@ -63,7 +63,7 @@ The structure of trading fours is such that learning about rhythm and meter from
 
 <a name="twodesc" />
 
-### 2) Jazz: Complete Performances / Normative Underlying Phraseology / Syncopated
+#### 2) Jazz: Complete Performances / Normative Underlying Phraseology / Syncopated
 
 [*Go to exercise set 2.*](#two)
 
@@ -71,7 +71,7 @@ Trading fours is a special circumstance. When not operating under such confines,
 
 <a name="threedesc" />
 
-### 3) CPE: Normative Phraseology / Syncopated
+#### 3) CPE: Normative Phraseology / Syncopated
 
 [*Go to exercise set 3.*](#three)
 
@@ -79,7 +79,7 @@ Having honed students’ comprehension of syncopation and hypermeter with jazz e
 
 <a name="fourdesc" />
 
-### 4) CPE: Non-Normative Phraseology / Mostly Unsyncopated
+#### 4) CPE: Non-Normative Phraseology / Mostly Unsyncopated
 
 [*Go to exercise set 4.*](#four)
 
