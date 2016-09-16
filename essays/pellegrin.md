@@ -454,8 +454,8 @@ One might begin working through this playlist without telling students what they
 
 2\) [Mozart, Piano Sonata in C Major, K. 309 (III)](http://open.spotify.com/track/5MhIwJ7Hqs4e4bJmO3AsVA) (p. 11) – [Score](http://petrucci.mus.auth.gr/imglnks/usimg/8/8d/IMSLP70205-PMLP01840-KV_309.pdf)
 
-- 8+11 (with extension and what [William Caplin](https://openlibrary.org/books/OL679075M/Classical_form) refers to as accompanimental overlap (not elision) at m. 19)  
-- for a more clear example of an accompanimental overlap, see Haydn, Piano Sonata in C Major, Hob. XVI, no. 35 (I), m. 8 [Score](http://javanese.imslp.info/files/imglnks/usimg/2/2b/IMSLP58791-PMLP01715-Haydn--Piano-Sonata-No35--Ed-Boileau.pdf)
+- 8+11 (with extension and what [William Caplin](https://openlibrary.org/books/OL679075M/Classical_form) refers to as "accompanimental overlap" (not elision) at m. 19)  
+- for a more clear example of an accompanimental overlap, see Haydn, Piano Sonata in C Major, Hob. XVI, no. 35 (I), m. 8 –  [Score](http://javanese.imslp.info/files/imglnks/usimg/2/2b/IMSLP58791-PMLP01715-Haydn--Piano-Sonata-No35--Ed-Boileau.pdf)
 
 3\) [Mozart, Piano Sonata in C Major, K. 279 (III)](http://open.spotify.com/track/7sR50dVGwqr61epLHltZzn) (p. 10) – [Score](http://imslp.nl/imglnks/usimg/0/00/IMSLP70198-PMLP01830-KV_279.pdf)
 
@@ -520,7 +520,7 @@ One might begin working through this playlist without telling students what they
 
 17\) [Mozart, Piano Sonata in B<span class="accidental">&#9837;</span> Major, K. 333 (II)](http://open.spotify.com/track/2gHIkLnapwV5yrA8k3wPOP) (p. 9) – [Score](http://hz.imslp.info/files/imglnks/usimg/a/a9/IMSLP70211-PMLP01849-KV_333.pdf)
 
-- 4+4+5 (with accompanimental lead-in at m. 8)
+- 4+4+5 (with accompanimental overlap at m. 8)
 
 18\) [Beethoven, String Quartet in B<span class="accidental">&#9837;</span> Major, op. 18, no. 6 (III)](http://open.spotify.com/track/7mlyuTcjBYwfbiTKzupRfT) (p. 11) – [Score](http://imslp.nl/imglnks/usimg/c/c7/IMSLP04760-Beethoven_-_String_Quartet_No.6_Dover.pdf)
 
