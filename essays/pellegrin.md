@@ -386,7 +386,7 @@ The instructor (or student leader/presenter) in many cases will find it helpful 
 - conduct in four, four beats per measure (hypermetric 1, due to expansiveness of meter)  
 - simply conducting the meter is sufficient for this exercise (actual phrase structure or hypermeter does not need to be considered)
 
-8\) [Beethoven, Piano Sonata in A<span class="accidental">&#9837;</span> Major, op. 110 (II)](http://open.spotify.com/track/7tNWxDJqgSgQNn0p72zIjv) – entire movement (p. 7) – [Score](http://imslp.nl/imglnks/usimg/d/d9/IMSLP00031-Beethoven__L.v._-_Piano_Sonata_31.pdf)
+8\) [Beethoven, Piano Sonata in A-flat Major, op. 110 (II)](http://open.spotify.com/track/7tNWxDJqgSgQNn0p72zIjv) – entire movement (p. 7) – [Score](http://imslp.nl/imglnks/usimg/d/d9/IMSLP00031-Beethoven__L.v._-_Piano_Sonata_31.pdf)
 
 - conduct in four, one beat per measure (hypermetric 4)  
 - consult score regarding ritardando in mm. 33–35  
@@ -398,7 +398,7 @@ The instructor (or student leader/presenter) in many cases will find it helpful 
 - 4+4 / 8+4  
 - note sequence with imitation and hemiola, containing eight (!) beats per iteration, during the B section (the rhythmic complexity in this example would in fact more properly be described as “hemiola” than “syncopation”)
 
-10\) [Beethoven, String Quartet in B<span class="accidental">&#9837;</span> Major, op. 18, no. 6 (III)](http://open.spotify.com/track/7mlyuTcjBYwfbiTKzupRfT) – A section of Scherzo (p. 11) – [Score](http://imslp.nl/imglnks/usimg/c/c7/IMSLP04760-Beethoven_-_String_Quartet_No.6_Dover.pdf)
+10\) [Beethoven, String Quartet in B-flat Major, op. 18, no. 6 (III)](http://open.spotify.com/track/7mlyuTcjBYwfbiTKzupRfT) – A section of Scherzo (p. 11) – [Score](http://imslp.nl/imglnks/usimg/c/c7/IMSLP04760-Beethoven_-_String_Quartet_No.6_Dover.pdf)
 
 - conduct in four, one beat per measure (hypermetric 4)  
 - extensive use of hemiola  
@@ -518,11 +518,11 @@ One might begin working through this playlist without telling students what they
 
 - 4+5+4 (with syncopation and elision)
 
-17\) [Mozart, Piano Sonata in B<span class="accidental">&#9837;</span> Major, K. 333 (II)](http://open.spotify.com/track/2gHIkLnapwV5yrA8k3wPOP) (p. 9) – [Score](http://hz.imslp.info/files/imglnks/usimg/a/a9/IMSLP70211-PMLP01849-KV_333.pdf)
+17\) [Mozart, Piano Sonata in B-flat Major, K. 333 (II)](http://open.spotify.com/track/2gHIkLnapwV5yrA8k3wPOP) (p. 9) – [Score](http://hz.imslp.info/files/imglnks/usimg/a/a9/IMSLP70211-PMLP01849-KV_333.pdf)
 
 - 4+4+5 (with accompanimental overlap at m. 8)
 
-18\) [Beethoven, String Quartet in B<span class="accidental">&#9837;</span> Major, op. 18, no. 6 (III)](http://open.spotify.com/track/7mlyuTcjBYwfbiTKzupRfT) (p. 11) – [Score](http://imslp.nl/imglnks/usimg/c/c7/IMSLP04760-Beethoven_-_String_Quartet_No.6_Dover.pdf)
+18\) [Beethoven, String Quartet in B-flat Major, op. 18, no. 6 (III)](http://open.spotify.com/track/7mlyuTcjBYwfbiTKzupRfT) (p. 11) – [Score](http://imslp.nl/imglnks/usimg/c/c7/IMSLP04760-Beethoven_-_String_Quartet_No.6_Dover.pdf)
 
 - 4+4 / 7+7  
 - extensive use of syncopation and hemiola  
