@@ -438,11 +438,11 @@ Instructions / Suggestions for Use:
 
 One might begin working through this playlist without telling students what they are listening for. Their instinct to conduct or think hypermetrically will hopefully cause them to notice the unusual phrase structure of the initial examples without specifically listening for it. If instructors are adopting a more student-centric approach, they could at that point have students choose examples from the list to later present to the class, using whatever combinations of (hypermetric) conducting, measure counting, score projection, etc. they wish. Another option is to intersperse examples of regular phrase structure among these examples (or give students the option of presenting such examples) to keep the class listening even more critically. The Spotify playlist could still be used, as it may be copied and then customized, adding and removing examples as desired. Also note the following:
 
-The relevant passages occur at the opening of each work, so one can simply play from the beginning of each track in the playlist.
+- The relevant passages occur at the opening of each work, so one can simply play from the beginning of each track in the playlist.
 
-Annotations are given only in general terms, and have been included simply to provide the instructor with a quick overview of the examples. I do not define phrases strictly here, and numbers sometimes represent subphrases or hypermetric structure. Students may discover other viable interpretations, but should be asked to defend or explain them.
+- Annotations are given only in general terms, and have been included simply to provide the instructor with a quick overview of the examples. I do not define phrases strictly here, and numbers sometimes represent subphrases or hypermetric structure. Students may discover other viable interpretations, but should be asked to defend or explain them.
 
-Overall, the difficulty designations here are more subjective. Among other considerations, I consider the harder examples to be those that contain syncopation, that are at slower tempos (where phrase structure can be more difficult to perceive), and where the irregular-length phrases—the deviations—are *less* salient and therefore sound more “natural” (e.g., due to a measure-sized elision).
+- Overall, the difficulty designations here are more subjective. Among other considerations, I regard the harder examples to be those that contain syncopation, that are at slower tempos (where phrase structure can be more difficult to perceive), and where the irregular-length phrases—the deviations—are *less* salient and therefore sound more “natural” (e.g., due to a measure-sized elision).
 
 [*Spotify playlist for Exercise Set \#4*](http://open.spotify.com/user/pellegrin42/playlist/02qmlDYkwGbcamcwGN8Obe) (hyperlinks are also embedded in each individual example)
 
@@ -455,7 +455,7 @@ Overall, the difficulty designations here are more subjective. Among other consi
 2\) [Mozart, Piano Sonata in C Major, K. 309 (III)](http://open.spotify.com/track/5MhIwJ7Hqs4e4bJmO3AsVA) (p. 11) – [Score](http://petrucci.mus.auth.gr/imglnks/usimg/8/8d/IMSLP70205-PMLP01840-KV_309.pdf)
 
 - 8+11 (with extension and what [William Caplin](https://openlibrary.org/books/OL679075M/Classical_form) refers to as accompanimental overlap (not elision) at m. 19)  
-- for a more clear example of an accompanimental overlap, see Haydn, *Piano Sonata in C Major,* Hob. XVI, no. 35 (I), m. 8 [Score](http://javanese.imslp.info/files/imglnks/usimg/2/2b/IMSLP58791-PMLP01715-Haydn--Piano-Sonata-No35--Ed-Boileau.pdf)
+- for a more clear example of an accompanimental overlap, see Haydn, Piano Sonata in C Major, Hob. XVI, no. 35 (I), m. 8 [Score](http://javanese.imslp.info/files/imglnks/usimg/2/2b/IMSLP58791-PMLP01715-Haydn--Piano-Sonata-No35--Ed-Boileau.pdf)
 
 3\) [Mozart, Piano Sonata in C Major, K. 279 (III)](http://open.spotify.com/track/7sR50dVGwqr61epLHltZzn) (p. 10) – [Score](http://imslp.nl/imglnks/usimg/0/00/IMSLP70198-PMLP01830-KV_279.pdf)
 
