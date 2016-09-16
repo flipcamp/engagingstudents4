@@ -351,54 +351,54 @@ The instructor (or student leader/presenter) in many cases will find it helpful 
 
 #### Easy:
 
-1\) [Beethoven, Piano Sonata in F minor, op. 57 (“Appassionata”) (II)](http://open.spotify.com/track/086mjj7hFFf8Q00qX2u6tY) –variation I (1:37, p. 16, m\. 17) [Score](http://imslp.nl/imglnks/usimg/e/ed/IMSLP00023-Beethoven__L.v._-_Piano_Sonata_23.pdf)
+1\) [Beethoven, Piano Sonata in F minor, op. 57 (“Appassionata”) (II)](http://open.spotify.com/track/086mjj7hFFf8Q00qX2u6tY) – variation I (1:37, p. 16, m\. 17) – [Score](http://imslp.nl/imglnks/usimg/e/ed/IMSLP00023-Beethoven__L.v._-_Piano_Sonata_23.pdf)
 
 - conduct in four, two beats per measure (hypermetric 2)
 
-2\) [Mendelssohn, String Quartet E minor, op. 44, no. 2 (I)](http://open.spotify.com/track/3WHd2WkLIXhfesFpnD2GpU) – opening theme [Score](http://javanese.imslp.info/files/imglnks/usimg/7/73/IMSLP10974-Mendelssohn_-_String_Quartet_No._4.pdf)
+2\) [Mendelssohn, String Quartet E minor, op. 44, no. 2 (I)](http://open.spotify.com/track/3WHd2WkLIXhfesFpnD2GpU) – opening theme – [Score](http://javanese.imslp.info/files/imglnks/usimg/7/73/IMSLP10974-Mendelssohn_-_String_Quartet_No._4.pdf)
 
 - conduct in four, two beats per measure (hypermetric 2)
 
-3\) [Schumann, String Quartet in A Major, op. 41, no. 3 (I)](http://open.spotify.com/track/2gGS6UAqWr9D8oT0tGIxFc) – second theme (1:24, m. 46) [Score](http://ks.imslp.info/files/imglnks/usimg/e/e4/IMSLP05669-Schumann_quartet41_3_score.pdf)
+3\) [Schumann, String Quartet in A Major, op. 41, no. 3 (I)](http://open.spotify.com/track/2gGS6UAqWr9D8oT0tGIxFc) – second theme (1:24, m. 46) – [Score](http://ks.imslp.info/files/imglnks/usimg/e/e4/IMSLP05669-Schumann_quartet41_3_score.pdf)
 
 - conduct in four, one beat per measure (hypermetric 4)
 
-4\) [Mozart, Piano Sonata in C minor, K. 457 (III)](http://open.spotify.com/track/5heSdMj2Ech1lEsh33UXeP) – opening theme (p. 12) [Score](http://petrucci.mus.auth.gr/imglnks/usimg/e/e8/IMSLP70212-PMLP01852-KV_457.pdf)
+4\) [Mozart, Piano Sonata in C minor, K. 457 (III)](http://open.spotify.com/track/5heSdMj2Ech1lEsh33UXeP) – opening theme (p. 12) – [Score](http://petrucci.mus.auth.gr/imglnks/usimg/e/e8/IMSLP70212-PMLP01852-KV_457.pdf)
 
 - conduct in four, one beat per measure (hypermetric 4)
 
-5\) [Brahms, Intermezzo in A Major, op. 76, no. 6](http://open.spotify.com/track/0gRXdKDoRbSBWCpQQ3lnEO) – A section [Score](http://javanese.imslp.info/files/imglnks/usimg/7/71/IMSLP02511-Brahms_-_Intermezzo__A_Major__Op.76_No.6.pdf)
+5\) [Brahms, Intermezzo in A Major, op. 76, no. 6](http://open.spotify.com/track/0gRXdKDoRbSBWCpQQ3lnEO) – A section – [Score](http://javanese.imslp.info/files/imglnks/usimg/7/71/IMSLP02511-Brahms_-_Intermezzo__A_Major__Op.76_No.6.pdf)
 
 - conduct in four, two beats per measure (hypermetric 2)  
 - rubato and extensive use of polyrhythm
 
 #### Intermediate:
 
-6\) [Brahms, Quartet in C minor, op. 51, no. 1 (II)](http://open.spotify.com/track/2TeNTe71wFgY6QJwxGpOq3) – B section (2:14, p. 16, rehearsal E (m. 29)) [Score](http://javanese.imslp.info/files/imglnks/usimg/0/04/IMSLP218082-SIBLEY1802.15421.3bf8-39087009278898score.pdf)
+6\) [Brahms, Quartet in C minor, op. 51, no. 1 (II)](http://open.spotify.com/track/2TeNTe71wFgY6QJwxGpOq3) – B section (2:14, p. 16, rehearsal E (m. 29)) – [Score](http://javanese.imslp.info/files/imglnks/usimg/0/04/IMSLP218082-SIBLEY1802.15421.3bf8-39087009278898score.pdf)
 
 - conduct in three, three beats per measure (hypermetric 1, due to tempo)  
 - could conduct larger downbeats every other measure to reinforce hypermetric regularity  
 - also possible to conduct in a very slow, subdivided two, one beat per measure (hypermetric 2)  
 - note the use of polyrhythm
 
-7\) [Schubert, String Quintet in C Major, D. 956 (II)](http://open.spotify.com/track/3SGf5oDjdYXRyTd1bVgP3B) – B section (4:47, p. 20, m. 29) [Score](http://petrucci.mus.auth.gr/imglnks/usimg/5/5e/IMSLP35019-PMLP06343-Schubert_String_Quintet.pdf)
+7\) [Schubert, String Quintet in C Major, D. 956 (II)](http://open.spotify.com/track/3SGf5oDjdYXRyTd1bVgP3B) – B section (4:47, p. 20, m. 29) – [Score](http://petrucci.mus.auth.gr/imglnks/usimg/5/5e/IMSLP35019-PMLP06343-Schubert_String_Quintet.pdf)
 
 - conduct in four, four beats per measure (hypermetric 1, due to expansiveness of meter)  
 - simply conducting the meter is sufficient for this exercise (actual phrase structure or hypermeter does not need to be considered)
 
-8\) [Beethoven, Piano Sonata in A<span class="accidental">&#9837;</span> Major, op. 110 (II)](http://open.spotify.com/track/7tNWxDJqgSgQNn0p72zIjv) – entire movement (p. 7) [Score](http://imslp.nl/imglnks/usimg/d/d9/IMSLP00031-Beethoven__L.v._-_Piano_Sonata_31.pdf)
+8\) [Beethoven, Piano Sonata in A<span class="accidental">&#9837;</span> Major, op. 110 (II)](http://open.spotify.com/track/7tNWxDJqgSgQNn0p72zIjv) – entire movement (p. 7) – [Score](http://imslp.nl/imglnks/usimg/d/d9/IMSLP00031-Beethoven__L.v._-_Piano_Sonata_31.pdf)
 
 - conduct in four, one beat per measure (hypermetric 4)  
 - consult score regarding ritardando in mm. 33–35  
 - note three “extra” measures near the end of the large B section (mm. 72–74) (it could be argued that mm. 73–75 are the extra measures, but for our purposes conduct a hypermetric downbeat at m. 75)
 
-9\) [Haydn, String Quartet in D Major, op. 20, no. 4 (III)](http://open.spotify.com/track/0Iu3nq1qHIXs7IVUT61XyN) – Menuetto (p. 18) [Score](http://conquest.imslp.info/files/imglnks/usimg/9/9c/IMSLP05271-Haydn_-_Op._20__No._4.pdf)
+9\) [Haydn, String Quartet in D Major, op. 20, no. 4 (III)](http://open.spotify.com/track/0Iu3nq1qHIXs7IVUT61XyN) – Menuetto (p. 18) – [Score](http://conquest.imslp.info/files/imglnks/usimg/9/9c/IMSLP05271-Haydn_-_Op._20__No._4.pdf)
 
 - conduct in four, one beat per measure (hypermetric 4)  
 - 4+4 / 8+4  
 - note sequence with imitation and hemiola, containing eight (!) beats per iteration, during the B section (the rhythmic complexity in this example would in fact more properly be described as “hemiola” than “syncopation”)
 
-10\) [Beethoven, String Quartet in B<span class="accidental">&#9837;</span> Major, op. 18, no. 6 (III)](http://open.spotify.com/track/7mlyuTcjBYwfbiTKzupRfT) – A section of Scherzo (p. 11) [Score](http://imslp.nl/imglnks/usimg/c/c7/IMSLP04760-Beethoven_-_String_Quartet_No.6_Dover.pdf)
+10\) [Beethoven, String Quartet in B<span class="accidental">&#9837;</span> Major, op. 18, no. 6 (III)](http://open.spotify.com/track/7mlyuTcjBYwfbiTKzupRfT) – A section of Scherzo (p. 11) – [Score](http://imslp.nl/imglnks/usimg/c/c7/IMSLP04760-Beethoven_-_String_Quartet_No.6_Dover.pdf)
 
 - conduct in four, one beat per measure (hypermetric 4)  
 - extensive use of hemiola  
@@ -406,7 +406,7 @@ The instructor (or student leader/presenter) in many cases will find it helpful 
 
 #### Difficult:
 
-11\) [Brahms, Capriccio in C Major, op. 76, no. 8](http://open.spotify.com/track/1L736bAHszoywHiqwuLhuk) – entire piece [Score](http://petrucci.mus.auth.gr/imglnks/usimg/e/e8/IMSLP02513-Brahms_-_Capriccio__C_Major__Op.76_No.8.pdf)
+11\) [Brahms, Capriccio in C Major, op. 76, no. 8](http://open.spotify.com/track/1L736bAHszoywHiqwuLhuk) – entire piece – [Score](http://petrucci.mus.auth.gr/imglnks/usimg/e/e8/IMSLP02513-Brahms_-_Capriccio__C_Major__Op.76_No.8.pdf)
 
 - conduct in two, one beat per measure (hypermetric 2)  
   - or conduct in four, two beats per measure (hypermetric 2)  
@@ -414,7 +414,7 @@ The instructor (or student leader/presenter) in many cases will find it helpful 
 - measures 27–29 form a three-bar unit  
 - extensive use of hemiola, rubato, and tempo fluctuation
 
-12\) [Brahms, Capriccio in D minor, op. 116, no. 1](http://open.spotify.com/track/4oKSj9WWEjITmYm5FDXLaU) – entire piece [Score](http://javanese.imslp.info/files/imglnks/usimg/2/23/IMSLP01524-Bp27.pdf)
+12\) [Brahms, Capriccio in D minor, op. 116, no. 1](http://open.spotify.com/track/4oKSj9WWEjITmYm5FDXLaU) – entire piece – [Score](http://javanese.imslp.info/files/imglnks/usimg/2/23/IMSLP01524-Bp27.pdf)
 
 - conduct in four, one beat per measure (hypermetric 4), except:  
   - conduct measures 53–58 in hypermetric 3  
@@ -448,87 +448,87 @@ Overall, the difficulty designations here are more subjective. Among other consi
 
 #### Easy:
 
-1\) [Beethoven, Symphony no. 8 in F Major, op. 93 (I)](http://open.spotify.com/track/5ji8DgvImbtfsOY2916YWz) [Score](http://ks.imslp.info/files/imglnks/usimg/2/2a/IMSLP00092-Beethoven_Symphony_No.8_Mov.1.pdf)
+1\) [Beethoven, Symphony no. 8 in F Major, op. 93 (I)](http://open.spotify.com/track/5ji8DgvImbtfsOY2916YWz) – [Score](http://ks.imslp.info/files/imglnks/usimg/2/2a/IMSLP00092-Beethoven_Symphony_No.8_Mov.1.pdf)
 
 - 4+4+3 (with elision)
 
-2\) [Mozart, Piano Sonata in C Major, K. 309 (III)](http://open.spotify.com/track/5MhIwJ7Hqs4e4bJmO3AsVA) (p. 11) [Score](http://petrucci.mus.auth.gr/imglnks/usimg/8/8d/IMSLP70205-PMLP01840-KV_309.pdf)
+2\) [Mozart, Piano Sonata in C Major, K. 309 (III)](http://open.spotify.com/track/5MhIwJ7Hqs4e4bJmO3AsVA) (p. 11) – [Score](http://petrucci.mus.auth.gr/imglnks/usimg/8/8d/IMSLP70205-PMLP01840-KV_309.pdf)
 
 - 8+11 (with extension and what [William Caplin](https://openlibrary.org/books/OL679075M/Classical_form) refers to as accompanimental overlap (not elision) at m. 19)  
 - for a more clear example of an accompanimental overlap, see Haydn, *Piano Sonata in C Major,* Hob. XVI, no. 35 (I), m. 8 [Score](http://javanese.imslp.info/files/imglnks/usimg/2/2b/IMSLP58791-PMLP01715-Haydn--Piano-Sonata-No35--Ed-Boileau.pdf)
 
-3\) [Mozart, Piano Sonata in C Major, K. 279 (III)](http://open.spotify.com/track/7sR50dVGwqr61epLHltZzn) (p. 10) [Score](http://imslp.nl/imglnks/usimg/0/00/IMSLP70198-PMLP01830-KV_279.pdf)
+3\) [Mozart, Piano Sonata in C Major, K. 279 (III)](http://open.spotify.com/track/7sR50dVGwqr61epLHltZzn) (p. 10) – [Score](http://imslp.nl/imglnks/usimg/0/00/IMSLP70198-PMLP01830-KV_279.pdf)
 
 - 4+6
 
-4\) [Haydn, String Quartet in G Major, op. 76, no. 1 (III)](http://open.spotify.com/track/3oSNcMkpULuFBNJtCVURKr) (p. 18) [Score](http://hz.imslp.info/files/imglnks/usimg/7/7e/IMSLP28077-PMLP57211-Op76No1.pdf)
+4\) [Haydn, String Quartet in G Major, op. 76, no. 1 (III)](http://open.spotify.com/track/3oSNcMkpULuFBNJtCVURKr) (p. 18) – [Score](http://hz.imslp.info/files/imglnks/usimg/7/7e/IMSLP28077-PMLP57211-Op76No1.pdf)
 
 - 4+6
 
 #### Intermediate:
 
-5\) [Mozart, Piano Sonata in F Major, K. 533 (III)](http://open.spotify.com/track/33VtuDdMMsCqAvmqUB7YxF) (p. 15) [Score](http://imslp.nl/imglnks/usimg/f/fc/IMSLP70213-PMLP01854-KV_533.pdf)
+5\) [Mozart, Piano Sonata in F Major, K. 533 (III)](http://open.spotify.com/track/33VtuDdMMsCqAvmqUB7YxF) (p. 15) – [Score](http://imslp.nl/imglnks/usimg/f/fc/IMSLP70213-PMLP01854-KV_533.pdf)
 
 - 6+6 (3+3 subphrases)
 
-6\) [Mozart, Piano Sonata in C Major, K. 309 (I)](http://open.spotify.com/track/1nuXKxqrvtvGVAPjfisM0m) [Score](http://petrucci.mus.auth.gr/imglnks/usimg/8/8d/IMSLP70205-PMLP01840-KV_309.pdf)
+6\) [Mozart, Piano Sonata in C Major, K. 309 (I)](http://open.spotify.com/track/1nuXKxqrvtvGVAPjfisM0m) – [Score](http://petrucci.mus.auth.gr/imglnks/usimg/8/8d/IMSLP70205-PMLP01840-KV_309.pdf)
 
 - 7+7+3+3 (with elisions)
 
-7\) [Schubert, Twelve German Dances, D. 790, no. 1 in D Major](http://open.spotify.com/track/5Vu1b2bHIZqvzFhYwaZD1H) [Score](http://conquest.imslp.info/files/imglnks/usimg/a/a4/IMSLP03148-Schubert_-_12_Landler__D.790__Op.171_.pdf)
+7\) [Schubert, Twelve German Dances, D. 790, no. 1 in D Major](http://open.spotify.com/track/5Vu1b2bHIZqvzFhYwaZD1H) – [Score](http://conquest.imslp.info/files/imglnks/usimg/a/a4/IMSLP03148-Schubert_-_12_Landler__D.790__Op.171_.pdf)
 
 - 10+10 at m. 33
 
-8\) [Mozart, Piano Sonata in G Major, K. 283 (I)](http://open.spotify.com/track/4BPfBGtWuJ7v5hQZb7xLdd) [Score](http://ks.imslp.info/files/imglnks/usimg/7/7c/IMSLP70203-PMLP01837-KV_283.pdf)
+8\) [Mozart, Piano Sonata in G Major, K. 283 (I)](http://open.spotify.com/track/4BPfBGtWuJ7v5hQZb7xLdd) – [Score](http://ks.imslp.info/files/imglnks/usimg/7/7c/IMSLP70203-PMLP01837-KV_283.pdf)
 
 - 4+6+6 (with hemiola)
 
-9\) [Mozart, Piano Sonata in D Major, K. 311 (I)](http://open.spotify.com/track/1n6jLsy7lv9BtUOW3EiSGw) [Score](http://petrucci.mus.auth.gr/imglnks/usimg/f/f8/IMSLP70207-PMLP01842-KV_311.pdf)
+9\) [Mozart, Piano Sonata in D Major, K. 311 (I)](http://open.spotify.com/track/1n6jLsy7lv9BtUOW3EiSGw) – [Score](http://petrucci.mus.auth.gr/imglnks/usimg/f/f8/IMSLP70207-PMLP01842-KV_311.pdf)
 
 - 3+3 / 4+6 / 4+3 (with elisions)
 
-10\) [Mozart, Piano Sonata in A Major, K. 331 (II)](http://open.spotify.com/track/42IIAtmJhQuO7TYH0dZJpD) (p. 11) [Score](http://conquest.imslp.info/files/imglnks/usimg/a/a9/IMSLP70209-PMLP01846-KV_331.pdf)
+10\) [Mozart, Piano Sonata in A Major, K. 331 (II)](http://open.spotify.com/track/42IIAtmJhQuO7TYH0dZJpD) (p. 11) – [Score](http://conquest.imslp.info/files/imglnks/usimg/a/a9/IMSLP70209-PMLP01846-KV_331.pdf)
 
 - 4+6 (cadences occur on beat 2)
 
-11\) [Haydn, String Quartet in F minor, op. 20, no. 5 (I)](http://open.spotify.com/track/3F1KgQJoI75WV9DSDJmKv0) [Score](http://imslp.nl/imglnks/usimg/b/bb/IMSLP05272-Haydn_-_Op._20__No._5.pdf)
+11\) [Haydn, String Quartet in F minor, op. 20, no. 5 (I)](http://open.spotify.com/track/3F1KgQJoI75WV9DSDJmKv0) – [Score](http://imslp.nl/imglnks/usimg/b/bb/IMSLP05272-Haydn_-_Op._20__No._5.pdf)
 
 - 4+(5) (with elision)
 
 #### Difficult:
 
-12\) [Mozart, Piano Sonata in C Major, K. 279 (II)](http://open.spotify.com/track/3nzEQwjc4OSNJiM0BkHeKU) (p. 7) [Score](http://imslp.nl/imglnks/usimg/0/00/IMSLP70198-PMLP01830-KV_279.pdf)
+12\) [Mozart, Piano Sonata in C Major, K. 279 (II)](http://open.spotify.com/track/3nzEQwjc4OSNJiM0BkHeKU) (p. 7) – [Score](http://imslp.nl/imglnks/usimg/0/00/IMSLP70198-PMLP01830-KV_279.pdf)
 
 - 6 (3+3)
 
-13\) [Mozart, String Quartet in F Major, K. 590 (I)](http://open.spotify.com/track/03grvyULjYb8n3Q1Fpnep2) [Score](http://javanese.imslp.info/files/imglnks/usimg/1/12/IMSLP64149-PMLP05232-Mozart_Werke_Breitkopf_Serie_14_KV590.pdf)
+13\) [Mozart, String Quartet in F Major, K. 590 (I)](http://open.spotify.com/track/03grvyULjYb8n3Q1Fpnep2) – [Score](http://javanese.imslp.info/files/imglnks/usimg/1/12/IMSLP64149-PMLP05232-Mozart_Werke_Breitkopf_Serie_14_KV590.pdf)
 
 - 3+3 / 5+4 / 3+... (STA<sub>1</sub> almost replicates FTA’s 3+3)  
 - mm. 1, 4, and 7 may be heard as hypermetrically weak
 
-14\) [Haydn, Piano Sonata in C Major, Hob. XVI: 50 (III)](http://open.spotify.com/track/333lkwQZe9C6E4lhbAP0wB) (p. 12) [Score](http://hz.imslp.info/files/imglnks/usimg/d/d1/IMSLP00166-Haydn_-_Piano_Sonata_No_50_in_C.pdf)
+14\) [Haydn, Piano Sonata in C Major, Hob. XVI: 50 (III)](http://open.spotify.com/track/333lkwQZe9C6E4lhbAP0wB) (p. 12) – [Score](http://hz.imslp.info/files/imglnks/usimg/d/d1/IMSLP00166-Haydn_-_Piano_Sonata_No_50_in_C.pdf)
 
 - 3+4+? (with elision)
 
-15\) [Mozart, String Quartet in D Major, K. 499 (I)](http://open.spotify.com/track/4ZFGttlA5poknN821VogDF) [Score](http://ks.imslp.info/files/imglnks/usimg/f/f8/IMSLP64144-PMLP05227-Mozart_Werke_Breitkopf_Serie_14_KV499.pdf)
+15\) [Mozart, String Quartet in D Major, K. 499 (I)](http://open.spotify.com/track/4ZFGttlA5poknN821VogDF) – [Score](http://ks.imslp.info/files/imglnks/usimg/f/f8/IMSLP64144-PMLP05227-Mozart_Werke_Breitkopf_Serie_14_KV499.pdf)
 
 - elision at m. 20
 
-16\) [Mozart, String Quintet in G minor, K. 516 (II)](http://open.spotify.com/track/3MWCYt3UyyvdlZhMxnsY4i) (p. 9) [Score](http://hz.imslp.info/files/imglnks/usimg/6/68/IMSLP01923-Mozart_-_String_Quintet_No.4_Score.pdf)
+16\) [Mozart, String Quintet in G minor, K. 516 (II)](http://open.spotify.com/track/3MWCYt3UyyvdlZhMxnsY4i) (p. 9) – [Score](http://hz.imslp.info/files/imglnks/usimg/6/68/IMSLP01923-Mozart_-_String_Quintet_No.4_Score.pdf)
 
 - 4+5+4 (with syncopation and elision)
 
-17\) [Mozart, Piano Sonata in B<span class="accidental">&#9837;</span> Major, K. 333 (II)](http://open.spotify.com/track/2gHIkLnapwV5yrA8k3wPOP) (p. 9) [Score](http://hz.imslp.info/files/imglnks/usimg/a/a9/IMSLP70211-PMLP01849-KV_333.pdf)
+17\) [Mozart, Piano Sonata in B<span class="accidental">&#9837;</span> Major, K. 333 (II)](http://open.spotify.com/track/2gHIkLnapwV5yrA8k3wPOP) (p. 9) – [Score](http://hz.imslp.info/files/imglnks/usimg/a/a9/IMSLP70211-PMLP01849-KV_333.pdf)
 
 - 4+4+5 (with accompanimental lead-in at m. 8)
 
-18\) [Beethoven, String Quartet in B<span class="accidental">&#9837;</span> Major, op. 18, no. 6 (III)](http://open.spotify.com/track/7mlyuTcjBYwfbiTKzupRfT) (p. 11) [Score](http://imslp.nl/imglnks/usimg/c/c7/IMSLP04760-Beethoven_-_String_Quartet_No.6_Dover.pdf)
+18\) [Beethoven, String Quartet in B<span class="accidental">&#9837;</span> Major, op. 18, no. 6 (III)](http://open.spotify.com/track/7mlyuTcjBYwfbiTKzupRfT) (p. 11) – [Score](http://imslp.nl/imglnks/usimg/c/c7/IMSLP04760-Beethoven_-_String_Quartet_No.6_Dover.pdf)
 
 - 4+4 / 7+7  
 - extensive use of syncopation and hemiola  
 - A section used in exercise set \#3
 
-19\) [Haydn, Sonata in D Major, Hob. XVI, no. 51 (II)](http://open.spotify.com/track/0MxgpoSlFxgRBSqyDGzrSV) (p. 6) [Score](http://ks.imslp.info/files/imglnks/usimg/d/d0/IMSLP109677-PMLP01731-Haydn-Piano_Sonate_No61-XVI51-Roitzsch.pdf)
+19\) [Haydn, Sonata in D Major, Hob. XVI, no. 51 (II)](http://open.spotify.com/track/0MxgpoSlFxgRBSqyDGzrSV) (p. 6) – [Score](http://ks.imslp.info/files/imglnks/usimg/d/d0/IMSLP109677-PMLP01731-Haydn-Piano_Sonate_No61-XVI51-Roitzsch.pdf)
 
 - conduct in hypermetric 2 through entire movement, adjusting as necessary due to frequent “extra” or “missing” single measures    
 - extensive use of syncopation
