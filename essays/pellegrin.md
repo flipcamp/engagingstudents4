@@ -120,46 +120,46 @@ Note that the track times listed indicate when the trading begins, though it may
 1\) [Ella Fitzgerald and Duke Ellington – “It Don’t Mean a Thing (If It Ain’t Got That Swing)” (*Ella and Duke at the Côte D’Azur*)](http://open.spotify.com/track/1U60vGK1emZK7rjDeeUzdM)  
 
 - 2:33 – vocalists and saxophone trade fours and eights in various combinations  
-- conduct in a medium 4 (hypermetric 2)
+- conduct in a medium four (hypermetric 2)
 
 2\) [Miles Davis – “Four” (*Workin’ with the Miles Davis Quintet*)](http://open.spotify.com/track/644zdVPhE3YFFnAom35JGi)
 
 - 5:47 – trumpet and drums trade fours    
-- conduct in a medium 4 (hypermetric 2)
+- conduct in a medium four (hypermetric 2)
 
 3\) [Hank Mobley – “Split Feelin’s” (*Soul Station*)](http://open.spotify.com/track/3V3r5GlxyDjubv9TiZuw1s)
 
 - 3:31 – saxophone and drums trade fours    
-- conduct in a medium-fast 4 (hypermetric 2)
+- conduct in a medium-fast four (hypermetric 2)
 
 4\) [Max Roach – “Ezz-Thetic” (*Max Roach Plus Four*)](http://open.spotify.com/track/4RHjxxsQx0Pptxxae2wCTZ)
 
 - 6:29 – saxophone, trumpet, and drums trade fours    
-- conduct in a fast 4 (hypermetric 2)
+- conduct in a fast four (hypermetric 2)
 
 #### Intermediate:
 
 5\) [Dizzy Gillespie, Sonny Stitt, and Sonny Rollins – “Eternal Triangle” (*Sonny Side Up*)](http://open.spotify.com/track/74F6yjhKkRIJHZPzFnXeSm)
 
 - 12:44 – trumpet and drums trade fours    
-- conduct in a fast 4 (hypermetric 2)    
+- conduct in a fast four (hypermetric 2)    
 - famous “tenor battle” of trading solos at 6:21, though perhaps less appropriate for our aims here
 
 6\) [Hank Mobley – “No Room for Squares” (*No Room for Squares*)](http://open.spotify.com/track/5FsKNbwv7BlR7crawTE3IZ)
 
 - 5:00 – saxophone, trumpet, and drums trade fours    
-- conduct in a medium-fast 4 (hypermetric 2)
+- conduct in a medium-fast four (hypermetric 2)
 
 7\) [Buddy Rich and Max Roach – “Figure Eights” (*Rich versus Roach*)](http://open.spotify.com/track/23EssvWYUPdrxyFpwDQkt0)
 
 - drummers Rich and Roach trade eights for entire performance    
-- conduct in a medium 4 (hypermetric 4)    
+- conduct in a medium four (hypermetric 4)    
 - structure begins to breakdown at 3:38, when two beats appear to be added between solos
 
 8\) [Oscar Peterson and Clark Terry – “Shaw ‘Nuff” (*Oscar Peterson and Clark Terry*)](http://open.spotify.com/track/5bKgHCmdsGNLBLV64i5xDS)
 
 - 2:36 – trumpet and piano trade eights with no accompaniment (duo album)    
-- conduct in a very fast 4 (hypermetric 2)    
+- conduct in a very fast four (hypermetric 2)    
 - Part of the humor and drama of this trading eights passage is the dialog the musicians have around tempo: Peterson pushes and Terry pulls back (sometimes in extreme fashion!); one must adapt to these fluctuations in conducting through the passage.
 
 #### Difficult:
@@ -167,7 +167,7 @@ Note that the track times listed indicate when the trading begins, though it may
 9\) [Snarky Puppy – “Lingus” (*We Like it Here*)](http://open.spotify.com/track/5P6vo51dtkBYWXswH1twvK)
 
 - 8:12 – synthesizer and ensemble trade eights and then fours  
-- conduct in a fast 4 (hypermetric 1, according to transcription below)  
+- conduct in a fast four (hypermetric 1, according to transcription below)  
 - a transcription of the synthesizer solo and bass pattern by Yehezkel Raz can be downloaded [*here*](https://www.youtube.com/watch?v=sCwSqqOdFM0), and may be a useful tool  
 - note the extended pickup (one and a half measures) keyboardist Cory Henry plays leading into his penultimate four-measure solo—the trading fours structure is unaffected by this  
 - viral video of the live-audience studio recording [*here*](https://www.youtube.com/watch?v=L_XJ_s5IsQc) (Cory Henry solo begins at 4:17)
@@ -183,7 +183,7 @@ Note that the track times listed indicate when the trading begins, though it may
 11\) [Bill Evans – “T.T.T. (Twelve Tone Tune)” (*Blue in Green: The Concert in Canada*)](http://open.spotify.com/track/3Da9xKBgB9zEU0y1nGALtv)
 
 - 0:34 – (beginning of solo section): drums, bass, and piano trade choruses (twelves), each unaccompanied  
-- conduct in a medium-fast 4 (hypermetric 2)
+- conduct in a medium-fast four (hypermetric 2)
 
 [*Return to description of Exercise Set 1.*](#onedesc)
 
@@ -213,12 +213,12 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 
 1\) [Charlie Parker – “Scrapple From the Apple” (from *Jazz Masters* compilation)](http://open.spotify.com/track/7flQESHoCoDzirWF4IkKGq)
 
-- conduct in a medium 4 (hypermetric 2)  
+- conduct in a medium four (hypermetric 2)  
 - 32-measure AABA form (chord changes based on “I Got Rhythm”)
 
 2\) [Miles Davis – “All Blues” (*Kind of Blue*)](http://open.spotify.com/track/0TUa7gBg7LJH6B8dkNVioU)
 
-- conduct in a slow 4 (hypermetric 2)  
+- conduct in a slow four (hypermetric 2)  
 - twelve-measure form  
 - eight-measure intro (vamp)  
   - head/form starts when trumpet enters  
@@ -226,7 +226,7 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 
 3\) [Thelonious Monk and John Coltrane – “Nutty” (*Thelonious Monk with John Coltrane*)](http://open.spotify.com/track/0sWqnxofErf7mk8VKgbrXw)
 
-- conduct in a medium-slow 4 (hypermetric 2)  
+- conduct in a medium-slow four (hypermetric 2)  
 - 32-measure AABA form  
 - piano drops out shortly into Coltrane’s solo
 
@@ -235,7 +235,7 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 4\) [Hiromi (Hiromi Uehara) – “Sicilian Blue” (*Place to Be*)](http://open.spotify.com/track/11jkvvgmAb9wDl6QRZ0Ahf)
 
 - one introductory chorus played freely, followed by vamp/intro, then head  
-- conduct in a medium-slow 4 (hypermetric 2)  
+- conduct in a medium-slow four (hypermetric 2)  
   - but must adjust at the end of each chorus due to seven-measure phrase  
 - AABA form (8+8+14+7)  
   - fourteen-measure bridge divided 8+6  
@@ -244,16 +244,16 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
   - greater use of true rubato  
   - an irregular phrase length produced by elision at the end of the form (end of bridge also irregular)  
 - transcription of the head by A-len Yue available [*here*](https://imgv2-2-f.scribdassets.com/img/document/208166360/original/c4ab323d57/1455814456)  
-- a simpler option is to conduct in 2 throughout (hypermetric 1)
+- a simpler option is to conduct in two throughout (hypermetric 1)
 
 5\) [Wynton Kelly Trio with Wes Montgomery – “Impressions” (*Smokin’ at the Half Note*)](http://open.spotify.com/track/4fTQabajAjSZfEZkfGmGRi)
 
-- conduct in a fast 4 (hypermetric 2)  
+- conduct in a fast four (hypermetric 2)  
 - 32-measure form (AABA)
 
 6\) [John Coltrane – “Countdown” (*Giant Steps*)](http://open.spotify.com/track/0m9kjCcQ6jSGBNuTAr0d0i)
 
-- conduct in a very fast 4 (hypermetric 2)  
+- conduct in a very fast four (hypermetric 2)  
 - 32-measure form (AA)  
 - order of events (form gets *easier* to hear as performance progresses):  
   - one chorus of drum solo, plus four extra measures  
@@ -265,7 +265,7 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 7\) [John Coltrane – “Resolution” (*A Love Supreme*)](http://open.spotify.com/track/12drI98LeZfgwwpdVws9Zi)
 
 - solo bass introduction (head starts at 0:21)  
-- conduct in a medium 4 (hypermetric 2)  
+- conduct in a medium four (hypermetric 2)  
 - for this example, simply keep track of the eight-measure hypermetric units (four conducted measures) and do not be concerned with the larger formal structure  
   - the low fifths in the piano often occur on the downbeats of these eight-measure hypermetric downbeats  
 - during the solos, the chord changes of the head are not followed  
@@ -274,7 +274,7 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 
 8\) [Thelonious Monk – "Evidence” (*Thelonious Monk Quartet with John Coltrane at Carnegie Hall*)](http://open.spotify.com/track/27AXwsIBdtxLB0YEXptH1r)
 
-- conduct in a medium 4 (hypermetric 2)  
+- conduct in a medium four (hypermetric 2)  
 - 32-measure AABA form  
 - highly syncopated theme  
   - consult [*lead sheet*](http://2.bp.blogspot.com/-SsC5TsNP_Q8/UBv-xMCq1FI/AAAAAAAAAWM/Rpz9GRtmWgQ/s1600/Evidence.png) for assistance (also available from Hal Leonard in *Thelonious Monk Fake Book*)  
@@ -285,7 +285,7 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 9\) [Chick Corea – “Steps” (*Now He Sings, Now He Sobs*)](http://open.spotify.com/track/725Y4Kg5DbwQjVt6UpznuF)
 
 - solo piano introduction (free) (head starts at 0:47)  
-- conduct in a very fast 4 (hypermetric 2)  
+- conduct in a very fast four (hypermetric 2)  
   - for an added challenge, conduct in a medium-slow 4 (hypermetric 4) (this will conflict with the melodic structure of the head, but works during the solo section)  
 - twelve-measure form  
   - head: minor blues chord changes (4+4+4), but melodic structure is 6+6  
@@ -297,13 +297,13 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 10\) [Brad Mehldau – “All the Things You Are” (*The Art of the Trio, Volume 4: Back at the Vanguard*)](http://open.spotify.com/track/77kiZTOELj5lsOanRu8vBV)
 
 - four-chorus piano introduction, head at 2:08  
-- conduct in a medium-fast 4 (hypermetric 2)  
+- conduct in a medium-fast four (hypermetric 2)  
 - in 7 (4/4 + 3/4), as with the previous Mehldau example  
   - except here one measure of 7 is equivalent to two measures of the original tune  
 - eighth-note subdivision = 4+4+3+3  
   - this is most consistently articulated by the bass  
 - AABA with twelve measures in last A section (36-measure form)  
-- one could also conduct this in a medium 3 (hypermetric 2), feeling a 2+2+3 quarter-note subdivision of the meter (this is harder in that the conducting is slower, but is easier when the bass walks quarter notes rather than articulating the 4+4+3+3 eighth-note subdivision)  
+- one could also conduct this in a medium three (hypermetric 2), feeling a 2+2+3 quarter-note subdivision of the meter (this is harder in that the conducting is slower, but is easier when the bass walks quarter notes rather than articulating the 4+4+3+3 eighth-note subdivision)  
 - transcription of piano solo by Tom Hewson available [*here*](https://tomhewson.files.wordpress.com/2013/12/allthethings.pdf)
 
 11\) [Robert Glasper – “G&B” (*In My Element*)](http://open.spotify.com/track/5P22GrIprYmnFZoR3P6142)
@@ -311,9 +311,9 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 - AAB 48-measure form (16+16+16), mixed meter  
   - head is played twice in the beginning and once at the end, preceded each time by a 16-measure vamp that closely resembles the A section (overall form is shown below)  
 - listening to the bass is helpful in following the form in this example  
-- conduct in a gently lilting 4 throughout (hypermetric 4)  
-  - conduct A sections in a medium-slow 4 (4+5+5+4) (hypermetric 4)  
-  - conduct B sections in a medium 4 (4+3+4+3) (hypermetric 4)  
+- conduct in a gently lilting four throughout (hypermetric 4)  
+  - conduct A sections in a medium-slow four (4+5+5+4) (hypermetric 4)  
+  - conduct B sections in a medium four (4+3+4+3) (hypermetric 4)  
 - overall form of performance:
 
 > vamp  
@@ -333,7 +333,7 @@ outro
     - same 7/4 groove as in the Mehldau example  
     - eighth-note subdivision: 4+4+3+3  
     - quarter-note subdivision: 4+3  
-  - an option is to conduct in a very fast 4 throughout (hypermetric 2), following the eighth-note subdivisions shown
+  - an option is to conduct in a very fast four throughout (hypermetric 2), following the eighth-note subdivisions shown
 
 [*Return to description of Exercise Set 2.*](#twodesc)
 
