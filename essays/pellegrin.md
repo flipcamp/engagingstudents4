@@ -269,7 +269,7 @@ Yet another alternative is to play the chord roots on the piano as they occur (i
 - for this example, simply keep track of the eight-measure hypermetric units (four conducted measures) and do not be concerned with the larger formal structure  
   - the low fifths in the piano often occur on the downbeats of these eight-measure hypermetric downbeats  
 - during the solos, the chord changes of the head are not followed  
-  - rather, a modal approach is taken, based on E&#9837; Aeolian, with increasing amounts of outside playing (playing notes outside of the mode) as each solo progresses  
+  - rather, a modal approach is taken, based on E<span class="accidental">&#9837;</span> Aeolian, with increasing amounts of outside playing (playing notes outside of the mode) as each solo progresses  
 - saxophone transcription of the album is available from Hal Leonard
 
 8\) [Thelonious Monk – "Evidence” (*Thelonious Monk Quartet with John Coltrane at Carnegie Hall*)](http://open.spotify.com/track/27AXwsIBdtxLB0YEXptH1r)
