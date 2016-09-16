@@ -115,7 +115,7 @@ Note that the track times listed indicate when the trading begins, though it may
 
 [Spotify playlist for Exercise Set \#1](http://open.spotify.com/user/pellegrin42/playlist/6GeTF9W31ilNk3NNkTed8i) (hyperlinks are also embedded in each individual example)
 
-### Easy:
+#### Easy:
 
 1\) [Ella Fitzgerald and Duke Ellington – “It Don’t Mean a Thing (If It Ain’t Got That Swing)” (*Ella and Duke at the Côte D’Azur*)](http://open.spotify.com/track/1U60vGK1emZK7rjDeeUzdM)  
 
