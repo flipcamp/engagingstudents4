@@ -177,7 +177,7 @@ Note that the track times listed indicate when the trading begins, though it may
 - 4:36 – piano and drums trade fours, in 7/4  
 - one measure of 7/4 is equivalent to one measure of the original tune  
 - conduct in a medium-fast 4: eighth subdivision = 4+4+3+3 (hypermetric 1)  
-- technically the 7/4 is 4/4 + 3/4—with the 3/4 felt in 2, as in a jazz waltz—but for these pedagogical purposes it is simplest to think of 4+4+3+3  
+  - technically the 7/4 is 4/4 + 3/4—with the 3/4 felt in 2, as in a jazz waltz—but for these pedagogical purposes it is simplest to think of 4+4+3+3  
 - peformance begins 2+2+3 / 2+2+3 but later settles into 4+4 / 3+3
 
 11\) [Bill Evans – “T.T.T. (Twelve Tone Tune)” (*Blue in Green: The Concert in Canada*)](http://open.spotify.com/track/3Da9xKBgB9zEU0y1nGALtv)
@@ -203,7 +203,7 @@ The instructor or leader may choose to indicate the beginning of each chorus as 
 
 An alternative to hypermetric conducting would be to project a lead sheet of the composition and point to the chord changes or measures as they go by.
 
-Another option is to project a transcription of the performance or assign it for study. However, note that while it can be revealing to study transcriptions, their quality varies greatly, and even an excellent transcription constitutes only a guide to listening, as it is not equivalent to a score. When available, information on suitable transcriptions has been provided below. (Full citations may be found in the bibliography.) Note that piano chords tend to be the least reliable element of transcriptions. (Students could potentially take part in transcription activities themselves, but be aware that transcription work is often more time-consuming than anticipated, particularly for those who are new to it.)
+Another option is to project a transcription of the performance or assign it for study. However, note that while it can be revealing to study transcriptions, their quality varies greatly, and even an excellent transcription constitutes only a guide to listening, as it is not equivalent to a score. When available, information on suitable transcriptions has been provided below. Note that piano chords tend to be the least reliable element of transcriptions. (Students could potentially take part in transcription activities themselves, but be aware that transcription work is often more time-consuming than anticipated, particularly for those who are new to it.)
 
 Yet another alternative is to play the chord roots on the piano as they occur (in the form), thus clarifying the stable harmonic (and rhythmic) underpinnings provided by the form. This is effective because roots are frequently deemphasized in jazz, even by bassists. Furthermore, even when roots are clearly present, the chord changes during solos are essentially presented contrapuntally—the soloist’s eighth notes and the bassist’s quarter notes create 2:1 counterpoint. (Comping chords are not always present, or may be sparse, ambiguous, complex, or themselves presented linearly.) Playing roots on the piano in effect analyzes the surface, the aural equivalent of stemming noteheads or providing Roman numerals. The difficulties of hearing the chord changes in jazz are similar to the difficulties of performing a harmonic analysis of a two-voice contrapuntal piece. A chief difference is that in jazz, the “analysis” more or less already exists in the form of lead sheets.
 
@@ -377,7 +377,7 @@ The instructor (or student leader/presenter) in many cases will find it helpful 
 6\) [Brahms, Quartet in C minor, op. 51, no. 1 (II)](http://open.spotify.com/track/2TeNTe71wFgY6QJwxGpOq3) – B section (2:14, p. 16, rehearsal E (m. 29)) – [Score](http://javanese.imslp.info/files/imglnks/usimg/0/04/IMSLP218082-SIBLEY1802.15421.3bf8-39087009278898score.pdf)
 
 - conduct in three, three beats per measure (hypermetric 1, due to tempo)  
-- could conduct larger downbeats every other measure to reinforce hypermetric regularity  
+  - could conduct larger downbeats every other measure to reinforce hypermetric regularity  
 - also possible to conduct in a very slow, subdivided two, one beat per measure (hypermetric 2)  
 - note the use of polyrhythm
 
@@ -455,7 +455,7 @@ One might begin working through this playlist without telling students what they
 2\) [Mozart, Piano Sonata in C Major, K. 309 (III)](http://open.spotify.com/track/5MhIwJ7Hqs4e4bJmO3AsVA) (p. 11) – [Score](http://petrucci.mus.auth.gr/imglnks/usimg/8/8d/IMSLP70205-PMLP01840-KV_309.pdf)
 
 - 8+11 (with extension and what [William Caplin](https://openlibrary.org/books/OL679075M/Classical_form) refers to as "accompanimental overlap" (not elision) at m. 19)  
-- for a more clear example of an accompanimental overlap, see Haydn, Piano Sonata in C Major, Hob. XVI, no. 35 (I), m. 8 –  [Score](http://javanese.imslp.info/files/imglnks/usimg/2/2b/IMSLP58791-PMLP01715-Haydn--Piano-Sonata-No35--Ed-Boileau.pdf)
+  - for a more clear example of an accompanimental overlap, see Haydn, Piano Sonata in C Major, Hob. XVI, no. 35 (I), m. 8 –  [Score](http://javanese.imslp.info/files/imglnks/usimg/2/2b/IMSLP58791-PMLP01715-Haydn--Piano-Sonata-No35--Ed-Boileau.pdf)
 
 3\) [Mozart, Piano Sonata in C Major, K. 279 (III)](http://open.spotify.com/track/7sR50dVGwqr61epLHltZzn) (p. 10) – [Score](http://imslp.nl/imglnks/usimg/0/00/IMSLP70198-PMLP01830-KV_279.pdf)
 
