@@ -77,7 +77,7 @@ Michael McClimon, Furman University
 Garrett Michaelsen, University of Massachusetts–Lowell, special issue co-editor  
 Brian Moseley, The University at Buffalo, SUNY  
 Meghan Naxer, Kent State University, production editor  
-Colin Roust, University of Kansas 
+Colin Roust, University of Kansas  
 Keith Salley, Shenandoah University  
 Kris Shaffer, University of Mary Washington, production editor  
 Daniel Stevens, University of Delaware  
