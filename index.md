@@ -23,7 +23,7 @@ Rich Pellegrin
 [Multi-Part Group Rhythm Exercises]({{ site.baseurl }}/essays/stuart.html)  
 Rory Stuart
 
-[On using jazz to strengthen the teaching of rhythm and meter in the music theory classroom]({{ site.baseurl }}/essays/thomas.html)  
+[On Using Jazz to Strengthen the Teaching of Rhythm and Meter in the Music Theory Classroom]({{ site.baseurl }}/essays/thomas.html)  
 Margaret Thomas
 
 
